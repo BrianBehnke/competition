@@ -1,0 +1,930 @@
+gameId,playId,quarter,GameClock,possessionTeam,yardlineSide,yardlineNumber,HomeScoreBeforePlay,VisitorScoreBeforePlay,HomeScoreAfterPlay,VisitorScoreAfterPlay,isPenalty,SpecialTeamsPlayType,KickReturnYardage,PlayResult,playDescription
+2017091710,1060,2,12:39:00,DAL,DAL,35,7,7,7,7,FALSE,Kickoff,-999,46,"D.Bailey kicks 71 yards from DAL 35 to DEN -6. C.Latimer to DEN 19 for 25 yards (J.Heath). FUMBLES (J.Heath), and recovers at DEN 19. C.Latimer to DEN 19 for no gain (J.Heath)."
+2017091007,36,1,15:00:00,TEN,TEN,35,0,0,0,0,FALSE,Kickoff,0,15,R.Succop kicks onside 15 yards from TEN 35 to 50. S.Luani (didn't try to advance) to 50 for no gain (T.Smith).
+2017091705,4069,4,5:04:00,NO,NO,35,20,36,20,36,FALSE,Kickoff,0,9,W.Lutz kicks onside 9 yards from NO 35 to NO 44. C.Hogan (didn't try to advance) to NO 44 for no gain (T.Edmunds).
+2017091703,3939,4,2:11:00,JAX,JAX,35,16,37,16,37,FALSE,Kickoff,0,45,J.Myers kicks 45 yards from JAX 35 to TEN 20. E.Weems to TEN 20 for no gain (K.Cole).
+2017091700,2191,2,0:01:00,BAL,BAL,35,21,7,21,7,FALSE,Kickoff,0,24,"J.Tucker kicks onside 24 yards from BLT 35 to CLV 41, impetus ends at 50. I.Campbell (didn't try to advance) to CLV 41 for no gain (M.Judon)."
+2017091711,564,1,4:43:00,WAS,WAS,35,0,3,0,3,TRUE,Kickoff,0,63,"D.Hopkins kicks 63 yards from WAS 35 to LA 2. P.Cooper pushed ob at LA 26 for 24 yards (C.Carter). Penalty on LA-C.Littleton, Offensive Holding, offsetting, enforced at LA 2. Penalty on WAS-Q.Dunbar, Face Mask (15 Yards), offsetting."
+2017091709,3302,4,8:42:00,NYJ,NYJ,35,42,20,42,20,FALSE,Kickoff,0,13,C.Catanzaro kicks onside 13 yards from NYJ 35 to NYJ 48. D.Washington (didn't try to advance) to NYJ 48 for no gain (J.Stanford).
+2017092401,2502,2,0:01:00,BUF,BUF,35,13,13,13,13,FALSE,Kickoff,0,14,S.Hauschka kicks 14 yards from BUF 35 to BUF 49. Z.Anderson (didn't try to advance) to BUF 49 for no gain (R.Blanton). Squib kick.
+2017092410,4389,4,1:50:00,SEA,SEA,35,33,27,33,27,FALSE,Kickoff,0,12,(Onside Kick formation) B.Walsh kicks onside 12 yards from SEA 35 to SEA 47. D.Walker (didn't try to advance) to SEA 47 for no gain (J.Coleman).
+2017092405,3849,4,6:56:00,CLE,CLE,35,31,21,31,21,FALSE,Kickoff,0,12,Z.Gonzalez kicks onside 12 yards from CLV 35 to CLV 47. J.Doyle (didn't try to advance) to CLV 47 for no gain.
+2017092405,4303,4,2:04:00,CLE,CLE,35,31,28,31,28,FALSE,Kickoff,0,10,Z.Gonzalez kicks onside 10 yards from CLV 35 to CLV 45. M.Farley (didn't try to advance) to CLV 45 for no gain.
+2017100101,2292,3,10:55:00,BUF,NA,NA,10,14,10,14,FALSE,Kickoff,0,32,"S.Hauschka kicks 33 yards from 50 to ATL 17. A.Roberts to ATL 17 for no gain (L.Alexander). FUMBLES (L.Alexander), recovered by ATL-B.Garland at ATL 18."
+2017100105,3257,4,8:31:00,HOU,HOU,35,54,14,54,14,TRUE,Kickoff,0,62,"K.Fairbairn kicks 62 yards from HST 35 to TEN 3. A.Jackson ran ob at TEN 19 for 16 yards (J.Todman). Penalty on TEN-E.Weems, Offensive Holding, offsetting, enforced at TEN 3. Penalty on HST-B.Scarlett, Unnecessary Roughness, offsetting."
+2017100803,2854,3,3:17:00,IND,IND,35,16,6,16,6,FALSE,Kickoff,0,56,"R.Sanchez kicks 60 yards from IND 35 to SF 5. V.Bolden MUFFS catch, touched at SF 5, and recovers at SF 9. V.Bolden to SF 9 for no gain (B.Mingo)."
+2017100801,3834,4,1:49:00,CLE,CLE,35,14,17,14,17,FALSE,Kickoff,0,10,Z.Gonzalez kicks onside 10 yards from CLV 35 to CLV 45. J.Stanford (didn't try to advance) to CLV 45 for no gain (S.DeValve).
+2017100500,4258,4,2:09:00,TB,TB,35,14,16,14,16,TRUE,Kickoff,0,2,"(Onside Kick formation) N.Folk kicks onside 7 yards from TB 35 to TB 42. N.Ebner (didn't try to advance) to TB 42 for no gain (R.Smith). PENALTY on TB-J.Evans, Offside on Free Kick, 5 yards, enforced at TB 42."
+2017101511,3897,4,4:07:00,DEN,DEN,35,10,20,10,20,TRUE,Kickoff,0,6,"(Onside Kick formation) B.McManus kicks onside 11 yards from DEN 35 to DEN 46. R.Lewis (didn't try to advance) to DEN 46 for no gain (J.Taylor). PENALTY on DEN-J.Simmons, Offside on Free Kick, 5 yards, enforced at DEN 46."
+2017101506,4276,4,1:58:00,SF,SF,35,26,24,26,24,FALSE,Kickoff,0,11,R.Gould kicks onside 11 yards from SF 35 to SF 46. F.Moreau (didn't try to advance) to SF 46 for no gain.
+2017101504,3224,3,5:56:00,DET,DET,35,45,17,45,17,FALSE,Kickoff,0,9,(Onside Kick formation) M.Prater kicks onside 9 yards from DET 35 to DET 44. N.Stupar (didn't try to advance) to DET 44 for no gain.
+2017101507,4223,4,2:02:00,TB,TB,35,38,33,38,33,FALSE,Kickoff,0,13,P.Murray kicks onside 13 yards from TB 35 to TB 48. L.Fitzgerald (didn't try to advance) to TB 48 for no gain.
+2017101502,4156,4,1:03:00,CLE,CLE,35,33,17,33,17,FALSE,Kickoff,0,16,Z.Gonzalez kicks onside 16 yards from CLV 35 to HST 49. B.Miller (didn't try to advance) to HST 49 for no gain (J.Peppers).
+2017092410,3495,4,13:59:00,SEA,SEA,35,30,20,30,20,FALSE,Kickoff,2,40,B.Walsh kicks 42 yards from SEA 35 to TEN 23. A.Jackson pushed ob at TEN 25 for 2 yards (B.McDougald).
+2017100802,3502,4,5:48:00,DET,DET,35,17,27,17,27,FALSE,Kickoff,3,51,M.Prater kicks 54 yards from DET 35 to CAR 11. C.Samuel to CAR 14 for 3 yards.
+2017091003,3631,4,3:36:00,CLE,NA,NA,18,21,18,21,FALSE,Kickoff,4,30,Z.Gonzalez kicks 34 yards from 50 to PIT 16. J.Smith-Schuster to PIT 20 for 4 yards (D.Alexander).
+2017101510,1576,2,1:44:00,LAC,LAC,35,7,7,7,7,TRUE,Kickoff,4,-5,"N.Novak kicks 45 yards from LAC 35 to OAK 20. D.Washington to OAK 24 for 4 yards (R.Jenkins, N.Dzubnar). PENALTY on LAC-M.Davis, Offside on Free Kick, 5 yards, enforced at LAC 35 - No Play."
+2017100807,4055,4,1:47:00,JAX,JAX,35,9,30,9,30,FALSE,Kickoff,5,35,J.Myers kicks 40 yards from JAX 35 to PIT 25. R.Golden to PIT 30 for 5 yards (J.O'Shaughnessy).
+2017101600,1050,2,10:54:00,IND,IND,35,6,10,6,10,FALSE,Kickoff,6,59,R.Sanchez kicks 65 yards from IND 35 to TEN 0. A.Jackson to TEN 6 for 6 yards (B.Mingo).
+2017091709,1968,3,15:00:00,OAK,OAK,35,21,10,21,10,TRUE,Kickoff,7,32,"G.Tavecchio kicks 44 yards from OAK 35 to NYJ 21. J.Jenkins to NYJ 28 for 7 yards (D.Washington). PENALTY on OAK-N.Morrow, Offside on Free Kick, 5 yards, enforced at NYJ 28."
+2017100803,2515,3,7:42:00,IND,IND,35,9,6,9,6,FALSE,Kickoff,7,53,R.Sanchez kicks 60 yards from IND 35 to SF 5. V.Bolden to SF 12 for 7 yards (K.Moore). IND-K.Hogan was injured during the play. He is Out.
+2017100103,3893,4,1:54:00,CLE,CLE,35,7,31,7,31,FALSE,Kickoff,7,47,Z.Gonzalez kicks 54 yards from CLV 35 to CIN 11. G.Bernard to CIN 18 for 7 yards (S.DeValve).
+2017101501,3984,4,2:56:00,BAL,BAL,35,16,24,16,24,FALSE,Kickoff,7,48,J.Tucker kicks 55 yards from BLT 35 to CHI 10. T.Cohen to CHI 17 for 7 yards (V.Mayle).
+2017091008,2911,3,2:06:00,WAS,WAS,35,17,19,17,19,FALSE,Kickoff,8,39,D.Hopkins kicks 47 yards from WAS 35 to PHI 18. B.Celek to PHI 26 for 8 yards (M.Spaight).
+2017100811,3905,4,2:57:00,HOU,HOU,35,26,39,26,39,FALSE,Kickoff,8,0,K.Fairbairn kicks onside 8 yards from HST 35 to HST 43. C.Conley to HST 35 for 8 yards (S.Anderson).
+2017091010,2968,3,0:17:00,GB,GB,35,14,6,14,6,TRUE,Kickoff,9,-5,"M.Crosby kicks 52 yards from GB 35 to SEA 13. T.Lockett to SEA 22 for 9 yards (K.Fackrell). PENALTY on GB-J.Jones, Offside on Free Kick, 5 yards, enforced at GB 35 - No Play."
+2017091100,2073,2,0:03:00,MIN,MIN,35,16,6,16,6,FALSE,Kickoff,9,28,K.Forbath kicks 37 yards from MIN 35 to NO 28. J.Kuhn to NO 37 for 9 yards (C.Ham).
+2017100807,1026,2,12:19:00,JAX,JAX,35,3,7,3,7,FALSE,Kickoff,9,47,J.Myers kicks 56 yards from JAX 35 to PIT 9. J.Smith-Schuster pushed ob at PIT 18 for 9 yards (B.Church).
+2017101504,3645,3,1:21:00,DET,DET,35,45,24,45,24,FALSE,Kickoff,9,46,M.Prater kicks 55 yards from DET 35 to NO 10. T.Ginn to NO 19 for 9 yards (D.Carey).
+2017090700,2353,2,0:13:00,KC,KC,35,17,14,17,14,FALSE,Kickoff,10,47,C.Santos kicks 57 yards from KC 35 to NE 8. D.Lewis to NE 18 for 10 yards (D.Sorensen).
+2017100104,3745,4,7:11:00,DAL,DAL,35,30,32,30,32,FALSE,Kickoff,10,48,D.Bailey kicks 58 yards from DAL 35 to LA 7. P.Cooper to LA 17 for 10 yards (K.Frazier).
+2017100801,36,1,15:00:00,CLE,CLE,35,0,0,0,0,FALSE,Kickoff,10,39,Z.Gonzalez kicks 49 yards from CLV 35 to NYJ 16. D.Bass to NYJ 26 for 10 yards (M.Jordan).
+2017091002,1662,2,1:52:00,BAL,BAL,35,0,10,0,10,FALSE,Kickoff,11,52,J.Tucker kicks 63 yards from BLT 35 to CIN 2. A.Erickson to CIN 13 for 11 yards (A.Levine Sr.).
+2017091001,36,1,15:00:00,CHI,CHI,35,0,0,0,0,TRUE,Kickoff,11,57,"C.Barth kicks 60 yards from CHI 35 to ATL 5. A.Roberts pushed ob at CHI 32 for 63 yards (C.LeBlanc). PENALTY on ATL-K.Ishmael, Illegal Block Above the Waist, 8 yards, enforced at ATL 16."
+2017092404,419,1,8:17:00,ATL,ATL,35,0,7,0,7,FALSE,Kickoff,11,54,M.Bosher kicks 65 yards from ATL 35 to DET 0. J.Agnew to DET 11 for 11 yards (S.Neasman).
+2017092406,1165,2,10:25:00,MIN,MIN,35,14,3,14,3,FALSE,Kickoff,11,54,K.Forbath kicks 65 yards from MIN 35 to TB 0. B.Reedy to TB 11 for 11 yards (B.Gedeon).
+2017100113,54,1,15:00:00,SEA,SEA,35,0,0,0,0,FALSE,Kickoff,11,56,B.Walsh kicks 67 yards from SEA 35 to IND -2. Q.Bray to IND 9 for 11 yards (T.McEvoy).
+2017101509,3358,4,2:17:00,KC,KC,35,13,19,13,19,FALSE,Kickoff,11,41,H.Butker kicks 52 yards from KC 35 to PIT 13. J.Smith-Schuster ran ob at PIT 24 for 11 yards (E.Murray).
+2017101503,1023,2,14:53:00,MIN,MIN,35,7,0,7,0,FALSE,Kickoff,11,48,K.Forbath kicks 59 yards from MIN 35 to GB 6. J.Janis to GB 17 for 11 yards (T.Brock; C.Ham).
+2017090700,3578,3,0:09:00,NE,NE,35,27,21,27,21,FALSE,Kickoff,12,55,S.Gostkowski kicks 67 yards from NE 35 to KC -2. D.Thomas to KC 10 for 12 yards (J.Bademosi).
+2017092400,4019,4,3:24:00,BAL,BAL,35,44,7,44,7,FALSE,Kickoff,12,49,J.Tucker kicks 61 yards from BLT 35 to JAX 4. K.Cole ran ob at JAX 16 for 12 yards (C.Matthews).
+2017100112,3411,4,5:23:00,OAK,OAK,35,16,10,16,10,FALSE,Kickoff,12,51,G.Tavecchio kicks 63 yards from OAK 35 to DEN 2. I.McKenzie to DEN 14 for 12 yards (T.Adams).
+2017101500,336,1,9:41:00,ATL,ATL,35,3,0,3,0,FALSE,Kickoff,12,52,M.Bosher kicks 64 yards from ATL 35 to MIA 1. K.Drake to MIA 13 for 12 yards (D.Coleman).
+2017091004,851,1,2:40:00,ARI,ARI,35,0,10,0,10,FALSE,Kickoff,13,58,P.Dawson kicks 71 yards from ARZ 35 to DET -6. D.Washington to DET 7 for 13 yards (E.Penny).
+2017090700,4520,4,4:00:00,KC,KC,35,27,42,27,42,FALSE,Kickoff,13,51,C.Santos kicks 64 yards from KC 35 to NE 1. D.Lewis to NE 14 for 13 yards (U.Eligwe).
+2017091009,3331,4,9:18:00,IND,IND,20,39,9,39,9,FALSE,Kickoff,13,37,R.Sanchez kicks 50 yards from IND 20 to LA 30. T.Austin to LA 43 for 13 yards (C.Milton).
+2017091708,3303,4,6:28:00,MIA,MIA,35,17,16,17,16,TRUE,Kickoff,13,59,"C.Parkey kicks 66 yards from MIA 35 to LAC -1. A.Ekeler to LAC 12 for 13 yards (K.Drake). PENALTY on LAC-D.Philon, Offensive Holding, 6 yards, enforced at LAC 12."
+2017100805,2336,2,0:06:00,LAC,LAC,35,9,10,9,10,FALSE,Kickoff,13,46,"N.Novak kicks 57 yards from LAC 35 to NYG 8. D.Harris MUFFS catch, and recovers at NYG 6. D.Harris pushed ob at NYG 19 for 13 yards (Tr.Williams)."
+2017100808,1044,2,14:13:00,LA,LA,35,7,0,7,0,FALSE,Kickoff,13,39,G.Zuerlein kicks 52 yards from LA 35 to SEA 13. E.Pocic to SEA 26 for 13 yards (S.Ebukam).
+2017100900,1889,2,1:02:00,MIN,MIN,35,2,3,2,3,FALSE,Kickoff,13,45,K.Forbath kicks 58 yards from MIN 35 to CHI 7. D.Thompson to CHI 20 for 13 yards (K.Brothers).
+2017100900,4324,4,0:12:00,MIN,MIN,35,17,20,17,20,FALSE,Kickoff,13,37,K.Forbath kicks 50 yards from MIN 35 to CHI 15. D.Thompson to CHI 28 for 13 yards (K.Brothers).
+2017101505,36,1,15:00:00,NE,NE,35,0,0,0,0,FALSE,Kickoff,13,53,S.Gostkowski kicks 66 yards from NE 35 to NYJ -1. A.Stewart to NYJ 12 for 13 yards (B.Bolden).
+2017101510,2957,4,10:19:00,LAC,LAC,35,10,14,10,14,FALSE,Kickoff,13,30,N.Novak kicks 43 yards from LAC 35 to OAK 22. J.Richard to OAK 35 for 13 yards (R.Jenkins).
+2017090700,3196,3,5:01:00,NE,NE,35,24,21,24,21,FALSE,Kickoff,14,52,S.Gostkowski kicks 66 yards from NE 35 to KC -1. D.Thomas to KC 13 for 14 yards (J.Jones).
+2017091003,1954,2,0:45:00,PIT,PIT,35,7,14,7,14,FALSE,Kickoff,14,54,C.Boswell kicks 68 yards from PIT 35 to CLV -3. J.Peppers to CLV 11 for 14 yards (L.Fort).
+2017091008,44,1,15:00:00,PHI,PHI,35,0,0,0,0,FALSE,Kickoff,14,49,C.Sturgis kicks 63 yards from PHI 35 to WAS 2. B.Breeland to WAS 16 for 14 yards (C.Clement).
+2017091702,489,1,7:38:00,IND,IND,35,7,0,7,0,FALSE,Kickoff,14,47,R.Sanchez kicks 61 yards from IND 35 to ARZ 4. K.Williams to ARZ 18 for 14 yards (D.Daniels).
+2017091703,2881,3,2:49:00,TEN,NA,NA,3,23,3,23,FALSE,Kickoff,14,35,R.Succop kicks 49 yards from 50 to JAX 1. K.Cole to JAX 15 for 14 yards (T.Taylor).
+2017091708,2715,3,2:43:00,MIA,MIA,35,17,13,17,13,FALSE,Kickoff,14,44,C.Parkey kicks 58 yards from MIA 35 to LAC 7. A.Ekeler to LAC 21 for 14 yards (C.Allen).
+2017100801,2524,3,9:23:00,CLE,NA,NA,7,3,7,3,FALSE,Kickoff,14,33,Z.Gonzalez kicks 47 yards from 50 to NYJ 3. A.Stewart to NYJ 17 for 14 yards (D.Kindred).
+2017100807,1993,2,0:03:00,PIT,PIT,35,6,7,6,7,FALSE,Kickoff,14,31,C.Boswell kicks 45 yards from PIT 35 to JAX 20. T.Bohanon to JAX 34 for 14 yards (T.Matakevich; M.Hilton).
+2017100806,2343,3,9:18:00,PHI,PHI,35,24,7,24,7,FALSE,Kickoff,14,52,J.Elliott kicks 66 yards from PHI 35 to ARZ -1. K.Williams to ARZ 13 for 14 yards (C.Maragos; D.McDougle).
+2017100113,3169,3,2:12:00,SEA,SEA,35,25,18,25,18,TRUE,Kickoff,14,43,"B.Walsh kicks 62 yards from SEA 35 to IND 3. Q.Bray to IND 17 for 14 yards (T.Madden). PENALTY on SEA-D.Alexander, Illegal Use of Hands, 5 yards, enforced at IND 17."
+2017100113,4046,4,2:22:00,SEA,SEA,35,46,18,46,18,FALSE,Kickoff,14,49,B.Walsh kicks 63 yards from SEA 35 to IND 2. Q.Bray pushed ob at IND 16 for 14 yards (B.McDougald).
+2017100900,853,1,1:31:00,MIN,MIN,20,2,0,2,0,FALSE,Kickoff,14,37,R.Quigley kicks 51 yards from MIN 20 to CHI 29. T.Cohen to CHI 43 for 14 yards (M.Sherels).
+2017091705,1052,1,0:16:00,NE,NE,35,3,20,3,20,FALSE,Kickoff,15,45,S.Gostkowski kicks 60 yards from NE 35 to NO 5. A.Kamara to NO 20 for 15 yards (H.Langi).
+2017092408,1848,2,1:42:00,NYJ,NYJ,35,10,0,10,0,FALSE,Kickoff,15,48,C.Catanzaro kicks 63 yards from NYJ 35 to MIA 2. J.Grant to MIA 17 for 15 yards (B.Carter; L.Thomas).
+2017091713,37,1,15:00:00,GB,GB,35,0,0,0,0,FALSE,Kickoff,15,51,M.Crosby kicks 66 yards from GB 35 to ATL -1. A.Roberts to ATL 14 for 15 yards (J.Jones).
+2017092407,37,1,15:00:00,NE,NE,35,0,0,0,0,FALSE,Kickoff,15,44,S.Gostkowski kicks 59 yards from NE 35 to HST 6. T.Ervin to HST 21 for 15 yards (B.Bolden).
+2017092407,1859,2,3:58:00,NE,NE,35,21,20,21,20,FALSE,Kickoff,15,49,"S.Gostkowski kicks 64 yards from NE 35 to HST 1. T.Ervin to HST 16 for 15 yards (B.Bolden, N.Ebner)."
+2017091800,35,1,15:00:00,NYG,NYG,35,0,0,0,0,FALSE,Kickoff,15,46,"A.Rosas kicks 61 yards from NYG 35 to DET 4. J.Agnew to DET 19 for 15 yards (K.Wynn, N.Berhe)."
+2017100102,2227,3,15:00:00,BAL,BAL,35,0,19,0,19,FALSE,Kickoff,15,49,J.Tucker kicks 64 yards from BLT 35 to PIT 1. T.Watson to PIT 16 for 15 yards (C.Clark).
+2017092409,3415,4,10:53:00,NYG,NYG,35,14,14,14,14,FALSE,Kickoff,15,48,A.Rosas kicks 63 yards from NYG 35 to PHI 2. W.Smallwood to PHI 17 for 15 yards (A.Adams).
+2017100112,2573,3,5:06:00,DEN,DEN,35,16,7,16,7,FALSE,Kickoff,15,31,B.McManus kicks 46 yards from DEN 35 to OAK 19. J.Feliciano to OAK 34 for 15 yards (Z.Anderson).
+2017100805,2873,3,6:46:00,NYG,NYG,35,16,10,16,10,TRUE,Kickoff,15,57,"A.Rosas kicks 64 yards from NYG 35 to LAC 1. D.King to LAC 42 for 41 yards (R.Lewis, C.Munson). PENALTY on LAC-T.Palepoi, Illegal Block Above the Waist, 8 yards, enforced at LAC 16. Officially, a return of 15 yards."
+2017100811,37,1,15:00:00,HOU,HOU,35,0,0,0,0,FALSE,Kickoff,15,46,K.Fairbairn kicks 61 yards from HST 35 to KC 4. A.Hunt to KC 19 for 15 yards (B.Scarlett; J.Prosch). KC-S.Terrell was injured during the play. He is Out.
+2017101600,2125,3,9:43:00,TEN,TEN,35,12,19,12,19,FALSE,Kickoff,15,53,R.Succop kicks 68 yards from TEN 35 to IND -3. Q.Bray to IND 12 for 15 yards (C.Riley).
+2017101501,2670,3,5:47:00,BAL,BAL,35,10,17,10,17,FALSE,Kickoff,15,45,J.Tucker kicks 60 yards from BLT 35 to CHI 5. B.Cunningham pushed ob at CHI 20 for 15 yards (T.McRae).
+2017091100,2816,3,2:43:00,NO,NO,35,19,9,19,9,FALSE,Kickoff,16,54,W.Lutz kicks 70 yards from NO 35 to MIN -5. J.McKinnon to MIN 11 for 16 yards (T.Edmunds).
+2017091705,313,1,10:31:00,NE,NE,35,0,6,0,6,TRUE,Kickoff,16,27,"S.Gostkowski kicks 58 yards from NE 35 to NO 7. T.Edmunds pushed ob at NO 23 for 16 yards (M.Flowers). PENALTY on NE-H.Langi, Face Mask (15 Yards), 15 yards, enforced at NO 23."
+2017091711,2576,3,8:43:00,LA,LA,35,17,20,17,20,FALSE,Kickoff,16,49,G.Zuerlein kicks 65 yards from LA 35 to WAS 0. C.Thompson to WAS 16 for 16 yards (Co.Davis).
+2017091713,3573,4,5:51:00,GB,GB,35,34,23,34,23,FALSE,Kickoff,16,44,M.Crosby kicks 60 yards from GB 35 to ATL 5. A.Roberts ran ob at ATL 21 for 16 yards (M.Evans).
+2017092404,2612,3,4:51:00,DET,DET,35,20,23,20,23,FALSE,Kickoff,16,52,J.Locke kicks 68 yards from DET 35 to ATL -3. A.Roberts to ATL 13 for 16 yards (D.Hayden; Ch.Washington).
+2017092412,36,1,15:00:00,KC,KC,35,0,0,0,0,TRUE,Kickoff,16,59,"C.Santos kicks 69 yards from KC 35 to LAC -4. D.King to LAC 21 for 25 yards (D.Thomas). PENALTY on LAC-R.Jenkins, Illegal Block Above the Waist, 6 yards, enforced at LAC 12."
+2017100111,2867,3,4:19:00,NYG,NYG,35,16,17,16,17,FALSE,Kickoff,16,45,A.Rosas kicks 61 yards from NYG 35 to TB 4. B.Reedy to TB 20 for 16 yards (N.Berhe).
+2017100805,1073,2,13:01:00,LAC,LAC,35,9,7,9,7,FALSE,Kickoff,16,49,"N.Novak kicks 65 yards from LAC 35 to NYG 0. D.Harris to NYG 16 for 16 yards (M.Davis, R.Jenkins)."
+2017100500,2180,2,0:40:00,NE,NE,35,7,13,7,13,FALSE,Kickoff,16,43,S.Gostkowski kicks 59 yards from NE 35 to TB 6. B.Reedy to TB 22 for 16 yards (N.Ebner).
+2017100113,2227,3,15:00:00,IND,IND,35,10,15,10,15,FALSE,Kickoff,16,49,R.Sanchez kicks 65 yards from IND 35 to SEA 0. T.Lockett to SEA 16 for 16 yards (K.Hogan).
+2017101500,3319,4,2:30:00,MIA,MIA,35,17,20,17,20,FALSE,Kickoff,16,52,C.Parkey kicks 68 yards from MIA 35 to ATL -3. A.Roberts to ATL 13 for 16 yards (S.Perry). ATL-J.Tripp was injured during the play.
+2017101510,1915,3,15:00:00,LAC,LAC,35,10,7,10,7,FALSE,Kickoff,16,29,N.Novak kicks 45 yards from LAC 35 to OAK 20. J.Richard to OAK 36 for 16 yards (N.Dzubnar).
+2017101200,1737,2,2:32:00,PHI,PHI,35,10,10,10,10,TRUE,Kickoff,16,37,"J.Elliott kicks 58 yards from PHI 35 to CAR 7. R.Shepard to CAR 23 for 16 yards (M.Kendricks). PENALTY on PHI-N.Goode, Offside on Free Kick, 5 yards, enforced at CAR 23."
+2017101200,2158,3,15:00:00,PHI,PHI,35,10,10,10,10,FALSE,Kickoff,16,45,J.Elliott kicks 61 yards from PHI 35 to CAR 4. R.Shepard to CAR 20 for 16 yards (M.Kendricks).
+2017091012,2546,3,5:16:00,NYG,NYG,35,16,3,16,3,FALSE,Kickoff,17,47,A.Rosas kicks 64 yards from NYG 35 to DAL 1. R.Switzer to DAL 18 for 17 yards (D.Harris).
+2017091708,2429,3,8:18:00,LAC,LAC,35,17,10,17,10,FALSE,Kickoff,17,42,Y.Koo kicks 59 yards from LAC 35 to MIA 6. K.Drake to MIA 23 for 17 yards (D.McCoil).
+2017091708,3651,4,1:05:00,MIA,MIA,35,17,19,17,19,FALSE,Kickoff,17,45,C.Parkey kicks 62 yards from MIA 35 to LAC 3. D.King to LAC 20 for 17 yards (M.Thomas).
+2017091400,2076,2,0:02:00,CIN,CIN,35,6,10,6,10,FALSE,Kickoff,17,30,R.Bullock kicks 47 yards from CIN 35 to HST 18. T.Ervin to HST 35 for 17 yards (D.Smith).
+2017100102,1596,2,3:24:00,PIT,PIT,35,0,13,0,13,FALSE,Kickoff,17,43,C.Boswell kicks 60 yards from PIT 35 to BLT 5. M.Campanaro to BLT 22 for 17 yards (T.Matakevich).
+2017100106,2188,3,10:41:00,DET,DET,35,7,6,7,6,FALSE,Kickoff,17,47,J.Locke kicks 64 yards from DET 35 to MIN 1. J.McKinnon to MIN 18 for 17 yards (N.Lawson).
+2017092409,2658,3,5:15:00,PHI,PHI,35,14,0,14,0,FALSE,Kickoff,17,41,J.Elliott kicks 58 yards from PHI 35 to NYG 7. D.Harris to NYG 24 for 17 yards (T.Elston).
+2017100802,3862,4,3:22:00,DET,DET,35,24,27,24,27,FALSE,Kickoff,17,42,M.Prater kicks 59 yards from DET 35 to CAR 6. C.Samuel to CAR 23 for 17 yards (D.Carey).
+2017100806,36,1,15:00:00,PHI,PHI,35,0,0,0,0,FALSE,Kickoff,17,47,J.Elliott kicks 64 yards from PHI 35 to ARZ 1. K.Williams to ARZ 18 for 17 yards (K.Grugier-Hill).
+2017100810,2889,4,11:45:00,DAL,DAL,35,24,22,24,22,FALSE,Kickoff,17,46,D.Bailey kicks 63 yards from DAL 35 to GB 2. J.Janis to GB 19 for 17 yards (K.Smith).
+2017100800,309,1,11:29:00,CIN,CIN,35,7,0,7,0,FALSE,Kickoff,17,43,R.Bullock kicks 60 yards from CIN 35 to BUF 5. B.Tate to BUF 22 for 17 yards (C.Carter).
+2017101509,939,2,14:55:00,PIT,PIT,20,3,9,3,9,FALSE,Kickoff,17,47,C.Boswell kicks 64 yards from PIT 20 to KC 16. A.Hunt to KC 33 for 17 yards (V.Williams).
+2017100900,3028,3,3:31:00,MIN,MIN,35,9,17,9,17,FALSE,Kickoff,17,44,K.Forbath kicks 61 yards from MIN 35 to CHI 4. D.Thompson to CHI 21 for 17 yards (S.Weatherly).
+2017101504,4086,4,11:03:00,DET,DET,20,45,31,45,31,FALSE,Kickoff,17,49,M.Prater kicks 66 yards from DET 20 to NO 14. T.Ginn to NO 31 for 17 yards (J.Agnew).
+2017101505,2728,3,11:22:00,NE,NE,35,14,21,14,21,FALSE,Kickoff,17,51,S.Gostkowski kicks 68 yards from NE 35 to NYJ -3. A.Stewart to NYJ 14 for 17 yards (B.King).
+2017101505,4063,4,3:40:00,NYJ,NYJ,35,17,24,17,24,FALSE,Kickoff,17,48,C.Catanzaro kicks 65 yards from NYJ 35 to NE 0. D.Lewis to NE 17 for 17 yards (J.Stanford; J.Martin).
+2017091004,292,1,11:14:00,ARI,ARI,35,0,7,0,7,FALSE,Kickoff,18,50,P.Dawson kicks 68 yards from ARZ 35 to DET -3. D.Washington to DET 15 for 18 yards (B.Williams; B.Baker).
+2017091004,2995,3,5:37:00,ARI,ARI,35,9,17,9,17,FALSE,Kickoff,18,49,P.Dawson kicks 67 yards from ARZ 35 to DET -2. J.Agnew to DET 16 for 18 yards (R.Ford).
+2017091008,3892,4,1:29:00,PHI,PHI,35,17,30,17,30,FALSE,Kickoff,18,31,C.Sturgis kicks 49 yards from PHI 35 to WAS 16. C.Thompson pushed ob at WAS 34 for 18 yards (K.Grugier-Hill).
+2017091700,1310,2,7:17:00,BAL,BAL,35,14,0,14,0,FALSE,Kickoff,18,48,J.Tucker kicks 66 yards from BLT 35 to CLV -1. J.Peppers to CLV 17 for 18 yards (C.Clark).
+2017091712,3785,4,7:06:00,SEA,SEA,35,12,9,12,9,FALSE,Kickoff,18,45,B.Walsh kicks 63 yards from SEA 35 to SF 2. V.Bolden to SF 20 for 18 yards (M.Wilhoite).
+2017092100,110,1,14:48:00,LA,LA,35,0,7,0,7,FALSE,Kickoff,18,46,G.Zuerlein kicks 64 yards from LA 35 to SF 1. V.Bolden to SF 19 for 18 yards (Co.Davis).
+2017092100,778,1,4:32:00,LA,LA,35,7,14,7,14,FALSE,Kickoff,18,46,G.Zuerlein kicks 64 yards from LA 35 to SF 1. V.Bolden to SF 19 for 18 yards (B.Countess).
+2017092401,2561,3,15:00:00,DEN,DEN,35,13,13,13,13,FALSE,Kickoff,18,43,B.McManus kicks 61 yards from DEN 35 to BUF 4. B.Tate to BUF 22 for 18 yards (D.Henderson).
+2017092406,1987,3,15:00:00,MIN,MIN,35,21,3,21,3,TRUE,Kickoff,18,54,"K.Forbath kicks 62 yards from MIN 35 to TB 3. B.Reedy to TB 21 for 18 yards (C.Ham; J.McKinnon). PENALTY on TB-C.Lynch, Offensive Holding, 10 yards, enforced at TB 21."
+2017100107,1565,2,4:30:00,NE,NE,35,13,10,13,10,FALSE,Kickoff,18,49,S.Gostkowski kicks 67 yards from NE 35 to CAR -2. C.McCaffrey to CAR 16 for 18 yards (B.Bolden).
+2017092403,4209,5,10:00:00,PIT,PIT,35,17,17,17,17,FALSE,Kickoff,18,39,C.Boswell kicks 57 yards from PIT 35 to CHI 8. D.Thompson pushed ob at CHI 26 for 18 yards (A.Chickillo).
+2017092500,2672,3,3:13:00,ARI,ARI,40,14,14,14,14,FALSE,Kickoff,18,37,P.Dawson kicks 55 yards from ARZ 40 to DAL 5. R.Switzer to DAL 23 for 18 yards (E.Penny).
+2017100103,1730,2,0:47:00,CIN,CIN,35,0,21,0,21,TRUE,Kickoff,18,55,"R.Bullock kicks 63 yards from CIN 35 to CLV 2. J.Peppers ran ob at CLV 20 for 18 yards. PENALTY on CLV-J.Burgess, Offensive Holding, 10 yards, enforced at CLV 20."
+2017100804,3251,4,10:33:00,MIA,MIA,35,16,10,16,10,TRUE,Kickoff,18,49,"C.Parkey kicks 57 yards from MIA 35 to TEN 8. E.Weems to TEN 26 for 18 yards (M.Hull). PENALTY on TEN-J.Smith, Offensive Holding, 10 yards, enforced at TEN 26."
+2017100200,2050,3,15:00:00,WAS,WAS,35,7,10,7,10,FALSE,Kickoff,18,44,D.Hopkins kicks 62 yards from WAS 35 to KC 3. D.Thomas to KC 21 for 18 yards (C.Carter).
+2017101500,2254,3,6:17:00,MIA,MIA,35,17,7,17,7,FALSE,Kickoff,18,48,C.Parkey kicks 66 yards from MIA 35 to ATL -1. A.Roberts to ATL 17 for 18 yards (C.Allen; W.Aikens).
+2017101501,1501,2,2:53:00,CHI,CHI,35,0,10,0,10,FALSE,Kickoff,18,47,C.Barth kicks 65 yards from CHI 35 to BLT 0. B.Rainey to BLT 18 for 18 yards (D.Bush).
+2017091012,3610,4,1:55:00,DAL,DAL,35,19,3,19,3,FALSE,Kickoff,19,51,D.Bailey kicks 70 yards from DAL 35 to NYG -5. D.Harris to NYG 14 for 19 yards (B.Jones).
+2017091703,2591,3,6:36:00,TEN,TEN,35,3,16,3,16,TRUE,Kickoff,19,56,"R.Succop kicks 66 yards from TEN 35 to JAX -1. C.Grant to JAX 18 for 19 yards (A.Wallace). PENALTY on JAX-P.Thompson, Offensive Holding, 9 yards, enforced at JAX 18."
+2017091709,2341,3,7:10:00,NYJ,NYJ,35,21,13,21,13,FALSE,Kickoff,19,49,C.Catanzaro kicks 68 yards from NYJ 35 to OAK -3. C.Patterson to OAK 16 for 19 yards (J.Martin).
+2017091712,2215,3,15:00:00,SEA,SEA,35,6,6,6,6,FALSE,Kickoff,19,39,B.Walsh kicks 58 yards from SEA 35 to SF 7. V.Bolden to SF 26 for 19 yards (J.Coleman; B.McDougald).
+2017091712,3469,4,11:36:00,SF,SF,35,6,9,6,9,FALSE,Kickoff,19,47,B.Pinion kicks 66 yards from SF 35 to SEA -1. T.Lockett to SEA 18 for 19 yards (D.Watson; A.Colbert).
+2017100107,3262,4,8:46:00,NE,NE,35,23,30,23,30,FALSE,Kickoff,19,44,"S.Gostkowski kicks 63 yards from NE 35 to CAR 2. C.McCaffrey to CAR 21 for 19 yards (J.Richards, N.Ebner)."
+2017092500,2270,3,8:31:00,DAL,DAL,35,7,14,7,14,FALSE,Kickoff,19,43,D.Bailey kicks 62 yards from DAL 35 to ARZ 3. K.Williams to ARZ 22 for 19 yards (K.Smith).
+2017100103,2611,3,3:37:00,CIN,CIN,35,0,31,0,31,FALSE,Kickoff,19,45,R.Bullock kicks 64 yards from CIN 35 to CLV 1. J.Peppers to CLV 20 for 19 yards (K.Russell).
+2017100804,2074,3,15:00:00,TEN,TEN,35,10,3,10,3,FALSE,Kickoff,19,45,R.Succop kicks 64 yards from TEN 35 to MIA 1. J.Grant to MIA 20 for 19 yards (D.Fluellen; N.Palmer).
+2017101502,719,1,3:15:00,CLE,CLE,35,3,3,3,3,FALSE,Kickoff,19,52,Z.Gonzalez kicks 71 yards from CLV 35 to HST -6. C.Thompson to HST 13 for 19 yards (M.Jordan).
+2017101502,2581,3,10:10:00,CLE,CLE,20,26,3,26,3,FALSE,Kickoff,19,45,"B.Colquitt kicks 64 yards from CLV 20 to HST 16. C.Thompson to HST 35 for 19 yards (M.Dayes, B.Bello)."
+2017101503,1266,2,10:40:00,GB,GB,35,7,7,7,7,FALSE,Kickoff,19,49,M.Crosby kicks 68 yards from GB 35 to MIN -3. S.Coley to MIN 16 for 19 yards (T.Davis).
+2017091000,3404,4,12:47:00,BUF,BUF,35,21,12,21,12,FALSE,Kickoff,20,48,S.Hauschka kicks 68 yards from BUF 35 to NYJ -3. K.Raymond to NYJ 17 for 20 yards (M.Milano; D.Lacey).
+2017091001,3439,4,3:24:00,ATL,ATL,35,17,23,17,23,FALSE,Kickoff,20,47,"M.Bosher kicks 67 yards from ATL 35 to CHI -2. D.Thompson to CHI 18 for 20 yards (D.Kazee). FUMBLES (D.Kazee), recovered by CHI-R.Robertson-Harris at CHI 18. R.Robertson-Harris to CHI 18 for no gain (D.Coleman)."
+2017091708,911,2,13:41:00,LAC,LAC,35,3,3,3,3,FALSE,Kickoff,20,48,"Y.Koo kicks 68 yards from LAC 35 to MIA -3. K.Drake to MIA 17 for 20 yards (Tr.Williams, J.Onwualu)."
+2017092407,901,1,1:51:00,HOU,HOU,35,7,10,7,10,FALSE,Kickoff,20,40,"K.Fairbairn kicks 60 yards from HST 35 to NE 5. D.Lewis to NE 25 for 20 yards (T.Ervin, E.Pleasant)."
+2017091709,38,1,15:00:00,NYJ,NYJ,35,0,0,0,0,FALSE,Kickoff,20,49,"OAK Captains: #4 D. Carr, #27 R. Nelson, #52 K. Mack, #61 R. Hudson, #78 J. Ellis, #84 C. Patterson NYJ Captains: #10 J. Kearse, #79 B. Qvuale, #92 L. Williams, #95 J. Martin C.Catanzaro kicks 69 yards from NYJ 35 to OAK -4. C.Patterson to OAK 16 for 20 yards (C.Peake, D.Roberts)."
+2017091706,2571,3,9:57:00,MIN,MIN,35,17,9,17,9,FALSE,Kickoff,20,50,K.Forbath kicks 70 yards from MIN 35 to PIT -5. J.Smith-Schuster to PIT 15 for 20 yards (E.Wilson).
+2017092100,3780,4,8:43:00,LA,LA,35,26,41,26,41,FALSE,Kickoff,20,42,G.Zuerlein kicks 62 yards from LA 35 to SF 3. R.Mostert to SF 23 for 20 yards (Co.Davis).
+2017092406,422,1,6:18:00,TB,TB,35,7,3,7,3,FALSE,Kickoff,20,50,N.Folk kicks 70 yards from TB 35 to MIN -5. J.McKinnon to MIN 15 for 20 yards (T.Ward; A.Glanton).
+2017092411,35,1,15:00:00,GB,GB,35,0,0,0,0,FALSE,Kickoff,20,44,M.Crosby kicks 64 yards from GB 35 to CIN 1. A.Erickson to CIN 21 for 20 yards (M.Evans).
+2017092800,2126,3,15:00:00,GB,GB,35,21,7,21,7,TRUE,Kickoff,20,-5,"M.Crosby kicks 70 yards from GB 35 to CHI -5. D.Thompson to CHI 15 for 20 yards (K.Brice). PENALTY on GB, Illegal Formation, 5 yards, enforced at GB 35 - No Play."
+2017100108,461,1,7:49:00,NYJ,NYJ,35,7,7,7,7,FALSE,Kickoff,20,50,C.Catanzaro kicks 70 yards from NYJ 35 to JAX -5. C.Grant to JAX 15 for 20 yards (R.Miles).
+2017100805,4052,4,4:50:00,LAC,LAC,35,22,20,22,20,FALSE,Kickoff,20,45,"N.Novak kicks 65 yards from LAC 35 to NYG 0. O.Beckham to NYG 20 for 20 yards (N.Harris, N.Dzubnar)."
+2017100805,4235,4,2:58:00,LAC,LAC,35,22,27,22,27,FALSE,Kickoff,20,41,"N.Novak kicks 61 yards from LAC 35 to NYG 4. S.Vereen to NYG 24 for 20 yards (N.Harris, D.Watt)."
+2017101504,657,1,4:56:00,NO,NO,35,14,7,14,7,FALSE,Kickoff,20,33,W.Lutz kicks 53 yards from NO 35 to DET 12. Z.Zenner pushed ob at DET 32 for 20 yards (J.Hardee; R.Bush).
+2017101510,36,1,15:00:00,OAK,OAK,35,0,0,0,0,FALSE,Kickoff,20,42,"G.Tavecchio kicks 62 yards from OAK 35 to LAC 3. D.King to LAC 23 for 20 yards (D.McCray). OAK CAPTAINS: #4 D. Carr, #27 R. Nelson, #39 K. McGill, #52 K. Mack, #61 R. Hudson, #73 M. Newhouse LAC CAPTAINS: #17 P. Rivers, #24 T. Williams, #54 M. Ingram, #68 M. Slauson, #85 A. Gates, #92 B. Mebane"
+2017091008,2441,3,10:38:00,PHI,PHI,35,14,19,14,19,FALSE,Kickoff,21,46,C.Sturgis kicks 67 yards from PHI 35 to WAS -2. B.Breeland to WAS 19 for 21 yards (R.McLeod).
+2017091702,3153,4,11:42:00,IND,IND,35,13,3,13,3,TRUE,Kickoff,21,50,"R.Sanchez kicks 61 yards from IND 35 to ARZ 4. K.Williams to ARZ 25 for 21 yards (K.Moore). PENALTY on ARZ-R. Ford, Offensive Holding, 10 yards, enforced at ARZ 25."
+2017091707,2953,4,12:26:00,TB,TB,35,29,0,29,0,TRUE,Kickoff,21,55,"N.Folk kicks 66 yards from TB 35 to CHI -1. D.Thompson to CHI 32 for 33 yards (J.Evans). PENALTY on CHI-D.Brown, Offensive Holding, 10 yards, enforced at CHI 20."
+2017091800,1731,2,0:30:00,DET,DET,35,7,17,7,17,FALSE,Kickoff,21,39,J.Locke kicks 60 yards from DET 35 to NYG 5. D.Harris to NYG 26 for 21 yards (J.Agnew). DET-D.Washington was injured during the play.
+2017092401,1265,2,11:41:00,BUF,BUF,35,7,3,7,3,FALSE,Kickoff,21,44,S.Hauschka kicks 65 yards from BUF 35 to DEN 0. C.Latimer to DEN 21 for 21 yards (C.Anderson).
+2017100104,261,1,11:30:00,DAL,DAL,35,3,0,3,0,FALSE,Kickoff,21,49,D.Bailey kicks 70 yards from DAL 35 to LA -5. P.Cooper to LA 16 for 21 yards (R.Smith).
+2017100102,2435,3,12:32:00,BAL,BAL,35,3,19,3,19,FALSE,Kickoff,21,44,J.Tucker kicks 65 yards from BLT 35 to PIT 0. T.Watson to PIT 21 for 21 yards (J.Freeny).
+2017100107,3650,4,3:09:00,NE,NE,35,30,30,30,30,FALSE,Kickoff,21,41,"S.Gostkowski kicks 62 yards from NE 35 to CAR 3. C.McCaffrey to CAR 24 for 21 yards (N.Ebner, P.Chung)."
+2017092500,37,1,15:00:00,DAL,DAL,35,0,0,0,0,FALSE,Kickoff,21,47,D.Bailey kicks 68 yards from DAL 35 to ARZ -3. K.Williams to ARZ 18 for 21 yards (R.Smith).
+2017100109,1253,2,13:07:00,ARI,ARI,30,3,3,3,3,TRUE,Kickoff,21,55,"P.Dawson kicks 66 yards from ARZ 30 to SF 4. V.Bolden to SF 34 for 30 yards (J.Bynes). PENALTY on SF-E.Harold, Offensive Holding, 10 yards, enforced at SF 25."
+2017100111,1516,2,7:17:00,NYG,NYG,35,13,3,13,3,FALSE,Kickoff,21,45,A.Rosas kicks 66 yards from NYG 35 to TB -1. B.Reedy to TB 20 for 21 yards (N.Capi).
+2017100112,2285,3,9:40:00,DEN,DEN,35,13,7,13,7,FALSE,Kickoff,21,48,B.McManus kicks 69 yards from DEN 35 to OAK -4. C.Patterson to OAK 17 for 21 yards (W.Parks).
+2017100806,425,1,8:19:00,PHI,PHI,35,7,0,7,0,FALSE,Kickoff,21,44,J.Elliott kicks 65 yards from PHI 35 to ARZ 0. K.Williams to ARZ 21 for 21 yards (C.Maragos; P.Robinson).
+2017100804,963,1,0:06:00,MIA,MIA,35,10,0,10,0,FALSE,Kickoff,21,51,C.Parkey kicks 72 yards from MIA 35 to TEN -7. A.Jackson to TEN 14 for 21 yards (S.Perry).
+2017100808,2762,3,5:41:00,SEA,SEA,35,10,13,10,13,FALSE,Kickoff,21,47,B.Walsh kicks 68 yards from SEA 35 to LA -3. P.Cooper to LA 18 for 21 yards (N.Thorpe).
+2017101508,133,1,14:35:00,JAX,JAX,35,7,7,7,7,FALSE,Kickoff,21,41,J.Myers kicks 62 yards from JAX 35 to LA 3. P.Cooper ran ob at LA 24 for 21 yards (P.Thompson).
+2017091100,63,1,15:00:00,MIN,MIN,35,0,0,0,0,FALSE,Kickoff,22,46,K.Forbath kicks 68 yards from MIN 35 to NO -3. T.Edmunds to NO 19 for 22 yards (C.Ham).
+2017091100,448,1,8:21:00,NO,NO,35,0,3,0,3,FALSE,Kickoff,22,50,W.Lutz kicks 72 yards from NO 35 to MIN -7. J.McKinnon to MIN 15 for 22 yards (T.Edmunds).
+2017091705,1874,2,4:47:00,NE,NE,35,13,27,13,27,FALSE,Kickoff,22,36,S.Gostkowski kicks 58 yards from NE 35 to NO 7. A.Kamara to NO 29 for 22 yards (C.Marsh).
+2017091702,1560,2,5:56:00,ARI,ARI,35,10,3,10,3,FALSE,Kickoff,22,45,"P.Dawson kicks 67 yards from ARZ 35 to IND -2. Q.Bray to IND 20 for 22 yards (J.Bynes). FUMBLES (J.Bynes), recovered by IND-C.Milton at IND 20. C.Milton to IND 20 for no gain (J.Bynes)."
+2017091703,3599,4,7:12:00,JAX,JAX,35,9,30,9,30,FALSE,Kickoff,22,-10,J.Myers kicks onside 12 yards from JAX 35 to JAX 47. E.Decker to JAX 25 for 22 yards (C.Grant).
+2017091707,1341,2,7:30:00,TB,TB,35,17,0,17,0,FALSE,Kickoff,22,39,N.Folk kicks 61 yards from TB 35 to CHI 4. D.Thompson to CHI 26 for 22 yards (K.Tandy).
+2017091708,2210,3,12:07:00,MIA,MIA,35,10,10,10,10,FALSE,Kickoff,22,42,"C.Parkey kicks 64 yards from MIA 35 to LAC 1. A.Ekeler to LAC 23 for 22 yards (B.McCain, J.March-Lillard)."
+2017092407,350,1,10:33:00,NE,NE,35,7,0,7,0,FALSE,Kickoff,22,43,S.Gostkowski kicks 65 yards from NE 35 to HST 0. T.Ervin to HST 22 for 22 yards (M.Flowers).
+2017092403,2164,3,15:00:00,PIT,PIT,35,17,7,17,7,FALSE,Kickoff,22,43,C.Boswell kicks 65 yards from PIT 35 to CHI 0. D.Thompson to CHI 22 for 22 yards (C.Sensabaugh).
+2017100100,37,1,15:00:00,NO,NO,35,0,0,0,0,FALSE,Kickoff,22,50,W.Lutz kicks 72 yards from NO 35 to MIA -7. J.Grant pushed ob at MIA 15 for 22 yards (M.Williams).
+2017100802,728,1,3:51:00,CAR,CAR,35,3,3,3,3,FALSE,Kickoff,22,43,G.Gano kicks 65 yards from CAR 35 to DET 0. J.Agnew to DET 22 for 22 yards (J.Norris).
+2017100805,767,1,2:16:00,NYG,NYG,35,9,0,9,0,FALSE,Kickoff,22,42,"A.Rosas kicks 64 yards from NYG 35 to LAC 1. D.King to LAC 23 for 22 yards (K.Wynn, C.Munson)."
+2017100806,657,1,3:52:00,PHI,PHI,35,14,0,14,0,FALSE,Kickoff,22,43,"J.Elliott kicks 65 yards from PHI 35 to ARZ 0. K.Williams to ARZ 22 for 22 yards (M.Jenkins, C.Clement)."
+2017100113,718,1,3:33:00,SEA,SEA,20,3,2,3,2,FALSE,Kickoff,22,44,J.Ryan kicks 66 yards from SEA 20 to IND 14. Q.Bray to IND 36 for 22 yards (M.Wilhoite; D.Hill).
+2017100113,1179,2,12:25:00,SEA,SEA,35,10,2,10,2,FALSE,Kickoff,22,45,B.Walsh kicks 67 yards from SEA 35 to IND -2. Q.Bray to IND 20 for 22 yards (D.Hill).
+2017100900,2851,3,5:23:00,CHI,CHI,35,9,10,9,10,FALSE,Kickoff,22,47,"C.Barth kicks 69 yards from CHI 35 to MIN -4. J.McKinnon to MIN 22 for 26 yards (D.Houston-Carson). FUMBLES (D.Houston-Carson), ball out of bounds at MIN 18."
+2017101501,37,1,15:00:00,CHI,CHI,35,0,0,0,0,FALSE,Kickoff,22,38,C.Barth kicks 60 yards from CHI 35 to BLT 5. B.Rainey to BLT 27 for 22 yards (B.Cunningham).
+2017091004,37,1,15:00:00,DET,DET,35,0,0,0,0,FALSE,Kickoff,23,42,K.Redfern kicks 65 yards from DET 35 to ARZ 0. K.Williams to ARZ 23 for 23 yards (M.Killebrew).
+2017091004,1611,2,4:22:00,DET,DET,35,6,10,6,10,FALSE,Kickoff,23,45,M.Prater kicks 68 yards from DET 35 to ARZ -3. K.Williams to ARZ 20 for 23 yards (Ch.Washington).
+2017091000,3130,3,2:00:00,NYJ,NYJ,35,14,12,14,12,FALSE,Kickoff,23,45,C.Catanzaro kicks 68 yards from NYJ 35 to BUF -3. B.Tate pushed ob at BUF 20 for 23 yards (J.Jenkins).
+2017091001,330,1,7:56:00,ATL,ATL,35,0,3,0,3,FALSE,Kickoff,23,39,M.Bosher kicks 62 yards from ATL 35 to CHI 3. B.Cunningham to CHI 26 for 23 yards (D.Coleman).
+2017091010,3001,3,0:10:00,GB,GB,30,14,6,14,6,FALSE,Kickoff,23,44,M.Crosby kicks 67 yards from GB 30 to SEA 3. T.Lockett to SEA 26 for 23 yards (K.Fackrell).
+2017091012,1072,2,12:45:00,DAL,DAL,35,6,0,6,0,TRUE,Kickoff,23,54,"D.Bailey kicks 67 yards from DAL 35 to NYG -2. D.Harris pushed ob at NYG 45 for 47 yards (B.Jones). PENALTY on NYG-C.Munson, Offensive Holding, 10 yards, enforced at NYG 21."
+2017092407,1266,2,12:25:00,NE,NE,35,14,10,14,10,FALSE,Kickoff,23,42,S.Gostkowski kicks 65 yards from NE 35 to HST 0. J.Todman to HST 23 for 23 yards (G.Grissom).
+2017092401,2993,3,7:47:00,DEN,DEN,35,13,16,13,16,FALSE,Kickoff,23,34,B.McManus kicks 57 yards from DEN 35 to BUF 8. B.Tate to BUF 31 for 23 yards (J.Carter).
+2017092412,543,1,5:33:00,KC,KC,35,0,14,0,14,TRUE,Kickoff,23,54,"C.Santos kicks 67 yards from KC 35 to LAC -2. D.King to LAC 21 for 23 yards (K.Acker). PENALTY on LAC-Tr.Williams, Offensive Holding, 10 yards, enforced at LAC 21."
+2017100102,648,1,0:22:00,PIT,PIT,35,0,3,0,3,FALSE,Kickoff,23,41,C.Boswell kicks 64 yards from PIT 35 to BLT 1. A.Collins to BLT 24 for 23 yards (C.Sensabaugh).
+2017100107,1270,2,9:41:00,CAR,CAR,35,10,10,10,10,FALSE,Kickoff,23,39,"G.Gano kicks 62 yards from CAR 35 to NE 3. D.Lewis to NE 26 for 23 yards (J.Norris, A.Armah)."
+2017092409,3229,4,12:39:00,NYG,NYG,20,14,7,14,7,FALSE,Kickoff,23,51,A.Rosas kicks 74 yards from NYG 20 to PHI 6. W.Smallwood to PHI 29 for 23 yards (K.Wynn).
+2017100100,2179,3,15:00:00,MIA,MIA,35,0,3,0,3,FALSE,Kickoff,23,42,C.Parkey kicks 65 yards from MIA 35 to NO 0. A.Kamara to NO 23 for 23 yards (B.McCain).
+2017100100,3803,4,3:57:00,NO,NO,35,0,20,0,20,FALSE,Kickoff,23,46,W.Lutz kicks 69 yards from NO 35 to MIA -4. J.Grant to MIA 19 for 23 yards (N.Stupar).
+2017100101,1142,2,10:31:00,ATL,ATL,35,3,0,3,0,FALSE,Kickoff,23,42,M.Bosher kicks 65 yards from ATL 35 to BUF 0. T.Jones to BUF 23 for 23 yards (D.Coleman; K.Ishmael).
+2017100105,37,1,15:00:00,HOU,HOU,35,0,0,0,0,FALSE,Kickoff,23,43,K.Fairbairn kicks 66 yards from HST 35 to TEN -1. A.Jackson ran ob at TEN 22 for 23 yards (B.Scarlett).
+2017100103,36,1,15:00:00,CIN,CIN,35,0,0,0,0,FALSE,Kickoff,23,37,R.Bullock kicks 60 yards from CIN 35 to CLV 5. J.Peppers to CLV 28 for 23 yards (C.Fejedelem; G.Iloka).
+2017100500,37,1,15:00:00,TB,TB,35,0,0,0,0,FALSE,Kickoff,23,42,N.Folk kicks 65 yards from TB 35 to NE 0. D.Lewis to NE 23 for 23 yards (R.McClain).
+2017101500,742,1,1:51:00,ATL,ATL,35,10,0,10,0,FALSE,Kickoff,23,42,M.Bosher kicks 65 yards from ATL 35 to MIA 0. K.Drake to MIA 23 for 23 yards (D.Coleman).
+2017101505,1540,2,5:19:00,NE,NE,35,14,7,14,7,FALSE,Kickoff,23,38,S.Gostkowski kicks 61 yards from NE 35 to NYJ 4. A.Stewart pushed ob at NYJ 27 for 23 yards (P.Chung).
+2017101501,2148,3,15:00:00,BAL,BAL,35,3,10,3,10,FALSE,Kickoff,23,39,J.Tucker kicks 62 yards from BLT 35 to CHI 3. B.Cunningham to CHI 26 for 23 yards (C.Matthews).
+2017101501,4369,5,10:00:00,BAL,BAL,35,24,24,24,24,FALSE,Kickoff,23,45,J.Tucker kicks 68 yards from BLT 35 to CHI -3. T.Cohen pushed ob at CHI 20 for 23 yards (C.Matthews).
+2017091008,1063,2,13:23:00,PHI,PHI,35,0,13,0,13,FALSE,Kickoff,24,41,C.Sturgis kicks 65 yards from PHI 35 to WAS 0. B.Breeland to WAS 24 for 24 yards (N.Goode).
+2017091005,3982,4,3:11:00,JAX,JAX,35,7,29,7,29,TRUE,Kickoff,24,54,"J.Myers kicks 68 yards from JAX 35 to HST -3. T.Ervin to HST 25 for 28 yards (D.Payne). PENALTY on HST-E.Pleasant, Offensive Holding, 10 yards, enforced at HST 21."
+2017091704,2505,3,4:08:00,PHI,PHI,35,6,10,6,10,FALSE,Kickoff,24,48,J.Elliott kicks 72 yards from PHI 35 to KC -7. D.Thomas to KC 17 for 24 yards (C.Maragos; M.Hollins).
+2017092407,2242,3,15:00:00,HOU,HOU,35,21,20,21,20,FALSE,Kickoff,24,46,K.Fairbairn kicks 70 yards from HST 35 to NE -5. D.Lewis to NE 19 for 24 yards (K.Drummond).
+2017092401,4342,4,3:14:00,BUF,BUF,35,26,16,26,16,FALSE,Kickoff,24,43,"S.Hauschka kicks 67 yards from BUF 35 to DEN -2. C.Latimer to DEN 22 for 24 yards (R.Blanton, T.Vallejo)."
+2017092412,1853,3,15:00:00,LAC,LAC,35,10,17,10,17,FALSE,Kickoff,24,41,Y.Koo kicks 65 yards from LAC 35 to KC 0. A.Hunt to KC 24 for 24 yards (J.Onwualu).
+2017100104,483,1,7:07:00,LA,LA,35,3,3,3,3,FALSE,Kickoff,24,46,G.Zuerlein kicks 70 yards from LA 35 to DAL -5. R.Switzer to DAL 19 for 24 yards (B.Hager).
+2017092403,392,1,9:09:00,CHI,CHI,35,7,0,7,0,TRUE,Kickoff,24,28,"C.Barth kicks 67 yards from CHI 35 to PIT -2. T.Watson to PIT 22 for 24 yards (K.Fuller). PENALTY on CHI-C.LeBlanc, Low Block, 15 yards, enforced at PIT 22."
+2017092409,1229,2,9:29:00,PHI,PHI,20,7,0,7,0,FALSE,Kickoff,24,46,J.Elliott kicks 70 yards from PHI 20 to NYG 10. D.Harris to NYG 34 for 24 yards (M.Jenkins).
+2017100101,37,1,15:00:00,BUF,BUF,35,0,0,0,0,FALSE,Kickoff,24,46,S.Hauschka kicks 70 yards from BUF 35 to ATL -5. A.Roberts to ATL 19 for 24 yards (M.Milano).
+2017100802,264,1,11:32:00,DET,DET,35,3,0,3,0,FALSE,Kickoff,24,44,J.Locke kicks 68 yards from DET 35 to CAR -3. C.Samuel to CAR 21 for 24 yards (D.Carey).
+2017100803,3395,4,9:56:00,IND,IND,35,23,9,23,9,FALSE,Kickoff,24,44,R.Sanchez kicks 68 yards from IND 35 to SF -3. V.Bolden to SF 21 for 24 yards (M.Farley).
+2017101504,4669,4,5:04:00,NO,NO,20,52,38,52,38,FALSE,Kickoff,24,49,W.Lutz kicks 73 yards from NO 20 to DET 7. J.Agnew to DET 31 for 24 yards (A.Bighill).
+2017101600,2487,3,4:35:00,TEN,TEN,35,15,19,15,19,FALSE,Kickoff,24,45,R.Succop kicks 69 yards from TEN 35 to IND -4. Q.Bray to IND 20 for 24 yards (N.Palmer).
+2017091000,2189,3,15:00:00,BUF,BUF,35,7,6,7,6,FALSE,Kickoff,25,40,"S.Hauschka kicks 65 yards from BUF 35 to NYJ 0. K.Raymond to NYJ 25 for 25 yards (C.Anderson, L.Johnson)."
+2017091010,2349,3,10:33:00,GB,GB,35,7,3,7,3,FALSE,Kickoff,25,39,M.Crosby kicks 64 yards from GB 35 to SEA 1. T.Lockett to SEA 26 for 25 yards (J.Jones).
+2017091012,44,1,15:00:00,NYG,NYG,35,0,0,0,0,FALSE,Kickoff,25,41,A.Rosas kicks 66 yards from NYG 35 to DAL -1. R.Switzer to DAL 24 for 25 yards (L.Collins).
+2017091704,36,1,15:00:00,PHI,PHI,35,0,0,0,0,TRUE,Kickoff,25,54,"J.Elliott kicks 69 yards from PHI 35 to KC -4. D.Thomas to KC 26 for 30 yards (M.Jenkins). PENALTY on KC-K.Pierre-Louis, Offensive Holding, 10 yards, enforced at KC 21."
+2017091711,3951,4,1:49:00,WAS,WAS,35,20,27,20,27,FALSE,Kickoff,25,37,D.Hopkins kicks 62 yards from WAS 35 to LA 3. P.Cooper to LA 28 for 25 yards (F.Moreau).
+2017091706,37,1,15:00:00,MIN,MIN,35,0,0,0,0,FALSE,Kickoff,25,39,K.Forbath kicks 64 yards from MIN 35 to PIT 1. T.Watson to PIT 26 for 25 yards (E.Wilson).
+2017091706,2860,3,5:05:00,PIT,PIT,35,20,9,20,9,FALSE,Kickoff,25,48,C.Boswell kicks 73 yards from PIT 35 to MIN -8. J.McKinnon to MIN 17 for 25 yards (A.Chickillo).
+2017092412,240,1,12:03:00,KC,KC,35,0,7,0,7,FALSE,Kickoff,25,42,"C.Santos kicks 67 yards from KC 35 to LAC -2. D.King to LAC 23 for 25 yards (E.Murray, K.Acker)."
+2017092410,2184,2,1:15:00,SEA,SEA,35,6,7,6,7,FALSE,Kickoff,25,41,B.Walsh kicks 66 yards from SEA 35 to TEN -1. A.Jackson to TEN 24 for 25 yards (J.Coleman).
+2017092800,2160,3,14:53:00,GB,GB,30,21,7,21,7,FALSE,Kickoff,25,42,M.Crosby kicks 67 yards from GB 30 to CHI 3. B.Cunningham to CHI 28 for 25 yards (Q.Rollins).
+2017100805,2386,3,15:00:00,LAC,LAC,35,9,10,9,10,FALSE,Kickoff,25,42,N.Novak kicks 67 yards from LAC 35 to NYG -2. D.Harris to NYG 23 for 25 yards (R.Jenkins).
+2017100811,2163,3,15:00:00,KC,KC,35,7,23,7,23,FALSE,Kickoff,25,44,H.Butker kicks 69 yards from KC 35 to HST -4. C.Thompson to HST 21 for 25 yards (T.Smith).
+2017100810,3113,4,9:56:00,GB,GB,20,24,28,24,28,TRUE,Kickoff,25,59,"M.Crosby kicks 74 yards from GB 20 to DAL 6. R.Switzer to DAL 31 for 25 yards (K.Brice). PENALTY on DAL-J.Heath, Offensive Holding, 10 yards, enforced at DAL 31."
+2017100800,36,1,15:00:00,BUF,BUF,35,0,0,0,0,FALSE,Kickoff,25,45,S.Hauschka kicks 70 yards from BUF 35 to CIN -5. A.Erickson to CIN 20 for 25 yards (J.Webb; T.Elston).
+2017100800,1689,2,3:10:00,BUF,BUF,35,10,10,10,10,FALSE,Kickoff,25,35,S.Hauschka kicks 60 yards from BUF 35 to CIN 5. A.Erickson to CIN 30 for 25 yards (B.Tate).
+2017100804,1303,2,9:37:00,TEN,TEN,35,10,3,10,3,FALSE,Kickoff,25,42,R.Succop kicks 67 yards from TEN 35 to MIA -2. J.Grant to MIA 23 for 25 yards (L.Sims).
+2017100200,692,1,2:47:00,WAS,WAS,35,0,10,0,10,FALSE,Kickoff,25,48,D.Hopkins kicks 73 yards from WAS 35 to KC -8. A.Hunt to KC 17 for 25 yards (S.McClure).
+2017090700,44,1,15:00:00,KC,KC,35,0,0,0,0,FALSE,Kickoff,26,38,"C.Santos kicks 64 yards from KC 35 to NE 1. D.Lewis to NE 27 for 26 yards (K.Pierre-Louis, D.Harris)."
+2017091100,1521,2,4:08:00,MIN,MIN,35,10,6,10,6,FALSE,Kickoff,26,40,K.Forbath kicks 66 yards from MIN 35 to NO -1. A.Kamara to NO 25 for 26 yards (M.Sherels).
+2017100104,2162,3,15:00:00,DAL,DAL,35,24,16,24,16,FALSE,Kickoff,26,44,D.Bailey kicks 70 yards from DAL 35 to LA -5. P.Cooper to LA 21 for 26 yards (B.Jones).
+2017100104,3337,4,11:56:00,LA,LA,35,24,29,24,29,FALSE,Kickoff,26,44,G.Zuerlein kicks 70 yards from LA 35 to DAL -5. R.Switzer to DAL 21 for 26 yards (J.Johnson).
+2017100811,3467,4,7:22:00,KC,KC,35,20,39,20,39,FALSE,Kickoff,26,45,H.Butker kicks 71 yards from KC 35 to HST -6. C.Thompson to HST 20 for 26 yards (D.Thomas; E.Murray).
+2017101503,2788,3,9:35:00,MIN,MIN,35,17,10,17,10,FALSE,Kickoff,26,40,K.Forbath kicks 66 yards from MIN 35 to GB -1. T.Davis to GB 25 for 26 yards (B.Gedeon; K.Brothers).
+2017101600,777,1,0:47:00,TEN,TEN,35,6,3,6,3,FALSE,Kickoff,26,38,R.Succop kicks 64 yards from TEN 35 to IND 1. Q.Bray to IND 27 for 26 yards (L.Sims).
+2017091001,2501,3,2:10:00,ATL,ATL,35,10,13,10,13,FALSE,Kickoff,27,36,M.Bosher kicks 63 yards from ATL 35 to CHI 2. D.Thompson to CHI 29 for 27 yards (C.Goodwin).
+2017091704,253,1,11:22:00,KC,KC,35,3,0,3,0,FALSE,Kickoff,27,39,C.Santos kicks 66 yards from KC 35 to PHI -1. W.Smallwood to PHI 26 for 27 yards (F.Zombo).
+2017091705,655,1,5:29:00,NE,NE,35,3,13,3,13,FALSE,Kickoff,27,37,S.Gostkowski kicks 64 yards from NE 35 to NO 1. T.Edmunds to NO 28 for 27 yards (E.Rowe).
+2017091702,3372,4,7:38:00,ARI,ARI,35,13,10,13,10,FALSE,Kickoff,27,41,P.Dawson kicks 68 yards from ARZ 35 to IND -3. Q.Bray to IND 24 for 27 yards (B.Baker).
+2017091703,3764,4,4:14:00,TEN,TEN,35,9,37,9,37,FALSE,Kickoff,27,42,R.Succop kicks 69 yards from TEN 35 to JAX -4. C.Grant to JAX 23 for 27 yards (P.Supernaw).
+2017091712,2155,2,0:17:00,SF,SF,35,6,6,6,6,FALSE,Kickoff,27,43,B.Pinion kicks 70 yards from SF 35 to SEA -5. T.Lockett to SEA 22 for 27 yards (D.Watson).
+2017091706,2317,3,12:19:00,PIT,PIT,35,17,3,17,3,FALSE,Kickoff,27,47,C.Boswell kicks 74 yards from PIT 35 to MIN -9. J.McKinnon pushed ob at MIN 18 for 27 yards (M.Hilton).
+2017092100,1484,2,9:37:00,SF,SF,35,10,17,10,17,FALSE,Kickoff,27,41,B.Pinion kicks 68 yards from SF 35 to LA -3. P.Cooper to LA 24 for 27 yards (D.Watson).
+2017092413,2749,4,14:58:00,WAS,WAS,35,24,7,24,7,FALSE,Kickoff,27,43,D.Hopkins kicks 70 yards from WAS 35 to OAK -5. C.Patterson to OAK 22 for 27 yards (B.Breeland).
+2017100102,1299,2,7:25:00,PIT,PIT,35,0,6,0,6,FALSE,Kickoff,27,43,C.Boswell kicks 70 yards from PIT 35 to BLT -5. A.Collins to BLT 22 for 27 yards (C.Sensabaugh).
+2017092800,420,1,8:56:00,GB,GB,35,14,0,14,0,FALSE,Kickoff,27,39,M.Crosby kicks 66 yards from GB 35 to CHI -1. D.Thompson to CHI 26 for 27 yards (K.King).
+2017100101,3331,4,7:00:00,ATL,ATL,35,17,17,17,17,FALSE,Kickoff,27,40,M.Bosher kicks 67 yards from ATL 35 to BUF -2. T.Jones pushed ob at BUF 25 for 27 yards (R.Alford).
+2017100109,4680,5,10:00:00,ARI,ARI,35,12,12,12,12,FALSE,Kickoff,27,43,"P.Dawson kicks 70 yards from ARZ 35 to SF -5. V.Bolden to SF 22 for 27 yards (J.Bethel, B.Williams)."
+2017100103,1491,2,2:33:00,CIN,CIN,35,0,14,0,14,FALSE,Kickoff,27,42,R.Bullock kicks 69 yards from CIN 35 to CLV -4. J.Peppers to CLV 23 for 27 yards (C.Fejedelem; V.Rey).
+2017100800,3664,4,8:59:00,BUF,BUF,35,17,16,17,16,FALSE,Kickoff,27,35,S.Hauschka kicks 62 yards from BUF 35 to CIN 3. A.Erickson to CIN 30 for 27 yards (S.Thomas).
+2017101501,3686,4,5:08:00,CHI,CHI,35,13,24,13,24,FALSE,Kickoff,27,40,C.Barth kicks 67 yards from CHI 35 to BLT -2. B.Rainey to BLT 25 for 27 yards (C.LeBlanc). CHI-D.Brown was injured during the play.
+2017091704,2662,3,1:20:00,KC,KC,20,13,10,13,10,FALSE,Kickoff,28,46,C.Santos kicks 74 yards from KC 20 to PHI 6. W.Smallwood to PHI 34 for 28 yards (F.Zombo).
+2017091703,2021,3,15:00:00,TEN,TEN,35,3,6,3,6,FALSE,Kickoff,28,40,R.Succop kicks 68 yards from TEN 35 to JAX -3. C.Grant to JAX 25 for 28 yards (B.Trawick).
+2017092100,2302,3,15:00:00,SF,SF,35,13,24,13,24,FALSE,Kickoff,28,40,B.Pinion kicks 68 yards from SF 35 to LA -3. P.Cooper to LA 25 for 28 yards (R.Mostert).
+2017092100,4118,4,5:08:00,SF,SF,35,33,41,33,41,FALSE,Kickoff,28,36,"B.Pinion kicks 68 yards from SF 35 to LA -3. P.Cooper to LA 25 for 28 yards (V.Bolden). FUMBLES (V.Bolden), RECOVERED by SF-A.Robinson at LA 29. A.Robinson to LA 29 for no gain (T.Higbee). 4-yds of loose ball yardage"
+2017100104,46,1,15:00:00,LA,LA,35,0,0,0,0,FALSE,Kickoff,28,45,G.Zuerlein kicks 73 yards from LA 35 to DAL -8. R.Switzer to DAL 20 for 28 yards (M.Barron).
+2017100109,2192,2,1:24:00,ARI,ARI,35,6,6,6,6,FALSE,Kickoff,28,39,P.Dawson kicks 67 yards from ARZ 35 to SF -2. V.Bolden to SF 26 for 28 yards (T.Mathieu).
+2017100803,2064,3,15:00:00,IND,IND,35,6,6,6,6,FALSE,Kickoff,28,38,R.Sanchez kicks 66 yards from IND 35 to SF -1. V.Bolden to SF 27 for 28 yards (H.Krieger-Coble).
+2017101511,36,1,15:00:00,NYG,NYG,35,0,0,0,0,FALSE,Kickoff,28,43,A.Rosas kicks 71 yards from NYG 35 to DEN -6. B.Langley to DEN 22 for 28 yards (D.Deayon).
+2017101507,3069,4,12:56:00,TB,TB,35,31,20,31,20,FALSE,Kickoff,28,42,P.Murray kicks 70 yards from TB 35 to ARZ -5. K.Williams to ARZ 23 for 28 yards (I.Johnson).
+2017101501,1086,2,10:54:00,CHI,CHI,35,0,3,0,3,FALSE,Kickoff,28,37,C.Barth kicks 65 yards from CHI 35 to BLT 0. B.Rainey to BLT 28 for 28 yards (R.Robertson-Harris).
+2017090700,1640,2,7:27:00,NE,NE,35,17,7,17,7,FALSE,Kickoff,29,42,S.Gostkowski kicks 71 yards from NE 35 to KC -6. D.Thomas to KC 23 for 29 yards (J.Richards).
+2017100102,2021,2,0:38:00,PIT,PIT,35,0,19,0,19,FALSE,Kickoff,29,26,C.Boswell kicks 55 yards from PIT 35 to BLT 10. M.Campanaro to BLT 39 for 29 yards (M.Hilton).
+2017092403,1535,2,5:42:00,PIT,PIT,35,7,7,7,7,FALSE,Kickoff,29,40,C.Boswell kicks 69 yards from PIT 35 to CHI -4. D.Thompson to CHI 25 for 29 yards (M.Hilton).
+2017100103,2209,3,11:28:00,CIN,CIN,35,0,24,0,24,FALSE,Kickoff,29,37,R.Bullock kicks 66 yards from CIN 35 to CLV -1. J.Peppers to CLV 28 for 29 yards (C.Uzomah).
+2017101509,3201,4,3:24:00,PIT,PIT,35,10,19,10,19,FALSE,Kickoff,29,32,C.Boswell kicks 61 yards from PIT 35 to KC 4. A.Hunt to KC 33 for 29 yards (M.Hilton).
+2017100900,2224,3,15:00:00,CHI,CHI,35,2,3,2,3,FALSE,Kickoff,29,40,C.Barth kicks 69 yards from CHI 35 to MIN -4. J.McKinnon to MIN 25 for 29 yards (J.Anderson).
+2017101503,3490,4,10:47:00,MIN,MIN,35,23,10,23,10,FALSE,Kickoff,29,38,K.Forbath kicks 67 yards from MIN 35 to GB -2. T.Davis to GB 27 for 29 yards (B.Gedeon).
+2017091702,4307,5,10:00:00,ARI,ARI,35,13,13,13,13,FALSE,Kickoff,30,39,P.Dawson kicks 69 yards from ARZ 35 to IND -4. Q.Bray to IND 26 for 30 yards (J.Bethel).
+2017092402,3217,4,4:42:00,NO,NO,35,13,34,13,34,FALSE,Kickoff,30,33,W.Lutz kicks 63 yards from NO 35 to CAR 2. C.Samuel to CAR 32 for 30 yards (D.Harris).
+2017100805,379,1,8:53:00,LAC,LAC,20,2,0,2,0,FALSE,Kickoff,30,43,"D.Kaser kicks 73 yards from LAC 20 to NYG 7. D.Harris pushed ob at NYG 37 for 30 yards (N.Dzubnar, A.Ekeler)."
+2017090700,1241,2,14:56:00,NE,NE,35,10,7,10,7,TRUE,Kickoff,31,20,"S.Gostkowski kicks 66 yards from NE 35 to KC -1. D.Thomas pushed ob at KC 30 for 31 yards (P.Chung). PENALTY on NE-B.King, Unnecessary Roughness, 15 yards, enforced at KC 30."
+2017091100,1415,2,5:26:00,NO,NO,35,3,6,3,6,FALSE,Kickoff,31,39,W.Lutz kicks 70 yards from NO 35 to MIN -5. J.McKinnon to MIN 26 for 31 yards (C.Robertson).
+2017091709,1129,2,9:08:00,NYJ,NYJ,35,14,7,14,7,TRUE,Kickoff,31,50,"C.Catanzaro kicks 66 yards from NYJ 35 to OAK -1. C.Patterson to OAK 30 for 31 yards (J.Martin; D.Roberts). PENALTY on OAK-J.Feliciano, Unnecessary Roughness, 15 yards, enforced at OAK 30."
+2017100809,178,1,12:45:00,BAL,BAL,35,0,7,0,7,FALSE,Kickoff,31,33,J.Tucker kicks 64 yards from BLT 35 to OAK 1. C.Patterson to OAK 32 for 31 yards (K.Correa).
+2017100808,2207,3,15:00:00,SEA,SEA,35,10,10,10,10,FALSE,Kickoff,31,33,B.Walsh kicks 64 yards from SEA 35 to LA 1. P.Cooper to LA 32 for 31 yards (T.Madden; T.Garvin).
+2017100106,991,2,10:47:00,DET,DET,35,0,3,0,3,FALSE,Kickoff,32,38,J.Locke kicks 70 yards from DET 35 to MIN -5. J.McKinnon to MIN 27 for 32 yards (S.Longa).
+2017100106,2403,3,8:00:00,DET,DET,35,7,14,7,14,FALSE,Kickoff,32,26,J.Locke kicks 58 yards from DET 35 to MIN 7. J.McKinnon to MIN 39 for 32 yards (N.Lawson).
+2017100108,1414,2,5:10:00,JAX,JAX,35,7,10,7,10,FALSE,Kickoff,32,34,J.Myers kicks 66 yards from JAX 35 to NYJ -1. A.Stewart to NYJ 31 for 32 yards (J.Wilson).
+2017101600,276,1,11:15:00,TEN,TEN,35,3,0,3,0,FALSE,Kickoff,32,35,R.Succop kicks 67 yards from TEN 35 to IND -2. Q.Bray to IND 30 for 32 yards (R.Succop; L.Sims).
+2017101200,2352,3,13:59:00,PHI,PHI,35,10,18,10,18,FALSE,Kickoff,33,30,J.Elliott kicks 63 yards from PHI 35 to CAR 2. C.Samuel to CAR 35 for 33 yards (C.Clement; T.Burton).
+2017091705,3272,3,0:40:00,NE,NE,35,13,33,13,33,FALSE,Kickoff,34,32,S.Gostkowski kicks 66 yards from NE 35 to NO -1. A.Kamara to NO 33 for 34 yards (D.McCourty).
+2017091708,1361,2,5:01:00,LAC,LAC,35,10,3,10,3,FALSE,Kickoff,34,31,Y.Koo kicks 65 yards from LAC 35 to MIA 0. K.Drake to MIA 34 for 34 yards (D.King).
+2017091711,966,2,14:54:00,WAS,WAS,35,0,10,0,10,FALSE,Kickoff,34,37,D.Hopkins kicks 71 yards from WAS 35 to LA -6. P.Cooper to LA 28 for 34 yards (B.Breeland).
+2017091712,951,1,0:49:00,SEA,SEA,35,6,0,6,0,FALSE,Kickoff,34,33,B.Walsh kicks 67 yards from SEA 35 to SF -2. V.Bolden pushed ob at SF 32 for 34 yards (K.Chancellor).
+2017100811,3132,4,12:00:00,HOU,HOU,35,20,26,20,26,FALSE,Kickoff,34,35,K.Fairbairn kicks 69 yards from HST 35 to KC -4. A.Hunt pushed ob at KC 30 for 34 yards (E.Pleasant).
+2017091007,2866,4,11:58:00,OAK,OAK,35,13,23,13,23,FALSE,Kickoff,35,30,G.Tavecchio kicks 65 yards from OAK 35 to TEN 0. A.Jackson to TEN 35 for 35 yards (J.Cowser).
+2017091009,3135,4,11:32:00,IND,IND,35,37,9,37,9,FALSE,Kickoff,35,23,R.Sanchez kicks 58 yards from IND 35 to LA 7. P.Cooper to LA 42 for 35 yards (M.Hooker).
+2017091400,3826,4,1:56:00,HOU,HOU,35,9,13,9,13,FALSE,Kickoff,35,34,K.Fairbairn kicks 69 yards from HST 35 to CIN -4. A.Erickson to CIN 31 for 35 yards (K.Drummond; J.Strong).
+2017092409,36,1,15:00:00,NYG,NYG,35,0,0,0,0,FALSE,Kickoff,35,30,A.Rosas kicks 65 yards from NYG 35 to PHI 0. C.Clement to PHI 35 for 35 yards (C.Grant).
+2017091101,3070,4,8:10:00,LAC,LAC,20,24,14,24,14,FALSE,Kickoff,36,42,Y.Koo kicks 78 yards from LAC 20 to DEN 2. C.Latimer to DEN 38 for 36 yards (J.Onwualu).
+2017092401,3646,4,13:52:00,BUF,BUF,35,23,16,23,16,FALSE,Kickoff,36,27,S.Hauschka kicks 63 yards from BUF 35 to DEN 2. C.Latimer to DEN 38 for 36 yards (J.Webb).
+2017101501,3317,4,11:26:00,BAL,BAL,35,13,17,13,17,TRUE,Kickoff,37,21,"J.Tucker kicks 63 yards from BLT 35 to CHI 2. T.Cohen to CHI 39 for 37 yards (J.Tucker). PENALTY on BLT-A.Levine Sr., Offside on Free Kick, 5 yards, enforced at CHI 39."
+2017092404,1141,2,10:27:00,DET,DET,35,3,10,3,10,FALSE,Kickoff,38,29,J.Locke kicks 67 yards from DET 35 to ATL -2. A.Roberts to ATL 36 for 38 yards (Ch.Washington; J.Abbrederis).
+2017091100,2112,3,15:00:00,NO,NO,35,16,6,16,6,FALSE,Kickoff,39,32,W.Lutz kicks 71 yards from NO 35 to MIN -6. J.McKinnon to MIN 33 for 39 yards (C.Robertson).
+2017101510,1611,2,1:41:00,LAC,LAC,30,7,7,7,7,FALSE,Kickoff,39,30,N.Novak kicks 69 yards from LAC 30 to OAK 1. C.Patterson pushed ob at OAK 40 for 39 yards (M.Davis).
+2017091704,2980,4,11:57:00,PHI,PHI,35,13,13,13,13,FALSE,Kickoff,40,31,J.Elliott kicks 71 yards from PHI 35 to KC -6. A.Hunt to KC 34 for 40 yards (M.Kendricks).
+2017091709,567,1,4:54:00,OAK,OAK,35,7,0,7,0,FALSE,Kickoff,40,27,G.Tavecchio kicks 67 yards from OAK 35 to NYJ -2. K.Raymond pushed ob at NYJ 38 for 40 yards (A.Hamilton).
+2017101600,45,1,15:00:00,IND,IND,35,0,0,0,0,FALSE,Kickoff,40,25,R.Sanchez kicks 65 yards from IND 35 to TEN 0. A.Jackson pushed ob at TEN 40 for 40 yards (R.Sanchez).
+2017091007,3383,4,4:49:00,TEN,TEN,35,16,23,16,23,FALSE,Kickoff,41,24,R.Succop kicks 65 yards from TEN 35 to OAK 0. C.Patterson to OAK 41 for 41 yards (R.Succop).
+2017091400,913,1,1:28:00,HOU,HOU,35,0,3,0,3,FALSE,Kickoff,41,29,K.Fairbairn kicks 70 yards from HST 35 to CIN -5. A.Erickson to CIN 36 for 41 yards (B.Peters).
+2017092412,797,1,0:05:00,LAC,LAC,35,7,14,7,14,FALSE,Kickoff,42,25,"Y.Koo kicks 67 yards from LAC 35 to KC -2. A.Hunt to KC 40 for 42 yards (R.Jenkins, J.Onwualu)."
+2017100105,1623,2,1:50:00,TEN,TEN,35,24,14,24,14,FALSE,Kickoff,42,23,R.Succop kicks 65 yards from TEN 35 to HST 0. C.Thompson to HST 42 for 42 yards (B.McCain; L.Sims).
+2017091010,35,1,15:00:00,GB,GB,35,0,0,0,0,FALSE,Kickoff,43,26,M.Crosby kicks 69 yards from GB 35 to SEA -4. T.Lockett pushed ob at SEA 39 for 43 yards (K.Brice).
+2017101511,4158,4,0:27:00,NYG,NYG,35,10,23,10,23,FALSE,Kickoff,47,27,A.Rosas kicks 74 yards from NYG 35 to DEN -9. B.Langley to DEN 38 for 47 yards (A.Rosas).
+2017100105,3030,4,11:19:00,HOU,HOU,35,44,14,44,14,FALSE,Kickoff,48,23,K.Fairbairn kicks 71 yards from HST 35 to TEN -6. A.Jackson pushed ob at TEN 42 for 48 yards (K.Fairbairn).
+2017100112,845,1,1:09:00,DEN,DEN,35,10,0,10,0,FALSE,Kickoff,49,21,B.McManus kicks 70 yards from DEN 35 to OAK -5. C.Patterson pushed ob at OAK 44 for 49 yards (A.Janovich; B.McManus).
+2017092406,2210,3,12:25:00,MIN,MIN,35,28,3,28,3,FALSE,Kickoff,50,11,K.Forbath kicks 61 yards from MIN 35 to TB 4. B.Reedy pushed ob at MIN 46 for 50 yards (K.Forbath).
+2017101600,3024,4,10:01:00,TEN,TEN,35,22,19,22,19,FALSE,Kickoff,60,5,R.Succop kicks 65 yards from TEN 35 to IND 0. Q.Bray pushed ob at TEN 40 for 60 yards (B.McCain).
+2017100101,3481,4,4:44:00,BUF,BUF,35,17,20,17,20,FALSE,Kickoff,61,7,S.Hauschka kicks 68 yards from BUF 35 to ATL -3. A.Roberts pushed ob at BUF 42 for 61 yards (S.Wright).
+2017100104,921,2,14:05:00,DAL,DAL,35,10,3,10,3,FALSE,Kickoff,66,0,D.Bailey kicks 66 yards from DAL 35 to LA -1. P.Cooper to DAL 35 for 66 yards (D.Wilson).
+2017101501,2631,3,6:01:00,CHI,CHI,35,3,17,9,17,FALSE,Kickoff,96,-35,"C.Barth kicks 61 yards from CHI 35 to BLT 4. B.Rainey for 96 yards, TOUCHDOWN. The Replay Official reviewed the runner was not down by contact ruling, and the play was Upheld. The ruling on the field stands."
+2017101508,41,1,15:00:00,JAX,JAX,35,0,0,0,6,FALSE,Kickoff,103,-35,"J.Myers kicks 68 yards from JAX 35 to LA -3. P.Cooper for 103 yards, TOUCHDOWN."
+2017091004,2462,3,15:00:00,ARI,ARI,35,9,10,9,10,FALSE,Kickoff,NA,40,"P.Dawson kicks 65 yards from ARZ 35 to end zone, Touchback."
+2017091004,3233,3,3:07:00,DET,DET,35,15,17,15,17,FALSE,Kickoff,NA,40,"M.Prater kicks 65 yards from DET 35 to end zone, Touchback."
+2017091004,3757,4,9:27:00,DET,DET,35,21,17,21,17,FALSE,Kickoff,NA,40,"M.Prater kicks 65 yards from DET 35 to end zone, Touchback."
+2017091004,4064,4,4:13:00,DET,DET,35,28,17,28,17,FALSE,Kickoff,NA,40,"M.Prater kicks 65 yards from DET 35 to end zone, Touchback."
+2017091004,4127,4,4:03:00,DET,DET,35,35,17,35,17,FALSE,Kickoff,NA,40,"M.Prater kicks 65 yards from DET 35 to end zone, Touchback."
+2017091004,4514,4,1:33:00,ARI,ARI,35,35,23,35,23,FALSE,Kickoff,NA,9,"P.Dawson kicks onside 9 yards from ARZ 35 to ARZ 44, out of bounds."
+2017090700,380,1,12:08:00,NE,NE,35,7,0,7,0,FALSE,Kickoff,NA,40,"S.Gostkowski kicks 65 yards from NE 35 to end zone, Touchback."
+2017090700,974,1,3:03:00,KC,KC,35,7,7,7,7,FALSE,Kickoff,NA,40,"C.Santos kicks 65 yards from KC 35 to end zone, Touchback."
+2017090700,2415,3,15:00:00,NE,NE,35,17,14,17,14,FALSE,Kickoff,NA,40,"S.Gostkowski kicks 65 yards from NE 35 to end zone, Touchback."
+2017090700,2792,3,9:19:00,KC,KC,35,17,21,17,21,FALSE,Kickoff,NA,40,"C.Santos kicks 65 yards from KC 35 to end zone, Touchback."
+2017090700,3761,4,14:07:00,KC,KC,35,27,28,27,28,FALSE,Kickoff,NA,40,"C.Santos kicks 65 yards from KC 35 to end zone, Touchback."
+2017090700,4347,4,5:14:00,KC,KC,35,27,35,27,35,FALSE,Kickoff,NA,40,"C.Santos kicks 65 yards from KC 35 to end zone, Touchback."
+2017091003,44,1,15:00:00,PIT,PIT,35,0,0,0,0,FALSE,Kickoff,NA,40,"C.Boswell kicks 65 yards from PIT 35 to end zone, Touchback."
+2017091003,189,1,12:44:00,PIT,PIT,35,0,7,0,7,FALSE,Kickoff,NA,40,"C.Boswell kicks 65 yards from PIT 35 to end zone, Touchback."
+2017091003,878,1,0:22:00,CLE,CLE,35,7,7,7,7,FALSE,Kickoff,NA,40,"Z.Gonzalez kicks 65 yards from CLV 35 to end zone, Touchback."
+2017091003,2078,3,15:00:00,CLE,CLE,35,7,14,7,14,FALSE,Kickoff,NA,40,"Z.Gonzalez kicks 65 yards from CLV 35 to end zone, Touchback."
+2017091003,2351,3,9:27:00,CLE,CLE,35,10,14,10,14,FALSE,Kickoff,NA,40,"Z.Gonzalez kicks 65 yards from CLV 35 to end zone, Touchback."
+2017091003,2563,3,5:37:00,PIT,PIT,35,10,21,10,21,FALSE,Kickoff,NA,40,"C.Boswell kicks 65 yards from PIT 35 to end zone, Touchback."
+2017091002,36,1,15:00:00,BAL,BAL,35,0,0,0,0,FALSE,Kickoff,NA,40,"J.Tucker kicks 65 yards from BLT 35 to end zone, Touchback."
+2017091002,631,1,4:44:00,BAL,BAL,35,0,3,0,3,FALSE,Kickoff,NA,40,"J.Tucker kicks 65 yards from BLT 35 to end zone, Touchback."
+2017091002,1766,2,1:28:00,BAL,BAL,35,0,17,0,17,FALSE,Kickoff,NA,40,"J.Tucker kicks 65 yards from BLT 35 to end zone, Touchback."
+2017091002,2026,3,15:00:00,CIN,CIN,35,0,17,0,17,FALSE,Kickoff,NA,40,"R.Bullock kicks 65 yards from CIN 35 to end zone, Touchback."
+2017091002,2757,3,1:06:00,BAL,BAL,35,0,20,0,20,FALSE,Kickoff,NA,40,"J.Tucker kicks 65 yards from BLT 35 to end zone, Touchback."
+2017091000,36,1,15:00:00,NYJ,NYJ,35,0,0,0,0,FALSE,Kickoff,NA,40,"C.Catanzaro kicks 65 yards from NYJ 35 to end zone, Touchback. Kick through end zone."
+2017091000,1212,2,11:26:00,BUF,BUF,35,7,0,7,0,FALSE,Kickoff,NA,40,"S.Hauschka kicks 65 yards from BUF 35 to end zone, Touchback. Kick through end zone."
+2017091000,1470,2,6:34:00,NYJ,NYJ,35,7,3,7,3,FALSE,Kickoff,NA,40,"C.Catanzaro kicks 65 yards from NYJ 35 to end zone, Touchback. Kick through end zone."
+2017091000,1881,2,1:44:00,NYJ,NYJ,35,7,6,7,6,FALSE,Kickoff,NA,40,"C.Catanzaro kicks 65 yards from NYJ 35 to end zone, Touchback. Kick through end zone."
+2017091000,2739,3,6:52:00,BUF,BUF,35,14,6,14,6,FALSE,Kickoff,NA,40,"S.Hauschka kicks 65 yards from BUF 35 to end zone, Touchback. Kick through end zone."
+2017091001,872,2,14:55:00,CHI,CHI,35,3,3,3,3,FALSE,Kickoff,NA,40,"C.Barth kicks 65 yards from CHI 35 to end zone, Touchback."
+2017091001,1421,2,4:29:00,ATL,ATL,35,3,10,3,10,FALSE,Kickoff,NA,40,"M.Bosher kicks 65 yards from ATL 35 to end zone, Touchback."
+2017091001,1653,2,0:14:00,CHI,CHI,35,10,10,10,10,FALSE,Kickoff,NA,40,"C.Barth kicks 65 yards from CHI 35 to end zone, Touchback."
+2017091001,1706,3,15:00:00,ATL,ATL,35,10,10,10,10,FALSE,Kickoff,NA,40,"M.Bosher kicks 65 yards from ATL 35 to end zone, Touchback."
+2017091001,2903,4,11:55:00,ATL,ATL,35,10,20,10,20,FALSE,Kickoff,NA,40,"M.Bosher kicks 65 yards from ATL 35 to end zone, Touchback."
+2017091001,3190,4,7:26:00,CHI,CHI,35,17,20,17,20,FALSE,Kickoff,NA,40,"C.Barth kicks 65 yards from CHI 35 to end zone, Touchback."
+2017091007,197,1,12:49:00,OAK,OAK,35,0,7,0,7,FALSE,Kickoff,NA,40,"G.Tavecchio kicks 65 yards from OAK 35 to end zone, Touchback."
+2017091007,493,1,6:58:00,TEN,TEN,35,7,7,7,7,FALSE,Kickoff,NA,40,"R.Succop kicks 65 yards from TEN 35 to end zone, Touchback."
+2017091007,948,2,14:55:00,OAK,OAK,35,7,10,7,10,FALSE,Kickoff,NA,40,"G.Tavecchio kicks 65 yards from OAK 35 to end zone, Touchback."
+2017091007,1634,2,0:43:00,TEN,TEN,35,10,10,10,10,FALSE,Kickoff,NA,40,"R.Succop kicks 65 yards from TEN 35 to end zone, Touchback."
+2017091007,1818,3,15:00:00,OAK,OAK,35,10,13,10,13,FALSE,Kickoff,NA,40,"G.Tavecchio kicks 65 yards from OAK 35 to end zone, Touchback."
+2017091007,2435,3,4:31:00,OAK,OAK,35,10,16,10,16,FALSE,Kickoff,NA,40,"G.Tavecchio kicks 65 yards from OAK 35 to end zone, Touchback."
+2017091007,2668,4,15:00:00,TEN,TEN,35,13,16,13,16,TRUE,Kickoff,NA,35,"R.Succop kicks 65 yards from TEN 35 to end zone, Touchback. PENALTY on TEN-D.Bates, Offside on Free Kick, 5 yards, enforced at OAK 25."
+2017091007,3685,4,1:09:00,OAK,OAK,35,16,26,16,26,FALSE,Kickoff,NA,40,"G.Tavecchio kicks 65 yards from OAK 35 to end zone, Touchback."
+2017091008,301,1,11:28:00,PHI,PHI,35,0,7,0,7,FALSE,Kickoff,NA,40,"C.Sturgis kicks 65 yards from PHI 35 to end zone, Touchback."
+2017091008,1323,2,8:30:00,WAS,WAS,35,7,13,7,13,FALSE,Kickoff,NA,40,"D.Hopkins kicks 65 yards from WAS 35 to end zone, Touchback."
+2017091008,1779,2,1:17:00,WAS,WAS,35,14,13,14,13,FALSE,Kickoff,NA,40,"D.Hopkins kicks 65 yards from WAS 35 to end zone, Touchback."
+2017091008,2149,3,15:00:00,WAS,WAS,35,14,16,14,16,FALSE,Kickoff,NA,40,"D.Hopkins kicks 65 yards from WAS 35 to end zone, Touchback."
+2017091008,3755,4,1:59:00,PHI,PHI,35,17,22,17,22,FALSE,Kickoff,NA,40,"C.Sturgis kicks 65 yards from PHI 35 to end zone, Touchback."
+2017091005,35,1,15:00:00,HOU,HOU,35,0,0,0,0,FALSE,Kickoff,NA,40,"K.Fairbairn kicks 65 yards from HST 35 to end zone, Touchback."
+2017091005,258,1,12:08:00,JAX,JAX,35,0,3,0,3,FALSE,Kickoff,NA,40,"J.Myers kicks 65 yards from JAX 35 to end zone, Touchback."
+2017091005,955,2,14:49:00,JAX,JAX,35,0,6,0,6,FALSE,Kickoff,NA,40,"J.Myers kicks 65 yards from JAX 35 to end zone, Touchback."
+2017091005,1763,2,2:02:00,JAX,JAX,35,0,12,0,12,FALSE,Kickoff,NA,40,"J.Myers kicks 65 yards from JAX 35 to end zone, Touchback."
+2017091005,2033,2,0:49:00,JAX,JAX,35,0,19,0,19,FALSE,Kickoff,NA,40,"J.Myers kicks 65 yards from JAX 35 to end zone, Touchback."
+2017091005,2110,3,15:00:00,JAX,JAX,35,0,19,0,19,FALSE,Kickoff,NA,40,"J.Myers kicks 65 yards from JAX 35 to end zone, Touchback."
+2017091005,2563,3,9:09:00,HOU,HOU,35,7,19,7,19,FALSE,Kickoff,NA,40,"K.Fairbairn kicks 65 yards from HST 35 to end zone, Touchback."
+2017091005,2847,3,4:14:00,JAX,JAX,35,7,26,7,26,FALSE,Kickoff,NA,40,"J.Myers kicks 65 yards from JAX 35 to end zone, Touchback."
+2017091010,2033,3,15:00:00,SEA,SEA,35,0,3,0,3,FALSE,Kickoff,NA,40,"B.Walsh kicks 65 yards from SEA 35 to end zone, Touchback."
+2017091010,2666,3,4:20:00,SEA,SEA,35,7,6,7,6,FALSE,Kickoff,NA,40,"B.Walsh kicks 65 yards from SEA 35 to end zone, Touchback."
+2017091010,3456,4,8:01:00,GB,GB,35,17,6,17,6,FALSE,Kickoff,NA,40,"M.Crosby kicks 65 yards from GB 35 to end zone, Touchback."
+2017091010,3635,4,6:17:00,SEA,SEA,35,17,9,17,9,FALSE,Kickoff,NA,40,"B.Walsh kicks 65 yards from SEA 35 to end zone, Touchback."
+2017091009,36,1,15:00:00,IND,IND,35,0,0,0,0,FALSE,Kickoff,NA,40,"R.Sanchez kicks 65 yards from IND 35 to end zone, Touchback."
+2017091009,207,1,12:43:00,LA,LA,35,3,0,3,0,FALSE,Kickoff,NA,40,"G.Zuerlein kicks 65 yards from LA 35 to end zone, Touchback."
+2017091009,302,1,11:10:00,LA,LA,35,10,0,10,0,FALSE,Kickoff,NA,40,"G.Zuerlein kicks 65 yards from LA 35 to end zone, Touchback."
+2017091009,575,1,6:21:00,IND,IND,35,10,3,10,3,FALSE,Kickoff,NA,40,"R.Sanchez kicks 65 yards from IND 35 to end zone, Touchback."
+2017091009,1341,2,9:37:00,LA,LA,35,17,3,17,3,FALSE,Kickoff,NA,40,"G.Zuerlein kicks 65 yards from LA 35 to end zone, Touchback."
+2017091009,1632,2,5:20:00,LA,LA,35,24,3,24,3,FALSE,Kickoff,NA,40,"G.Zuerlein kicks 65 yards from LA 35 to end zone, Touchback."
+2017091009,1970,2,0:17:00,LA,LA,35,27,3,27,3,FALSE,Kickoff,NA,40,"G.Zuerlein kicks 65 yards from LA 35 to end zone, Touchback."
+2017091009,2048,3,15:00:00,LA,LA,35,27,3,27,3,FALSE,Kickoff,NA,40,"G.Zuerlein kicks 65 yards from LA 35 to end zone, Touchback."
+2017091009,2464,3,7:23:00,LA,LA,35,30,3,30,3,FALSE,Kickoff,NA,40,"G.Zuerlein kicks 65 yards from LA 35 to end zone, Touchback."
+2017091009,2522,3,7:15:00,LA,LA,35,37,3,37,3,FALSE,Kickoff,NA,40,"G.Zuerlein kicks 65 yards from LA 35 to end zone, Touchback."
+2017091009,3562,4,4:28:00,LA,LA,35,46,9,46,9,FALSE,Kickoff,NA,40,"G.Zuerlein kicks 65 yards from LA 35 to end zone, Touchback."
+2017091011,36,1,15:00:00,SF,SF,35,0,0,0,0,FALSE,Kickoff,NA,40,"B.Pinion kicks 65 yards from SF 35 to end zone, Touchback."
+2017091011,758,1,3:00:00,CAR,CAR,35,0,7,0,7,FALSE,Kickoff,NA,40,"G.Gano kicks 65 yards from CAR 35 to end zone, Touchback."
+2017091011,1717,2,3:23:00,CAR,CAR,35,0,10,0,10,FALSE,Kickoff,NA,40,"G.Gano kicks 65 yards from CAR 35 to end zone, Touchback."
+2017091011,2121,3,15:00:00,CAR,CAR,35,0,13,0,13,FALSE,Kickoff,NA,40,"G.Gano kicks 65 yards from CAR 35 to end zone, Touchback."
+2017091011,2347,3,11:24:00,CAR,CAR,35,0,20,0,20,FALSE,Kickoff,NA,40,"G.Gano kicks 65 yards from CAR 35 to end zone, Touchback."
+2017091011,2732,3,3:11:00,CAR,CAR,35,0,23,0,23,FALSE,Kickoff,NA,40,"G.Gano kicks 65 yards from CAR 35 to end zone, Touchback."
+2017091011,3038,3,0:08:00,SF,SF,35,3,23,3,23,FALSE,Kickoff,NA,40,"B.Pinion kicks 65 yards from SF 35 to end zone, Touchback."
+2017091012,594,1,6:25:00,DAL,DAL,35,3,0,3,0,FALSE,Kickoff,NA,40,"D.Bailey kicks 65 yards from DAL 35 to end zone, Touchback."
+2017091012,1756,2,1:41:00,DAL,DAL,35,13,0,13,0,FALSE,Kickoff,NA,40,"D.Bailey kicks 65 yards from DAL 35 to end zone, Touchback."
+2017091012,2066,2,0:05:00,DAL,DAL,35,16,0,16,0,FALSE,Kickoff,NA,40,"D.Bailey kicks 65 yards from DAL 35 to end zone, Touchback."
+2017091012,2165,3,15:00:00,DAL,DAL,35,16,0,16,0,FALSE,Kickoff,NA,40,"D.Bailey kicks 65 yards from DAL 35 to end zone, Touchback."
+2017091100,831,1,1:01:00,MIN,MIN,35,3,3,3,3,FALSE,Kickoff,NA,40,"K.Forbath kicks 65 yards from MIN 35 to end zone, Touchback."
+2017091100,2338,3,11:07:00,MIN,MIN,35,19,6,19,6,FALSE,Kickoff,NA,40,"K.Forbath kicks 65 yards from MIN 35 to end zone, Touchback."
+2017091100,3097,4,12:52:00,MIN,MIN,35,26,9,26,9,FALSE,Kickoff,NA,40,"K.Forbath kicks 65 yards from MIN 35 to end zone, Touchback."
+2017091100,3387,4,7:49:00,NO,NO,35,26,12,26,12,FALSE,Kickoff,NA,40,"W.Lutz kicks 65 yards from NO 35 to end zone, Touchback."
+2017091100,3599,4,4:00:00,MIN,MIN,35,29,12,29,12,FALSE,Kickoff,NA,40,"K.Forbath kicks 65 yards from MIN 35 to end zone, Touchback."
+2017091100,3846,4,1:56:00,NO,NO,35,29,19,29,19,FALSE,Kickoff,NA,13,"(Onside Kick formation) W.Lutz kicks onside 13 yards from NO 35 to NO 48, impetus ends at NO 48, out of bounds."
+2017091701,37,1,15:00:00,BUF,BUF,35,0,0,0,0,FALSE,Kickoff,NA,40,"S.Hauschka kicks 65 yards from BUF 35 to end zone, Touchback."
+2017091701,354,1,8:49:00,CAR,CAR,35,3,0,3,0,FALSE,Kickoff,NA,40,"G.Gano kicks 65 yards from CAR 35 to end zone, Touchback."
+2017091701,1417,2,2:02:00,CAR,CAR,35,6,0,6,0,FALSE,Kickoff,NA,40,"G.Gano kicks 65 yards from CAR 35 to end zone, Touchback."
+2017091701,1788,3,15:00:00,CAR,CAR,35,6,0,6,0,FALSE,Kickoff,NA,40,"G.Gano kicks 65 yards from CAR 35 to end zone, Touchback."
+2017091701,2870,4,11:09:00,BUF,BUF,35,6,3,6,3,FALSE,Kickoff,NA,40,"S.Hauschka kicks 65 yards from BUF 35 to end zone, Touchback."
+2017091701,3284,4,2:35:00,CAR,CAR,35,9,3,9,3,FALSE,Kickoff,NA,40,"G.Gano kicks 65 yards from CAR 35 to end zone, Touchback."
+2017091704,596,1,4:28:00,PHI,PHI,35,3,3,3,3,FALSE,Kickoff,NA,40,"J.Elliott kicks 65 yards from PHI 35 to end zone, Touchback."
+2017091704,1780,2,0:17:00,KC,KC,35,6,3,6,3,FALSE,Kickoff,NA,40,"C.Santos kicks 65 yards from KC 35 to end zone, Touchback."
+2017091704,1927,3,15:00:00,KC,KC,35,6,3,6,3,FALSE,Kickoff,NA,40,"C.Santos kicks 65 yards from KC 35 to end zone, Touchback."
+2017091704,3327,4,6:25:00,KC,KC,35,20,13,20,13,FALSE,Kickoff,NA,40,"C.Santos kicks 65 yards from KC 35 to end zone, Touchback."
+2017091704,3598,4,2:14:00,KC,KC,35,27,13,27,13,FALSE,Kickoff,NA,40,"C.Santos kicks 65 yards from KC 35 to end zone, Touchback."
+2017091704,3967,4,0:08:00,PHI,PHI,35,27,20,27,20,FALSE,Kickoff,NA,26,"J.Elliott kicks onside 26 yards from PHI 35 to KC 39, impetus ends at PHI 46. RECOVERED by PHI-T.Burton."
+2017091705,36,1,15:00:00,NO,NO,35,0,0,0,0,FALSE,Kickoff,NA,40,"W.Lutz kicks 65 yards from NO 35 to end zone, Touchback."
+2017091705,508,1,7:38:00,NO,NO,35,3,6,3,6,FALSE,Kickoff,NA,40,"W.Lutz kicks 65 yards from NO 35 to end zone, Touchback."
+2017091705,1345,2,11:52:00,NO,NO,35,10,20,10,20,FALSE,Kickoff,NA,40,"W.Lutz kicks 65 yards from NO 35 to end zone, Touchback."
+2017091705,1695,2,8:18:00,NO,NO,35,13,20,13,20,FALSE,Kickoff,NA,40,"W.Lutz kicks 65 yards from NO 35 to end zone, Touchback."
+2017091705,2370,3,15:00:00,NE,NE,35,13,30,13,30,FALSE,Kickoff,NA,40,"S.Gostkowski kicks 65 yards from NE 35 to end zone, Touchback."
+2017091705,3768,4,8:49:00,NE,NE,35,13,36,13,36,FALSE,Kickoff,NA,40,"S.Gostkowski kicks 65 yards from NE 35 to end zone, Touchback."
+2017091702,36,1,15:00:00,IND,IND,35,0,0,0,0,FALSE,Kickoff,NA,40,"R.Sanchez kicks 65 yards from IND 35 to end zone, Touchback."
+2017091702,781,1,1:27:00,IND,IND,35,10,0,10,0,FALSE,Kickoff,NA,40,"R.Sanchez kicks 65 yards from IND 35 to end zone, Touchback."
+2017091702,2126,3,15:00:00,ARI,ARI,35,10,3,10,3,FALSE,Kickoff,NA,40,"P.Dawson kicks 65 yards from ARZ 35 to end zone, Touchback."
+2017091702,3667,4,3:25:00,ARI,ARI,35,13,13,13,13,FALSE,Kickoff,NA,40,"P.Dawson kicks 65 yards from ARZ 35 to end zone, Touchback."
+2017092408,36,1,15:00:00,MIA,MIA,35,0,0,0,0,FALSE,Kickoff,NA,40,"C.Parkey kicks 65 yards from MIA 35 to end zone, Touchback."
+2017092408,1438,2,7:17:00,NYJ,NYJ,35,3,0,3,0,FALSE,Kickoff,NA,40,"C.Catanzaro kicks 65 yards from NYJ 35 to end zone, Touchback."
+2017092408,2061,3,15:00:00,NYJ,NYJ,35,10,0,10,0,FALSE,Kickoff,NA,40,"C.Catanzaro kicks 65 yards from NYJ 35 to end zone, Touchback."
+2017092408,2394,3,9:48:00,NYJ,NYJ,35,17,0,17,0,FALSE,Kickoff,NA,40,"C.Catanzaro kicks 65 yards from NYJ 35 to end zone, Touchback."
+2017092408,2888,3,1:35:00,NYJ,NYJ,35,20,0,20,0,FALSE,Kickoff,NA,40,"C.Catanzaro kicks 65 yards from NYJ 35 to end zone, Touchback."
+2017091703,41,1,15:00:00,JAX,JAX,35,0,0,0,0,FALSE,Kickoff,NA,40,"J.Myers kicks 65 yards from JAX 35 to end zone, Touchback."
+2017091703,419,1,7:24:00,JAX,JAX,35,3,0,3,0,FALSE,Kickoff,NA,40,"J.Myers kicks 65 yards from JAX 35 to end zone, Touchback."
+2017091703,675,1,2:16:00,TEN,TEN,35,3,3,3,3,FALSE,Kickoff,NA,40,"R.Succop kicks 65 yards from TEN 35 to end zone, Touchback."
+2017091703,2376,3,9:24:00,TEN,TEN,35,3,9,3,9,FALSE,Kickoff,NA,40,"R.Succop kicks 65 yards from TEN 35 to end zone, Touchback."
+2017091703,3429,4,9:57:00,TEN,TEN,35,3,30,3,30,FALSE,Kickoff,NA,40,"R.Succop kicks 65 yards from TEN 35 to end zone, Touchback."
+2017091707,37,1,15:00:00,CHI,CHI,35,0,0,0,0,FALSE,Kickoff,NA,40,"C.Barth kicks 65 yards from CHI 35 to end zone, Touchback."
+2017091707,369,1,8:58:00,TB,TB,35,3,0,3,0,FALSE,Kickoff,NA,40,"N.Folk kicks 65 yards from TB 35 to end zone, Touchback."
+2017091707,827,1,0:10:00,TB,TB,35,10,0,10,0,TRUE,Kickoff,NA,52,"N.Folk kicks 65 yards from TB 35 to end zone, Touchback. PENALTY on CHI-T.Gentry, Unnecessary Roughness, 12 yards, enforced at CHI 25."
+2017091707,1515,2,4:09:00,TB,TB,35,23,0,23,0,FALSE,Kickoff,NA,40,"N.Folk kicks 65 yards from TB 35 to end zone, Touchback."
+2017091707,2006,3,15:00:00,TB,TB,35,26,0,26,0,FALSE,Kickoff,NA,40,"N.Folk kicks 65 yards from TB 35 to end zone, Touchback."
+2017091707,3833,4,1:43:00,CHI,CHI,35,29,7,29,7,FALSE,Kickoff,NA,40,"C.Barth kicks 65 yards from CHI 35 to end zone, Touchback."
+2017091708,49,1,15:00:00,MIA,MIA,35,0,0,0,0,FALSE,Kickoff,NA,40,"C.Parkey kicks 65 yards from MIA 35 to end zone, Touchback."
+2017091708,490,1,7:07:00,MIA,MIA,35,0,3,0,3,FALSE,Kickoff,NA,40,"C.Parkey kicks 65 yards from MIA 35 to end zone, Touchback."
+2017091708,1974,3,15:00:00,LAC,LAC,35,10,3,10,3,FALSE,Kickoff,NA,40,"Y.Koo kicks 65 yards from LAC 35 to end zone, Touchback."
+2017091700,38,1,15:00:00,BAL,BAL,35,0,0,0,0,FALSE,Kickoff,NA,40,"J.Tucker kicks 65 yards from BLT 35 to end zone, Touchback."
+2017091700,662,1,3:56:00,BAL,BAL,35,7,0,7,0,FALSE,Kickoff,NA,40,"J.Tucker kicks 65 yards from BLT 35 to end zone, Touchback."
+2017091700,1494,2,4:56:00,CLE,CLE,35,14,7,14,7,FALSE,Kickoff,NA,40,"Z.Gonzalez kicks 65 yards from CLV 35 to end zone, Touchback."
+2017091700,2232,3,15:00:00,CLE,CLE,35,21,7,21,7,FALSE,Kickoff,NA,40,"Z.Gonzalez kicks 65 yards from CLV 35 to end zone, Touchback."
+2017091700,2662,3,9:21:00,CLE,CLE,35,21,10,21,10,FALSE,Kickoff,NA,40,"Z.Gonzalez kicks 65 yards from CLV 35 to end zone, Touchback."
+2017091700,3133,4,14:56:00,BAL,BAL,35,24,10,24,10,FALSE,Kickoff,NA,40,"J.Tucker kicks 65 yards from BLT 35 to end zone, Touchback."
+2017091101,37,1,15:00:00,LAC,LAC,35,0,0,0,0,FALSE,Kickoff,NA,40,"Y.Koo kicks 65 yards from LAC 35 to end zone, Touchback."
+2017091101,683,1,4:50:00,DEN,DEN,35,7,0,7,0,FALSE,Kickoff,NA,40,"B.McManus kicks 65 yards from DEN 35 to end zone, Touchback."
+2017091101,1025,2,14:55:00,LAC,LAC,35,7,7,7,7,FALSE,Kickoff,NA,40,"Y.Koo kicks 65 yards from LAC 35 to end zone, Touchback."
+2017091101,1519,2,5:27:00,DEN,DEN,35,14,7,14,7,FALSE,Kickoff,NA,40,"B.McManus kicks 65 yards from DEN 35 to end zone, Touchback."
+2017091101,1873,3,15:00:00,DEN,DEN,35,14,7,14,7,FALSE,Kickoff,NA,40,"B.McManus kicks 65 yards from DEN 35 to end zone, Touchback."
+2017091101,2124,3,10:27:00,DEN,DEN,35,21,7,21,7,FALSE,Kickoff,NA,40,"B.McManus kicks 65 yards from DEN 35 to end zone, Touchback."
+2017091101,2581,4,15:00:00,DEN,DEN,35,24,7,24,7,FALSE,Kickoff,NA,40,"B.McManus kicks 65 yards from DEN 35 to end zone, Touchback."
+2017091101,3200,4,7:00:00,LAC,LAC,35,24,21,24,21,FALSE,Kickoff,NA,40,"Y.Koo kicks 65 yards from LAC 35 to end zone, Touchback."
+2017091711,36,1,15:00:00,WAS,WAS,35,0,0,0,0,FALSE,Kickoff,NA,40,"D.Hopkins kicks 65 yards from WAS 35 to end zone, Touchback."
+2017091711,1186,2,12:06:00,WAS,WAS,35,0,13,0,13,FALSE,Kickoff,NA,40,"D.Hopkins kicks 65 yards from WAS 35 to end zone, Touchback."
+2017091711,1360,2,9:59:00,LA,LA,35,7,13,7,13,FALSE,Kickoff,NA,40,"G.Zuerlein kicks 65 yards from LA 35 to end zone, Touchback."
+2017091711,1759,2,3:03:00,LA,LA,35,10,13,10,13,FALSE,Kickoff,NA,40,"G.Zuerlein kicks 65 yards from LA 35 to end zone, Touchback."
+2017091711,1914,2,1:44:00,WAS,WAS,35,10,20,10,20,FALSE,Kickoff,NA,40,"D.Hopkins kicks 65 yards from WAS 35 to end zone, Touchback."
+2017091711,2217,3,15:00:00,LA,LA,35,10,20,10,20,FALSE,Kickoff,NA,40,"G.Zuerlein kicks 65 yards from LA 35 to end zone, Touchback."
+2017091711,3563,4,7:16:00,LA,LA,35,20,20,20,20,TRUE,Kickoff,NA,35,"G.Zuerlein kicks 65 yards from LA 35 to end zone, Touchback. PENALTY on LA-S.Ebukam, Offside on Free Kick, 5 yards, enforced at WAS 25."
+2017091713,274,1,9:51:00,ATL,ATL,35,7,0,7,0,FALSE,Kickoff,NA,40,"M.Bosher kicks 65 yards from ATL 35 to end zone, Touchback."
+2017091713,623,1,3:43:00,GB,GB,35,7,7,7,7,FALSE,Kickoff,NA,40,"M.Crosby kicks 65 yards from GB 35 to end zone, Touchback."
+2017091713,1116,2,11:10:00,ATL,ATL,35,14,7,14,7,FALSE,Kickoff,NA,40,"M.Bosher kicks 65 yards from ATL 35 to end zone, Touchback."
+2017091713,1491,2,3:21:00,ATL,ATL,35,17,7,17,7,FALSE,Kickoff,NA,40,"M.Bosher kicks 65 yards from ATL 35 to end zone, Touchback."
+2017091713,2053,2,0:19:00,ATL,NA,NA,24,7,24,7,FALSE,Kickoff,NA,25,"M.Bosher kicks 50 yards from 50 to end zone, Touchback."
+2017091713,2152,3,15:00:00,ATL,ATL,35,24,7,24,7,FALSE,Kickoff,NA,40,"M.Bosher kicks 65 yards from ATL 35 to end zone, Touchback."
+2017091713,2245,3,14:04:00,ATL,ATL,35,31,7,31,7,FALSE,Kickoff,NA,40,"M.Bosher kicks 65 yards from ATL 35 to end zone, Touchback."
+2017091713,2555,3,9:33:00,GB,GB,35,31,10,31,10,FALSE,Kickoff,NA,40,"M.Crosby kicks 65 yards from GB 35 to end zone, Touchback."
+2017091713,2798,3,4:19:00,ATL,ATL,35,34,10,34,10,FALSE,Kickoff,NA,40,"M.Bosher kicks 65 yards from ATL 35 to end zone, Touchback."
+2017091713,3202,4,12:42:00,GB,GB,35,34,16,34,16,FALSE,Kickoff,NA,40,"M.Crosby kicks 65 yards from GB 35 to end zone, Touchback."
+2017092407,567,1,7:22:00,HOU,HOU,35,7,3,7,3,FALSE,Kickoff,NA,40,"K.Fairbairn kicks 65 yards from HST 35 to end zone, Touchback."
+2017092407,1563,2,7:01:00,HOU,HOU,35,14,13,14,13,FALSE,Kickoff,NA,40,"K.Fairbairn kicks 65 yards from HST 35 to end zone, Touchback."
+2017092407,1653,2,6:15:00,HOU,HOU,35,14,20,14,20,FALSE,Kickoff,NA,40,"K.Fairbairn kicks 65 yards from HST 35 to end zone, Touchback."
+2017092407,2399,3,12:45:00,NE,NE,35,28,20,28,20,TRUE,Kickoff,NA,35,"S.Gostkowski kicks 65 yards from NE 35 to end zone, Touchback. PENALTY on NE-B.Bolden, Offside on Free Kick, 5 yards, enforced at HST 25."
+2017092407,2748,3,7:12:00,HOU,HOU,35,28,27,28,27,FALSE,Kickoff,NA,40,"K.Fairbairn kicks 65 yards from HST 35 to end zone, Touchback."
+2017092407,3318,4,12:13:00,HOU,HOU,35,28,30,28,30,FALSE,Kickoff,NA,40,"K.Fairbairn kicks 65 yards from HST 35 to end zone, Touchback."
+2017092407,3932,4,2:24:00,HOU,HOU,35,28,33,28,33,FALSE,Kickoff,NA,40,"K.Fairbairn kicks 65 yards from HST 35 to end zone, Touchback."
+2017092407,4270,4,0:23:00,NE,NE,35,36,33,36,33,FALSE,Kickoff,NA,40,"S.Gostkowski kicks 65 yards from NE 35 to end zone, Touchback."
+2017091709,968,2,12:55:00,OAK,OAK,35,14,0,14,0,FALSE,Kickoff,NA,40,"G.Tavecchio kicks 65 yards from OAK 35 to end zone, Touchback."
+2017091709,1709,2,3:06:00,NYJ,NYJ,35,14,10,14,10,FALSE,Kickoff,NA,40,"C.Catanzaro kicks 65 yards from NYJ 35 to end zone, Touchback."
+2017091709,1913,2,0:21:00,OAK,OAK,35,21,10,21,10,FALSE,Kickoff,NA,40,"G.Tavecchio kicks 65 yards from OAK 35 to end zone, Touchback."
+2017091709,2549,3,3:31:00,OAK,OAK,35,28,13,28,13,FALSE,Kickoff,NA,40,"G.Tavecchio kicks 65 yards from OAK 35 to end zone, Touchback."
+2017091709,2877,4,12:49:00,OAK,OAK,35,35,13,35,13,FALSE,Kickoff,NA,40,"G.Tavecchio kicks 65 yards from OAK 35 to end zone, Touchback."
+2017091709,2995,4,12:27:00,OAK,OAK,35,42,13,42,13,FALSE,Kickoff,NA,40,"G.Tavecchio kicks 65 yards from OAK 35 to end zone, Touchback."
+2017091709,3637,4,0:25:00,OAK,OAK,35,45,20,45,20,FALSE,Kickoff,NA,40,"G.Tavecchio kicks 65 yards from OAK 35 to end zone, Touchback."
+2017092400,47,1,15:00:00,JAX,JAX,35,0,0,0,0,FALSE,Kickoff,NA,25,"J.Myers kicks 59 yards from JAX 35 to BLT 6, out of bounds."
+2017092400,409,1,9:05:00,JAX,JAX,35,3,0,3,0,FALSE,Kickoff,NA,40,"J.Myers kicks 65 yards from JAX 35 to end zone, Touchback."
+2017092400,716,1,3:32:00,JAX,JAX,35,10,0,10,0,FALSE,Kickoff,NA,40,"J.Myers kicks 65 yards from JAX 35 to end zone, Touchback."
+2017092400,1148,2,10:49:00,JAX,JAX,35,13,0,13,0,FALSE,Kickoff,NA,40,"J.Myers kicks 65 yards from JAX 35 to end zone, Touchback."
+2017092400,1576,2,4:55:00,JAX,JAX,35,20,0,20,0,FALSE,Kickoff,NA,40,"J.Myers kicks 65 yards from JAX 35 to end zone, Touchback."
+2017092400,2036,2,0:38:00,JAX,JAX,35,23,0,23,0,FALSE,Kickoff,NA,40,"J.Myers kicks 65 yards from JAX 35 to end zone, Touchback."
+2017092400,2285,3,15:00:00,BAL,BAL,35,23,0,23,0,FALSE,Kickoff,NA,40,"J.Tucker kicks 65 yards from BLT 35 to end zone, Touchback."
+2017092400,2682,3,9:42:00,JAX,JAX,35,30,0,30,0,FALSE,Kickoff,NA,40,"J.Myers kicks 65 yards from JAX 35 to end zone, Touchback."
+2017092400,2916,3,7:48:00,JAX,NA,NA,37,0,37,0,FALSE,Kickoff,NA,25,"J.Myers kicks 50 yards from 50 to end zone, Touchback."
+2017092400,3365,4,14:56:00,JAX,JAX,35,44,0,44,0,FALSE,Kickoff,NA,40,"J.Myers kicks 65 yards from JAX 35 to end zone, Touchback."
+2017091712,37,1,15:00:00,SF,SF,35,0,0,0,0,FALSE,Kickoff,NA,40,"B.Pinion kicks 65 yards from SF 35 to end zone, Touchback."
+2017091712,468,1,8:38:00,SEA,SEA,35,3,0,3,0,FALSE,Kickoff,NA,40,"B.Walsh kicks 65 yards from SEA 35 to end zone, Touchback."
+2017091712,1852,2,1:55:00,SF,SF,35,6,3,6,3,FALSE,Kickoff,NA,40,"B.Pinion kicks 65 yards from SF 35 to end zone, Touchback."
+2017091400,37,1,15:00:00,CIN,CIN,35,0,0,0,0,FALSE,Kickoff,NA,40,"R.Bullock kicks 65 yards from CIN 35 to end zone, Touchback."
+2017091400,1075,2,13:44:00,CIN,CIN,35,3,3,3,3,FALSE,Kickoff,NA,40,"R.Bullock kicks 65 yards from CIN 35 to end zone, Touchback."
+2017091400,1877,2,0:50:00,HOU,HOU,35,3,10,3,10,FALSE,Kickoff,NA,40,"K.Fairbairn kicks 65 yards from HST 35 to end zone, Touchback."
+2017091400,2117,3,15:00:00,HOU,HOU,35,6,10,6,10,FALSE,Kickoff,NA,40,"K.Fairbairn kicks 65 yards from HST 35 to end zone, Touchback."
+2017091400,2560,3,6:26:00,CIN,CIN,35,9,10,9,10,FALSE,Kickoff,NA,40,"R.Bullock kicks 65 yards from CIN 35 to end zone, Touchback."
+2017091706,693,1,3:02:00,PIT,PIT,35,7,0,7,0,FALSE,Kickoff,NA,40,"C.Boswell kicks 65 yards from PIT 35 to end zone, Touchback."
+2017091706,986,2,13:31:00,PIT,PIT,35,14,0,14,0,FALSE,Kickoff,NA,40,"C.Boswell kicks 65 yards from PIT 35 to end zone, Touchback."
+2017091706,1255,2,8:50:00,MIN,MIN,35,14,3,14,3,FALSE,Kickoff,NA,40,"K.Forbath kicks 65 yards from MIN 35 to end zone, Touchback."
+2017091706,2027,3,15:00:00,PIT,PIT,35,14,3,14,3,TRUE,Kickoff,NA,35,"C.Boswell kicks 65 yards from PIT 35 to end zone, Touchback. PENALTY on PIT-R.Nix, Offside on Free Kick, 5 yards, enforced at MIN 25."
+2017091706,4030,4,3:18:00,PIT,PIT,35,23,9,23,9,FALSE,Kickoff,NA,40,"C.Boswell kicks 65 yards from PIT 35 to end zone, Touchback."
+2017091706,4452,4,1:53:00,PIT,PIT,35,26,9,26,9,FALSE,Kickoff,NA,40,"C.Boswell kicks 65 yards from PIT 35 to end zone, Touchback."
+2017091710,36,1,15:00:00,DEN,DEN,35,0,0,0,0,FALSE,Kickoff,NA,40,"B.McManus kicks 65 yards from DEN 35 to end zone, Touchback."
+2017091710,339,1,9:25:00,DEN,DEN,35,7,0,7,0,FALSE,Kickoff,NA,40,"B.McManus kicks 65 yards from DEN 35 to end zone, Touchback."
+2017091710,1493,2,5:54:00,DEN,DEN,35,14,7,14,7,FALSE,Kickoff,NA,40,"B.McManus kicks 65 yards from DEN 35 to end zone, Touchback."
+2017091710,1912,2,1:38:00,DEN,DEN,35,21,7,21,7,FALSE,Kickoff,NA,40,"B.McManus kicks 65 yards from DEN 35 to end zone, Touchback."
+2017091710,2147,2,0:02:00,DAL,DAL,35,21,10,21,10,FALSE,Kickoff,NA,40,"D.Bailey kicks 65 yards from DAL 35 to end zone, Touchback."
+2017091710,2209,3,15:00:00,DAL,DAL,35,21,10,21,10,FALSE,Kickoff,NA,40,"D.Bailey kicks 65 yards from DAL 35 to end zone, Touchback."
+2017091710,2638,3,7:56:00,DEN,DEN,35,28,10,28,10,FALSE,Kickoff,NA,40,"B.McManus kicks 65 yards from DEN 35 to end zone, Touchback."
+2017091710,2864,3,6:14:00,DEN,DEN,35,35,10,35,10,FALSE,Kickoff,NA,40,"B.McManus kicks 65 yards from DEN 35 to end zone, Touchback."
+2017091710,3348,4,14:24:00,DAL,DAL,35,35,17,35,17,FALSE,Kickoff,NA,40,"D.Bailey kicks 65 yards from DAL 35 to end zone, Touchback."
+2017091710,4452,4,0:53:00,DEN,DEN,35,42,17,42,17,FALSE,Kickoff,NA,40,"B.McManus kicks 65 yards from DEN 35 to end zone, Touchback."
+2017091800,578,1,4:00:00,DET,DET,40,0,7,0,7,FALSE,Kickoff,NA,35,"J.Locke kicks 60 yards from DET 40 to end zone, Touchback."
+2017091800,832,2,14:55:00,NYG,NYG,20,7,7,7,7,FALSE,Kickoff,NA,25,"A.Rosas kicks 77 yards from NYG 20 to DET 3, out of bounds."
+2017091800,1176,2,8:43:00,DET,DET,35,7,14,7,14,FALSE,Kickoff,NA,40,"J.Locke kicks 65 yards from DET 35 to end zone, Touchback."
+2017091800,1797,3,15:00:00,DET,DET,35,7,17,7,17,FALSE,Kickoff,NA,40,"J.Locke kicks 65 yards from DET 35 to end zone, Touchback."
+2017091800,2295,3,4:58:00,NYG,NYG,35,10,17,10,17,FALSE,Kickoff,NA,40,"A.Rosas kicks 65 yards from NYG 35 to end zone, Touchback."
+2017091800,2786,4,12:56:00,DET,DET,35,10,24,10,24,FALSE,Kickoff,NA,40,"J.Locke kicks 65 yards from DET 35 to end zone, Touchback."
+2017092100,36,1,15:00:00,LA,LA,35,0,0,0,0,FALSE,Kickoff,NA,40,"G.Zuerlein kicks 65 yards from LA 35 to end zone, Touchback."
+2017092100,517,1,8:17:00,SF,SF,35,7,7,7,7,FALSE,Kickoff,NA,40,"B.Pinion kicks 65 yards from SF 35 to end zone, Touchback."
+2017092100,1122,2,14:55:00,LA,LA,35,7,17,7,17,FALSE,Kickoff,NA,40,"G.Zuerlein kicks 65 yards from LA 35 to end zone, Touchback."
+2017092100,1836,2,3:46:00,SF,SF,35,13,17,13,17,FALSE,Kickoff,NA,40,"B.Pinion kicks 65 yards from SF 35 to end zone, Touchback."
+2017092100,2178,2,0:49:00,LA,LA,35,13,24,13,24,FALSE,Kickoff,NA,25,"G.Zuerlein kicks 61 yards from LA 35 to SF 4, out of bounds."
+2017092100,2623,3,9:17:00,LA,LA,35,13,27,13,27,FALSE,Kickoff,NA,40,"G.Zuerlein kicks 65 yards from LA 35 to end zone, Touchback."
+2017092100,2931,3,5:40:00,SF,SF,35,20,27,20,27,FALSE,Kickoff,NA,40,"B.Pinion kicks 65 yards from SF 35 to end zone, Touchback."
+2017092100,3366,3,0:17:00,LA,LA,35,20,34,20,34,FALSE,Kickoff,NA,40,"G.Zuerlein kicks 65 yards from LA 35 to end zone, Touchback."
+2017092100,3566,4,12:50:00,SF,SF,35,26,34,26,34,FALSE,Kickoff,NA,40,"B.Pinion kicks 65 yards from SF 35 to end zone, Touchback."
+2017092100,4446,4,2:13:00,SF,SF,35,39,41,39,41,FALSE,Kickoff,NA,15,R.Gould kicks onside 15 yards from SF 35 to 50. RECOVERED by SF-R.Mostert.
+2017092404,36,1,15:00:00,DET,DET,35,0,0,0,0,FALSE,Kickoff,NA,40,"J.Locke kicks 65 yards from DET 35 to end zone, Touchback."
+2017092404,984,2,12:51:00,ATL,ATL,35,0,10,0,10,FALSE,Kickoff,NA,40,"M.Bosher kicks 65 yards from ATL 35 to end zone, Touchback."
+2017092404,1421,2,5:00:00,ATL,ATL,35,3,17,3,17,FALSE,Kickoff,NA,40,"M.Bosher kicks 65 yards from ATL 35 to end zone, Touchback."
+2017092404,1668,2,1:50:00,DET,DET,35,6,17,6,17,FALSE,Kickoff,NA,40,"J.Locke kicks 65 yards from DET 35 to end zone, Touchback."
+2017092404,1725,2,1:41:00,DET,DET,35,13,17,13,17,FALSE,Kickoff,NA,40,"J.Locke kicks 65 yards from DET 35 to end zone, Touchback."
+2017092404,1937,2,0:31:00,ATL,ATL,35,13,20,13,20,FALSE,Kickoff,NA,40,"M.Bosher kicks 65 yards from ATL 35 to end zone, Touchback."
+2017092404,2085,3,15:00:00,ATL,ATL,35,13,20,13,20,FALSE,Kickoff,NA,40,"M.Bosher kicks 65 yards from ATL 35 to end zone, Touchback."
+2017092404,2304,3,11:37:00,ATL,ATL,35,13,23,13,23,FALSE,Kickoff,NA,40,"M.Bosher kicks 65 yards from ATL 35 to end zone, Touchback."
+2017092404,2878,3,1:24:00,DET,DET,35,23,23,23,23,FALSE,Kickoff,NA,40,"J.Locke kicks 65 yards from DET 35 to end zone, Touchback."
+2017092404,3017,4,14:50:00,ATL,ATL,35,23,30,23,30,FALSE,Kickoff,NA,40,"M.Bosher kicks 65 yards from ATL 35 to end zone, Touchback."
+2017092404,3208,4,11:48:00,DET,DET,35,26,30,26,30,FALSE,Kickoff,NA,40,"J.Locke kicks 65 yards from DET 35 to end zone, Touchback."
+2017092401,36,1,15:00:00,BUF,BUF,35,0,0,0,0,FALSE,Kickoff,NA,40,"S.Hauschka kicks 65 yards from BUF 35 to end zone, Touchback. C.Latimer kneels 6 yds. into end zone."
+2017092401,928,1,0:49:00,DEN,DEN,35,0,3,0,3,TRUE,Kickoff,NA,39,"B.McManus kicks 54 yards from DEN 35 to BUF 11, fair catch by M.Tolbert. PENALTY on DEN-W.Parks, Unnecessary Roughness, 15 yards, enforced at BUF 11."
+2017092401,1417,2,10:26:00,DEN,DEN,35,7,10,7,10,FALSE,Kickoff,NA,40,"B.McManus kicks 65 yards from DEN 35 to end zone, Touchback. B.Tate kneels 8 yds. into end zone."
+2017092401,2019,2,2:51:00,BUF,BUF,35,10,10,10,10,FALSE,Kickoff,NA,40,"S.Hauschka kicks 65 yards from BUF 35 to end zone, Touchback. C.Latimer kneels 9 yds. into end zone."
+2017092401,2313,2,0:42:00,DEN,DEN,35,10,13,10,13,FALSE,Kickoff,NA,40,"B.McManus kicks 65 yards from DEN 35 to end zone, Touchback. Kick through end zone."
+2017092401,3128,3,6:20:00,BUF,BUF,35,20,16,20,16,FALSE,Kickoff,NA,40,"S.Hauschka kicks 65 yards from BUF 35 to end zone, Touchback. C.Latimer kneels 8 yds. into end zone."
+2017092412,1348,2,4:30:00,KC,KC,35,7,17,7,17,FALSE,Kickoff,NA,40,"C.Santos kicks 65 yards from KC 35 to end zone, Touchback."
+2017092412,3800,4,1:49:00,KC,KC,35,10,24,10,24,FALSE,Kickoff,NA,40,"C.Santos kicks 65 yards from KC 35 to end zone, Touchback."
+2017100104,1102,2,12:39:00,LA,LA,35,10,6,10,6,FALSE,Kickoff,NA,40,"G.Zuerlein kicks 65 yards from LA 35 to end zone, Touchback."
+2017100104,1290,2,10:53:00,DAL,DAL,35,17,6,17,6,FALSE,Kickoff,NA,40,"D.Bailey kicks 65 yards from DAL 35 to end zone, Touchback."
+2017100104,1599,2,6:33:00,LA,LA,35,17,13,17,13,FALSE,Kickoff,NA,40,"G.Zuerlein kicks 65 yards from LA 35 to end zone, Touchback."
+2017100104,1875,2,1:51:00,DAL,DAL,35,24,13,24,13,FALSE,Kickoff,NA,40,"D.Bailey kicks 65 yards from DAL 35 to end zone, Touchback."
+2017100104,2611,3,7:26:00,LA,LA,35,24,19,24,19,FALSE,Kickoff,NA,40,"G.Zuerlein kicks 65 yards from LA 35 to end zone, Touchback."
+2017100104,2877,3,2:59:00,LA,LA,35,24,26,24,26,FALSE,Kickoff,NA,40,"G.Zuerlein kicks 65 yards from LA 35 to end zone, Touchback."
+2017100104,3541,4,9:41:00,LA,LA,35,24,32,24,32,FALSE,Kickoff,NA,40,"G.Zuerlein kicks 65 yards from LA 35 to end zone, Touchback."
+2017100104,4121,4,1:55:00,LA,LA,35,30,35,30,35,FALSE,Kickoff,NA,40,"G.Zuerlein kicks 65 yards from LA 35 to end zone, Touchback."
+2017092413,46,1,15:00:00,WAS,WAS,35,0,0,0,0,FALSE,Kickoff,NA,40,"D.Hopkins kicks 65 yards from WAS 35 to end zone, Touchback."
+2017092413,345,1,9:43:00,WAS,WAS,35,7,0,7,0,FALSE,Kickoff,NA,40,"D.Hopkins kicks 65 yards from WAS 35 to end zone, Touchback."
+2017092413,1467,2,3:48:00,WAS,WAS,35,14,0,14,0,FALSE,Kickoff,NA,40,"D.Hopkins kicks 65 yards from WAS 35 to end zone, Touchback."
+2017092413,1894,3,15:00:00,OAK,OAK,35,14,0,14,0,FALSE,Kickoff,NA,40,"G.Tavecchio kicks 65 yards from OAK 35 to end zone, Touchback."
+2017092413,2157,3,10:37:00,WAS,WAS,35,21,0,21,0,FALSE,Kickoff,NA,40,"D.Hopkins kicks 65 yards from WAS 35 to end zone, Touchback."
+2017092413,2518,3,3:52:00,OAK,OAK,35,21,7,21,7,FALSE,Kickoff,NA,40,"G.Tavecchio kicks 65 yards from OAK 35 to end zone, Touchback."
+2017092413,3087,4,11:54:00,OAK,OAK,35,24,10,24,10,FALSE,Kickoff,NA,40,"G.Tavecchio kicks 65 yards from OAK 35 to end zone, Touchback."
+2017092413,3309,4,6:02:00,WAS,WAS,35,27,10,27,10,FALSE,Kickoff,NA,40,"D.Hopkins kicks 65 yards from WAS 35 to end zone, Touchback."
+2017100102,37,1,15:00:00,PIT,PIT,35,0,0,0,0,FALSE,Kickoff,NA,40,"C.Boswell kicks 65 yards from PIT 35 to end zone, Touchback."
+2017100102,2782,3,6:02:00,BAL,BAL,35,9,19,9,19,FALSE,Kickoff,NA,40,"J.Tucker kicks 65 yards from BLT 35 to end zone, Touchback."
+2017100102,4007,4,2:26:00,PIT,PIT,35,9,26,9,26,FALSE,Kickoff,NA,40,"C.Boswell kicks 65 yards from PIT 35 to end zone, Touchback."
+2017100106,37,1,15:00:00,MIN,MIN,35,0,0,0,0,FALSE,Kickoff,NA,40,"K.Forbath kicks 65 yards from MIN 35 to end zone, Touchback."
+2017100106,1685,2,1:07:00,MIN,MIN,35,7,3,7,3,FALSE,Kickoff,NA,40,"K.Forbath kicks 65 yards from MIN 35 to end zone, Touchback."
+2017100106,1896,3,15:00:00,DET,DET,35,7,3,7,3,FALSE,Kickoff,NA,40,"J.Locke kicks 65 yards from DET 35 to end zone, Touchback."
+2017092402,37,1,15:00:00,NO,NO,35,0,0,0,0,FALSE,Kickoff,NA,40,"W.Lutz kicks 65 yards from NO 35 to end zone, Touchback."
+2017092402,393,1,6:19:00,CAR,CAR,35,3,0,3,0,FALSE,Kickoff,NA,40,"G.Gano kicks 65 yards from CAR 35 to end zone, Touchback."
+2017092402,729,1,0:22:00,NO,NO,35,3,7,3,7,FALSE,Kickoff,NA,40,"W.Lutz kicks 65 yards from NO 35 to end zone, Touchback."
+2017092402,963,2,10:46:00,CAR,CAR,35,6,7,6,7,FALSE,Kickoff,NA,40,"G.Gano kicks 65 yards from CAR 35 to end zone, Touchback."
+2017092402,1288,2,5:42:00,NO,NO,35,6,14,6,14,FALSE,Kickoff,NA,40,"W.Lutz kicks 65 yards from NO 35 to end zone, Touchback."
+2017092402,1695,3,15:00:00,CAR,CAR,35,6,17,6,17,FALSE,Kickoff,NA,40,"G.Gano kicks 65 yards from CAR 35 to end zone, Touchback."
+2017092402,1927,3,11:09:00,NO,NO,35,6,24,6,24,FALSE,Kickoff,NA,40,"W.Lutz kicks 65 yards from NO 35 to end zone, Touchback."
+2017092402,2442,3,1:18:00,CAR,CAR,35,13,24,13,24,FALSE,Kickoff,NA,40,"G.Gano kicks 65 yards from CAR 35 to end zone, Touchback."
+2017092402,2784,4,11:57:00,NO,NO,35,13,27,13,27,FALSE,Kickoff,NA,40,"W.Lutz kicks 65 yards from NO 35 to end zone, Touchback."
+2017092406,46,1,15:00:00,TB,TB,35,0,0,0,0,FALSE,Kickoff,NA,40,"N.Folk kicks 65 yards from TB 35 to end zone, Touchback."
+2017092406,226,1,10:58:00,MIN,MIN,35,7,0,7,0,FALSE,Kickoff,NA,40,"K.Forbath kicks 65 yards from MIN 35 to end zone, Touchback."
+2017092406,1763,2,0:47:00,MIN,MIN,35,21,3,21,3,FALSE,Kickoff,NA,40,"K.Forbath kicks 65 yards from MIN 35 to end zone, Touchback."
+2017092406,2455,3,8:47:00,TB,TB,35,28,10,28,10,FALSE,Kickoff,NA,40,"N.Folk kicks 65 yards from TB 35 to end zone, Touchback."
+2017092406,2829,3,2:24:00,MIN,MIN,35,31,10,31,10,FALSE,Kickoff,NA,40,"K.Forbath kicks 65 yards from MIN 35 to end zone, Touchback."
+2017092406,3098,4,15:00:00,TB,TB,35,31,17,31,17,FALSE,Kickoff,NA,40,"N.Folk kicks 65 yards from TB 35 to end zone, Touchback."
+2017092406,3400,4,8:40:00,MIN,MIN,35,34,17,34,17,FALSE,Kickoff,NA,40,"K.Forbath kicks 65 yards from MIN 35 to end zone, Touchback."
+2017092410,36,1,15:00:00,SEA,SEA,35,0,0,0,0,FALSE,Kickoff,NA,40,"B.Walsh kicks 65 yards from SEA 35 to end zone, Touchback. SEA-D.McDonald was injured during the play. His return is Questionable."
+2017092410,1341,2,13:23:00,TEN,TEN,35,3,0,3,0,FALSE,Kickoff,NA,40,"R.Succop kicks 65 yards from TEN 35 to end zone, Touchback."
+2017092410,1785,2,5:51:00,TEN,TEN,35,6,0,6,0,FALSE,Kickoff,NA,40,"R.Succop kicks 65 yards from TEN 35 to end zone, Touchback."
+2017092410,2413,3,15:00:00,TEN,TEN,35,9,7,9,7,FALSE,Kickoff,NA,40,"R.Succop kicks 65 yards from TEN 35 to end zone, Touchback."
+2017092410,2646,3,10:09:00,SEA,SEA,35,9,14,9,14,FALSE,Kickoff,NA,40,"B.Walsh kicks 65 yards from SEA 35 to end zone, Touchback."
+2017092410,2803,3,7:34:00,TEN,TEN,35,16,14,16,14,FALSE,Kickoff,NA,40,"R.Succop kicks 65 yards from TEN 35 to end zone, Touchback."
+2017092410,3063,3,3:50:00,TEN,TEN,35,23,14,23,14,FALSE,Kickoff,NA,40,"R.Succop kicks 65 yards from TEN 35 to end zone, Touchback."
+2017092410,3246,3,1:34:00,TEN,TEN,35,30,14,30,14,FALSE,Kickoff,NA,40,"R.Succop kicks 65 yards from TEN 35 to end zone, Touchback."
+2017092410,3692,4,10:00:00,TEN,TEN,35,33,20,33,20,FALSE,Kickoff,NA,40,"R.Succop kicks 65 yards from TEN 35 to end zone, Touchback."
+2017100107,55,1,15:00:00,CAR,CAR,35,0,0,0,0,FALSE,Kickoff,NA,40,"G.Gano kicks 65 yards from CAR 35 to end zone, Touchback."
+2017100107,260,1,11:47:00,NE,NE,35,3,0,3,0,FALSE,Kickoff,NA,40,"S.Gostkowski kicks 65 yards from NE 35 to end zone, Touchback."
+2017100107,451,1,7:41:00,CAR,CAR,35,3,3,3,3,FALSE,Kickoff,NA,40,"G.Gano kicks 65 yards from CAR 35 to end zone, Touchback."
+2017100107,1052,2,12:39:00,NE,NE,35,10,3,10,3,FALSE,Kickoff,NA,40,"S.Gostkowski kicks 65 yards from NE 35 to end zone, Touchback."
+2017100107,1820,2,0:26:00,CAR,CAR,35,13,17,13,17,FALSE,Kickoff,NA,40,"G.Gano kicks 65 yards from CAR 35 to end zone, Touchback."
+2017100107,1981,3,15:00:00,NE,NE,35,16,17,16,17,FALSE,Kickoff,NA,40,"S.Gostkowski kicks 65 yards from NE 35 to end zone, Touchback."
+2017100107,2646,3,2:47:00,CAR,CAR,35,16,23,16,23,FALSE,Kickoff,NA,40,"G.Gano kicks 65 yards from CAR 35 to end zone, Touchback."
+2017100107,3019,4,12:58:00,CAR,CAR,35,16,30,16,30,FALSE,Kickoff,NA,40,"G.Gano kicks 65 yards from CAR 35 to end zone, Touchback."
+2017092403,44,1,15:00:00,CHI,CHI,35,0,0,0,0,FALSE,Kickoff,NA,40,"C.Barth kicks 65 yards from CHI 35 to end zone, Touchback."
+2017092403,1827,2,0:43:00,CHI,CHI,35,14,7,14,7,FALSE,Kickoff,NA,40,"C.Barth kicks 65 yards from CHI 35 to end zone, Touchback."
+2017092403,2811,3,6:43:00,PIT,PIT,35,17,14,17,14,FALSE,Kickoff,NA,40,"C.Boswell kicks 65 yards from PIT 35 to end zone, Touchback."
+2017092403,3509,4,8:03:00,PIT,PIT,35,17,17,17,17,FALSE,Kickoff,NA,40,"C.Boswell kicks 65 yards from PIT 35 to end zone, Touchback."
+2017092409,2093,3,15:00:00,PHI,PHI,35,7,0,7,0,FALSE,Kickoff,NA,40,"J.Elliott kicks 65 yards from PHI 35 to end zone, Touchback."
+2017092409,3672,4,7:12:00,NYG,NYG,35,14,21,14,21,FALSE,Kickoff,NA,40,"A.Rosas kicks 65 yards from NYG 35 to end zone, Touchback."
+2017092409,3822,4,5:40:00,PHI,PHI,35,21,21,21,21,FALSE,Kickoff,NA,40,"J.Elliott kicks 65 yards from PHI 35 to end zone, Touchback."
+2017092409,4097,4,3:08:00,NYG,NYG,35,21,24,21,24,FALSE,Kickoff,NA,40,"A.Rosas kicks 65 yards from NYG 35 to end zone, Touchback."
+2017092409,4357,4,0:51:00,PHI,PHI,35,24,24,24,24,FALSE,Kickoff,NA,40,"J.Elliott kicks 65 yards from PHI 35 to end zone, Touchback."
+2017092405,35,1,15:00:00,IND,IND,35,0,0,0,0,FALSE,Kickoff,NA,40,"R.Sanchez kicks 65 yards from IND 35 to end zone, Touchback."
+2017092405,896,1,0:24:00,IND,IND,35,7,0,7,0,FALSE,Kickoff,NA,40,"R.Sanchez kicks 65 yards from IND 35 to end zone, Touchback."
+2017092405,1054,2,13:22:00,CLE,CLE,35,7,7,7,7,FALSE,Kickoff,NA,40,"Z.Gonzalez kicks 65 yards from CLV 35 to end zone, Touchback."
+2017092405,1252,2,10:06:00,IND,IND,35,14,7,14,7,FALSE,Kickoff,NA,40,"R.Sanchez kicks 65 yards from IND 35 to end zone, Touchback."
+2017092405,1592,2,5:14:00,IND,IND,35,21,7,21,7,FALSE,Kickoff,NA,40,"R.Sanchez kicks 65 yards from IND 35 to end zone, Touchback."
+2017092405,1847,2,2:41:00,IND,IND,35,28,7,28,7,FALSE,Kickoff,NA,40,"R.Sanchez kicks 65 yards from IND 35 to end zone, Touchback."
+2017092405,2234,2,0:27:00,CLE,CLE,35,28,14,28,14,FALSE,Kickoff,NA,40,"Z.Gonzalez kicks 65 yards from CLV 35 to end zone, Touchback."
+2017092405,2287,3,15:00:00,CLE,CLE,35,28,14,28,14,FALSE,Kickoff,NA,40,"Z.Gonzalez kicks 65 yards from CLV 35 to end zone, Touchback."
+2017092405,3420,4,10:18:00,IND,IND,35,31,14,31,14,FALSE,Kickoff,NA,40,"R.Sanchez kicks 65 yards from IND 35 to end zone, Touchback."
+2017100100,2511,3,9:01:00,NO,NO,35,0,10,0,10,FALSE,Kickoff,NA,40,"W.Lutz kicks 65 yards from NO 35 to end zone, Touchback."
+2017100100,3207,4,12:32:00,NO,NO,35,0,13,0,13,FALSE,Kickoff,NA,40,"W.Lutz kicks 65 yards from NO 35 to end zone, Touchback."
+2017092411,311,1,9:40:00,CIN,CIN,35,0,7,0,7,FALSE,Kickoff,NA,25,"R.Bullock kicks 63 yards from CIN 35 to GB 2, out of bounds."
+2017092411,581,1,7:46:00,GB,GB,35,7,7,7,7,FALSE,Kickoff,NA,40,"M.Crosby kicks 65 yards from GB 35 to end zone, Touchback."
+2017092411,1074,2,12:29:00,CIN,CIN,35,7,14,7,14,FALSE,Kickoff,NA,40,"R.Bullock kicks 65 yards from CIN 35 to end zone, Touchback."
+2017092411,1211,2,10:20:00,CIN,CIN,35,7,21,7,21,FALSE,Kickoff,NA,40,"R.Bullock kicks 65 yards from CIN 35 to end zone, Touchback."
+2017092411,1977,3,15:00:00,CIN,CIN,35,7,21,7,21,FALSE,Kickoff,NA,40,"R.Bullock kicks 65 yards from CIN 35 to end zone, Touchback."
+2017092411,2217,3,9:54:00,GB,GB,35,14,21,14,21,FALSE,Kickoff,NA,40,"M.Crosby kicks 65 yards from GB 35 to end zone, Touchback."
+2017092411,2830,4,14:43:00,GB,GB,35,17,21,17,21,FALSE,Kickoff,NA,40,"M.Crosby kicks 65 yards from GB 35 to end zone, Touchback."
+2017092411,3416,4,3:46:00,CIN,CIN,35,17,24,17,24,FALSE,Kickoff,NA,40,"R.Bullock kicks 65 yards from CIN 35 to end zone, Touchback."
+2017092411,3836,4,0:17:00,GB,GB,35,24,24,24,24,FALSE,Kickoff,NA,40,"M.Crosby kicks 65 yards from GB 35 to end zone, Touchback."
+2017092411,3889,5,10:00:00,GB,GB,35,24,24,24,24,FALSE,Kickoff,NA,40,"M.Crosby kicks 65 yards from GB 35 to end zone, Touchback."
+2017092800,36,1,15:00:00,CHI,CHI,35,0,0,0,0,FALSE,Kickoff,NA,40,"C.Barth kicks 65 yards from CHI 35 to end zone, Touchback."
+2017092800,297,1,9:49:00,GB,GB,35,7,0,7,0,FALSE,Kickoff,NA,40,"M.Crosby kicks 65 yards from GB 35 to end zone, Touchback."
+2017092800,1621,2,4:48:00,GB,GB,35,21,0,21,0,FALSE,Kickoff,NA,40,"M.Crosby kicks 65 yards from GB 35 to end zone, Touchback."
+2017092800,2073,2,0:08:00,CHI,CHI,35,21,7,21,7,FALSE,Kickoff,NA,40,"C.Barth kicks 65 yards from CHI 35 to end zone, Touchback."
+2017092800,2837,3,4:09:00,GB,GB,35,28,7,28,7,FALSE,Kickoff,NA,40,"M.Crosby kicks 65 yards from GB 35 to end zone, Touchback."
+2017092800,3127,4,14:54:00,GB,GB,35,35,7,35,7,FALSE,Kickoff,NA,40,"M.Crosby kicks 65 yards from GB 35 to end zone, Touchback."
+2017092800,3529,4,6:01:00,CHI,CHI,35,35,14,35,14,FALSE,Kickoff,NA,40,"C.Barth kicks 65 yards from CHI 35 to end zone, Touchback."
+2017100101,1362,2,6:51:00,BUF,BUF,35,3,7,3,7,FALSE,Kickoff,NA,40,"S.Hauschka kicks 65 yards from BUF 35 to end zone, Touchback."
+2017100101,1898,2,0:18:00,ATL,ATL,35,10,7,10,7,FALSE,Kickoff,NA,40,"M.Bosher kicks 65 yards from ATL 35 to end zone, Touchback."
+2017100101,1990,3,15:00:00,ATL,ATL,35,10,7,10,7,FALSE,Kickoff,NA,40,"M.Bosher kicks 65 yards from ATL 35 to end zone, Touchback."
+2017100101,2965,4,12:00:00,BUF,BUF,35,10,17,10,17,FALSE,Kickoff,NA,40,"S.Hauschka kicks 65 yards from BUF 35 to end zone, Touchback."
+2017100101,3717,4,3:06:00,BUF,BUF,35,17,23,17,23,FALSE,Kickoff,NA,40,"S.Hauschka kicks 65 yards from BUF 35 to end zone, Touchback."
+2017092500,301,1,9:59:00,ARI,ARI,35,7,0,7,0,FALSE,Kickoff,NA,40,"P.Dawson kicks 65 yards from ARZ 35 to end zone, Touchback."
+2017092500,1739,2,1:11:00,DAL,DAL,35,7,7,7,7,FALSE,Kickoff,NA,40,"D.Bailey kicks 65 yards from DAL 35 to end zone, Touchback."
+2017092500,1841,3,15:00:00,ARI,ARI,35,7,7,7,7,FALSE,Kickoff,NA,40,"P.Dawson kicks 65 yards from ARZ 35 to end zone, Touchback."
+2017092500,3099,4,11:52:00,DAL,DAL,35,14,21,14,21,FALSE,Kickoff,NA,40,"D.Bailey kicks 65 yards from DAL 35 to end zone, Touchback."
+2017092500,3599,4,6:35:00,ARI,ARI,35,17,21,17,21,FALSE,Kickoff,NA,40,"P.Dawson kicks 65 yards from ARZ 35 to end zone, Touchback."
+2017092500,3738,4,4:57:00,DAL,DAL,35,17,28,17,28,FALSE,Kickoff,NA,40,"D.Bailey kicks 65 yards from DAL 35 to end zone, Touchback."
+2017100108,45,1,15:00:00,JAX,JAX,35,0,0,0,0,FALSE,Kickoff,NA,40,"J.Myers kicks 65 yards from JAX 35 to end zone, Touchback."
+2017100108,382,1,8:02:00,JAX,JAX,35,0,7,0,7,FALSE,Kickoff,NA,40,"J.Myers kicks 65 yards from JAX 35 to end zone, Touchback."
+2017100108,1687,2,1:11:00,NYJ,NYJ,35,10,10,10,10,FALSE,Kickoff,NA,40,"C.Catanzaro kicks 65 yards from NYJ 35 to end zone, Touchback."
+2017100108,2079,3,15:00:00,NYJ,NYJ,35,10,10,10,10,FALSE,Kickoff,NA,40,"C.Catanzaro kicks 65 yards from NYJ 35 to end zone, Touchback."
+2017100108,2301,3,10:02:00,NYJ,NYJ,35,17,10,17,10,FALSE,Kickoff,NA,40,"C.Catanzaro kicks 65 yards from NYJ 35 to end zone, Touchback."
+2017100108,2848,3,0:34:00,NYJ,NYJ,35,20,10,20,10,FALSE,Kickoff,NA,40,"C.Catanzaro kicks 65 yards from NYJ 35 to end zone, Touchback."
+2017100108,3171,4,10:20:00,JAX,JAX,35,20,17,20,17,FALSE,Kickoff,NA,40,"J.Myers kicks 65 yards from JAX 35 to end zone, Touchback."
+2017100108,3856,4,0:46:00,JAX,JAX,35,20,20,20,20,FALSE,Kickoff,NA,40,"J.Myers kicks 65 yards from JAX 35 to end zone, Touchback."
+2017100108,3986,5,10:00:00,NYJ,NYJ,35,20,20,20,20,FALSE,Kickoff,NA,40,"C.Catanzaro kicks 65 yards from NYJ 35 to end zone, Touchback."
+2017100105,227,1,12:13:00,HOU,HOU,35,7,0,7,0,FALSE,Kickoff,NA,40,"K.Fairbairn kicks 65 yards from HST 35 to end zone, Touchback."
+2017100105,590,1,5:09:00,HOU,HOU,35,14,0,14,0,FALSE,Kickoff,NA,40,"K.Fairbairn kicks 65 yards from HST 35 to end zone, Touchback."
+2017100105,948,2,14:54:00,HOU,HOU,35,21,0,21,0,FALSE,Kickoff,NA,40,"K.Fairbairn kicks 65 yards from HST 35 to end zone, Touchback."
+2017100105,1109,2,11:44:00,TEN,TEN,35,21,7,21,7,FALSE,Kickoff,NA,40,"R.Succop kicks 65 yards from TEN 35 to end zone, Touchback."
+2017100105,1416,2,6:01:00,HOU,HOU,35,24,7,24,7,FALSE,Kickoff,NA,40,"K.Fairbairn kicks 65 yards from HST 35 to end zone, Touchback."
+2017100105,1773,2,1:19:00,HOU,HOU,35,30,14,30,14,FALSE,Kickoff,NA,40,"K.Fairbairn kicks 65 yards from HST 35 to end zone, Touchback."
+2017100105,1989,3,15:00:00,TEN,TEN,35,30,14,30,14,FALSE,Kickoff,NA,40,"R.Succop kicks 65 yards from TEN 35 to end zone, Touchback."
+2017100105,2423,3,6:51:00,HOU,HOU,35,37,14,37,14,FALSE,Kickoff,NA,40,"K.Fairbairn kicks 65 yards from HST 35 to end zone, Touchback."
+2017100105,3204,4,8:39:00,HOU,HOU,35,47,14,47,14,FALSE,Kickoff,NA,40,"K.Fairbairn kicks 65 yards from HST 35 to end zone, Touchback."
+2017100105,3501,4,3:34:00,HOU,HOU,35,57,14,57,14,FALSE,Kickoff,NA,40,"K.Fairbairn kicks 65 yards from HST 35 to end zone, Touchback."
+2017100109,37,1,15:00:00,SF,SF,35,0,0,0,0,FALSE,Kickoff,NA,40,"B.Pinion kicks 65 yards from SF 35 to end zone, Touchback."
+2017100109,851,1,2:05:00,SF,SF,35,0,3,0,3,FALSE,Kickoff,NA,40,"B.Pinion kicks 65 yards from SF 35 to end zone, Touchback."
+2017100109,1238,2,13:07:00,ARI,ARI,35,3,3,3,3,TRUE,Kickoff,NA,-5,"P.Dawson kicks 65 yards from ARZ 35 to end zone, Touchback. PENALTY on ARZ-B.Baker, Offside on Free Kick, 5 yards, enforced at ARZ 35 - No Play."
+2017100109,1600,2,7:16:00,SF,SF,35,3,6,3,6,FALSE,Kickoff,NA,40,"B.Pinion kicks 65 yards from SF 35 to end zone, Touchback."
+2017100109,2429,3,15:00:00,ARI,ARI,35,6,6,6,6,FALSE,Kickoff,NA,40,"P.Dawson kicks 65 yards from ARZ 35 to end zone, Touchback."
+2017100109,2694,3,10:34:00,SF,SF,35,6,9,6,9,FALSE,Kickoff,NA,40,"B.Pinion kicks 65 yards from SF 35 to end zone, Touchback."
+2017100109,2943,3,6:50:00,ARI,ARI,35,9,9,9,9,FALSE,Kickoff,NA,40,"P.Dawson kicks 65 yards from ARZ 35 to end zone, Touchback."
+2017100109,3245,3,2:22:00,SF,SF,35,9,12,9,12,FALSE,Kickoff,NA,40,"B.Pinion kicks 65 yards from SF 35 to end zone, Touchback."
+2017100109,3806,4,7:41:00,ARI,ARI,35,12,12,12,12,FALSE,Kickoff,NA,40,"P.Dawson kicks 65 yards from ARZ 35 to end zone, Touchback."
+2017100109,5258,5,2:24:00,SF,SF,35,12,15,12,15,FALSE,Kickoff,NA,40,"B.Pinion kicks 65 yards from SF 35 to end zone, Touchback."
+2017100111,38,1,15:00:00,TB,TB,35,0,0,0,0,FALSE,Kickoff,NA,40,"N.Folk kicks 65 yards from TB 35 to end zone, Touchback."
+2017100111,444,1,7:47:00,TB,TB,35,7,0,7,0,FALSE,Kickoff,NA,40,"N.Folk kicks 65 yards from TB 35 to end zone, Touchback."
+2017100111,781,1,3:00:00,TB,TB,35,13,0,13,0,FALSE,Kickoff,NA,40,"N.Folk kicks 65 yards from TB 35 to end zone, Touchback."
+2017100111,1797,2,3:17:00,NYG,NYG,35,13,10,13,10,FALSE,Kickoff,NA,40,"A.Rosas kicks 65 yards from NYG 35 to end zone, Touchback."
+2017100111,2174,2,0:32:00,TB,TB,35,16,10,16,10,FALSE,Kickoff,NA,40,"N.Folk kicks 65 yards from TB 35 to end zone, Touchback."
+2017100111,2345,3,15:00:00,NYG,NYG,35,16,10,16,10,FALSE,Kickoff,NA,40,"A.Rosas kicks 65 yards from NYG 35 to end zone, Touchback."
+2017100111,3667,4,7:44:00,TB,TB,35,22,17,22,17,FALSE,Kickoff,NA,40,"N.Folk kicks 65 yards from TB 35 to end zone, Touchback."
+2017100111,4011,4,3:16:00,NYG,NYG,35,22,23,22,23,FALSE,Kickoff,NA,40,"A.Rosas kicks 65 yards from NYG 35 to end zone, Touchback."
+2017100802,36,1,15:00:00,CAR,CAR,35,0,0,0,0,FALSE,Kickoff,NA,40,"G.Gano kicks 65 yards from CAR 35 to end zone, Touchback."
+2017100802,1055,2,13:32:00,DET,DET,35,10,3,10,3,FALSE,Kickoff,NA,40,"J.Locke kicks 65 yards from DET 35 to end zone, Touchback."
+2017100802,1204,2,11:04:00,CAR,CAR,35,10,10,10,10,FALSE,Kickoff,NA,40,"G.Gano kicks 65 yards from CAR 35 to end zone, Touchback."
+2017100802,1937,2,0:48:00,CAR,CAR,35,10,17,10,17,FALSE,Kickoff,NA,40,"G.Gano kicks 65 yards from CAR 35 to end zone, Touchback."
+2017100802,2080,3,15:00:00,DET,DET,35,10,17,10,17,FALSE,Kickoff,NA,40,"J.Locke kicks 65 yards from DET 35 to end zone, Touchback."
+2017100802,2315,3,10:43:00,CAR,CAR,35,10,24,10,24,TRUE,Kickoff,NA,35,"G.Gano kicks 65 yards from CAR 35 to end zone, Touchback. PENALTY on CAR-C.Artis-Payne, Offside on Free Kick, 5 yards, enforced at DET 25."
+2017100802,2477,3,9:26:00,CAR,CAR,35,10,27,10,27,FALSE,Kickoff,NA,40,"G.Gano kicks 65 yards from CAR 35 to end zone, Touchback."
+2017100803,36,1,15:00:00,SF,SF,35,0,0,0,0,FALSE,Kickoff,NA,40,"B.Pinion kicks 65 yards from SF 35 to end zone, Touchback."
+2017100803,325,1,9:09:00,IND,IND,35,3,0,3,0,FALSE,Kickoff,NA,40,"R.Sanchez kicks 65 yards from IND 35 to end zone, Touchback."
+2017100803,652,1,2:37:00,SF,SF,35,3,3,3,3,FALSE,Kickoff,NA,40,"B.Pinion kicks 65 yards from SF 35 to end zone, Touchback."
+2017100803,1815,2,0:59:00,IND,IND,35,6,3,6,3,FALSE,Kickoff,NA,40,"R.Sanchez kicks 65 yards from IND 35 to end zone, Touchback."
+2017100803,2005,2,0:02:00,SF,SF,35,6,6,6,6,FALSE,Kickoff,NA,40,"B.Pinion kicks 65 yards from SF 35 to end zone, Touchback."
+2017100803,3183,4,13:39:00,SF,SF,35,16,9,16,9,FALSE,Kickoff,NA,40,"B.Pinion kicks 65 yards from SF 35 to end zone, Touchback."
+2017100803,3560,4,8:00:00,SF,SF,35,23,16,23,16,FALSE,Kickoff,NA,40,"B.Pinion kicks 65 yards from SF 35 to end zone, Touchback."
+2017100803,4140,4,0:20:00,SF,SF,35,23,23,23,23,FALSE,Kickoff,NA,40,"B.Pinion kicks 65 yards from SF 35 to end zone, Touchback."
+2017100803,4193,5,10:00:00,SF,SF,35,23,23,23,23,FALSE,Kickoff,NA,40,"B.Pinion kicks 65 yards from SF 35 to end zone, Touchback."
+2017100801,2155,3,15:00:00,NYJ,NYJ,35,0,3,0,3,FALSE,Kickoff,NA,40,"C.Catanzaro kicks 65 yards from NYJ 35 to end zone, Touchback."
+2017100801,2810,3,4:17:00,NYJ,NYJ,35,7,10,7,10,FALSE,Kickoff,NA,40,"C.Catanzaro kicks 65 yards from NYJ 35 to end zone, Touchback."
+2017100801,3348,4,8:30:00,NYJ,NYJ,35,7,17,7,17,FALSE,Kickoff,NA,40,"C.Catanzaro kicks 65 yards from NYJ 35 to end zone, Touchback."
+2017100809,36,1,15:00:00,OAK,OAK,35,0,0,0,0,FALSE,Kickoff,NA,40,"G.Tavecchio kicks 65 yards from OAK 35 to end zone, Touchback. OAK Captains: #27 R. Nelson, #47. J Cowser, #52 K. Mack, #61 R. Hudson, #70 K. Oseleme BAL Captains: #21 L. Webb, #24 B. Carr, #77 A. Howard"
+2017100809,307,1,11:10:00,BAL,BAL,35,0,14,0,14,FALSE,Kickoff,NA,40,"J.Tucker kicks 65 yards from BLT 35 to end zone, Touchback."
+2017100809,615,1,5:07:00,OAK,OAK,35,3,14,3,14,FALSE,Kickoff,NA,40,"G.Tavecchio kicks 65 yards from OAK 35 to end zone, Touchback."
+2017100809,993,2,11:57:00,BAL,BAL,35,3,21,3,21,FALSE,Kickoff,NA,40,"J.Tucker kicks 65 yards from BLT 35 to end zone, Touchback."
+2017100809,1153,2,9:11:00,OAK,OAK,35,10,21,10,21,FALSE,Kickoff,NA,40,"G.Tavecchio kicks 65 yards from OAK 35 to end zone, Touchback."
+2017100809,1377,2,5:18:00,BAL,BAL,35,10,24,10,24,FALSE,Kickoff,NA,40,"J.Tucker kicks 65 yards from BLT 35 to end zone, Touchback."
+2017100809,1820,3,15:00:00,BAL,BAL,35,10,24,10,24,FALSE,Kickoff,NA,40,"J.Tucker kicks 65 yards from BLT 35 to end zone, Touchback."
+2017100809,2502,3,3:46:00,OAK,OAK,35,17,24,17,24,FALSE,Kickoff,NA,40,"G.Tavecchio kicks 65 yards from OAK 35 to end zone, Touchback."
+2017100809,2818,4,13:10:00,BAL,BAL,35,17,27,17,27,FALSE,Kickoff,NA,40,"J.Tucker kicks 65 yards from BLT 35 to end zone, Touchback."
+2017100809,3358,4,2:24:00,BAL,BAL,35,17,30,17,30,FALSE,Kickoff,NA,40,"J.Tucker kicks 65 yards from BLT 35 to end zone, Touchback."
+2017100112,48,1,15:00:00,OAK,OAK,35,0,0,0,0,FALSE,Kickoff,NA,40,"G.Tavecchio kicks 65 yards from OAK 35 to end zone, Touchback."
+2017100112,416,1,8:11:00,DEN,DEN,35,7,0,7,0,FALSE,Kickoff,NA,40,"B.McManus kicks 65 yards from DEN 35 to end zone, Touchback."
+2017100112,1576,2,3:36:00,OAK,OAK,35,10,7,10,7,FALSE,Kickoff,NA,40,"G.Tavecchio kicks 65 yards from OAK 35 to end zone, Touchback."
+2017100112,2002,3,15:00:00,DEN,DEN,35,10,7,10,7,FALSE,Kickoff,NA,40,"B.McManus kicks 65 yards from DEN 35 to end zone, Touchback."
+2017100805,36,1,15:00:00,NYG,NYG,35,0,0,0,0,FALSE,Kickoff,NA,40,"A.Rosas kicks 65 yards from NYG 35 to end zone, Touchback."
+2017100805,3263,3,0:40:00,LAC,LAC,35,16,17,16,17,FALSE,Kickoff,NA,40,"N.Novak kicks 65 yards from LAC 35 to end zone, Touchback."
+2017100805,3455,4,13:31:00,NYG,NYG,35,22,17,22,17,FALSE,Kickoff,NA,40,"A.Rosas kicks 65 yards from NYG 35 to end zone, Touchback."
+2017100807,37,1,15:00:00,PIT,PIT,35,0,0,0,0,FALSE,Kickoff,NA,40,"C.Boswell kicks 65 yards from PIT 35 to end zone, Touchback."
+2017100807,299,1,10:17:00,PIT,PIT,35,3,0,3,0,FALSE,Kickoff,NA,40,"C.Boswell kicks 65 yards from PIT 35 to end zone, Touchback."
+2017100807,2032,3,15:00:00,JAX,JAX,35,6,7,6,7,FALSE,Kickoff,NA,40,"J.Myers kicks 65 yards from JAX 35 to end zone, Touchback."
+2017100807,2454,3,8:54:00,PIT,PIT,35,9,7,9,7,FALSE,Kickoff,NA,40,"C.Boswell kicks 65 yards from PIT 35 to end zone, Touchback."
+2017100807,2644,3,6:38:00,JAX,JAX,35,9,13,9,13,FALSE,Kickoff,NA,40,"J.Myers kicks 65 yards from JAX 35 to end zone, Touchback."
+2017100807,2812,3,3:59:00,JAX,JAX,35,9,20,9,20,FALSE,Kickoff,NA,40,"J.Myers kicks 65 yards from JAX 35 to end zone, Touchback."
+2017100807,3368,4,6:43:00,JAX,JAX,35,9,23,9,23,FALSE,Kickoff,NA,40,"J.Myers kicks 65 yards from JAX 35 to end zone, Touchback."
+2017100811,403,1,6:53:00,KC,KC,35,0,3,0,3,FALSE,Kickoff,NA,40,"H.Butker kicks 65 yards from KC 35 to end zone, Touchback."
+2017100811,947,2,11:23:00,KC,KC,35,0,6,0,6,FALSE,Kickoff,NA,40,"H.Butker kicks 65 yards from KC 35 to end zone, Touchback."
+2017100811,1308,2,5:45:00,KC,KC,35,0,13,0,13,FALSE,Kickoff,NA,40,"H.Butker kicks 65 yards from KC 35 to end zone, Touchback."
+2017100811,1461,2,4:17:00,KC,KC,35,0,16,0,16,FALSE,Kickoff,NA,40,"(Shotgun) H.Butker kicks 65 yards from KC 35 to end zone, Touchback."
+2017100811,1709,2,1:49:00,HOU,HOU,35,7,16,7,16,FALSE,Kickoff,NA,40,"K.Fairbairn kicks 65 yards from HST 35 to end zone, Touchback."
+2017100811,1989,2,0:34:00,KC,KC,35,7,23,7,23,FALSE,Kickoff,NA,40,"H.Butker kicks 65 yards from KC 35 to end zone, Touchback."
+2017100811,2701,3,3:20:00,HOU,HOU,35,13,23,13,23,FALSE,Kickoff,NA,40,"K.Fairbairn kicks 65 yards from HST 35 to end zone, Touchback."
+2017100811,2984,4,14:01:00,KC,KC,35,13,26,13,26,TRUE,Kickoff,NA,35,"H.Butker kicks 65 yards from KC 35 to end zone, Touchback. PENALTY on KC-U.Eligwe, Offside on Free Kick, 5 yards, enforced at HST 25."
+2017100811,3331,4,8:57:00,KC,KC,35,20,32,20,32,FALSE,Kickoff,NA,40,"H.Butker kicks 65 yards from KC 35 to end zone, Touchback. HST-C.Moore was injured during the play. He is Out."
+2017100811,4057,4,1:08:00,KC,KC,35,26,42,26,42,FALSE,Kickoff,NA,40,"H.Butker kicks 65 yards from KC 35 to end zone, Touchback."
+2017100103,888,2,14:56:00,CIN,CIN,35,0,7,0,7,FALSE,Kickoff,NA,40,"R.Bullock kicks 65 yards from CIN 35 to end zone, Touchback."
+2017100103,1917,3,15:00:00,CLE,CLE,35,0,21,0,21,FALSE,Kickoff,NA,40,"Z.Gonzalez kicks 65 yards from CLV 35 to end zone, Touchback."
+2017100500,901,1,1:21:00,NE,NE,35,0,3,0,3,FALSE,Kickoff,NA,40,"S.Gostkowski kicks 65 yards from NE 35 to end zone, Touchback."
+2017100500,1536,2,8:26:00,TB,TB,35,7,3,7,3,FALSE,Kickoff,NA,40,"N.Folk kicks 65 yards from TB 35 to end zone, Touchback."
+2017100500,1820,2,3:42:00,NE,NE,35,7,10,7,10,FALSE,Kickoff,NA,40,"S.Gostkowski kicks 65 yards from NE 35 to end zone, Touchback."
+2017100500,2361,3,15:00:00,NE,NE,35,7,13,7,13,FALSE,Kickoff,NA,40,"S.Gostkowski kicks 65 yards from NE 35 to end zone, Touchback."
+2017100500,2718,3,9:55:00,NE,NE,35,7,16,7,16,FALSE,Kickoff,NA,40,"S.Gostkowski kicks 65 yards from NE 35 to end zone, Touchback."
+2017100500,4428,4,1:10:00,NE,NE,35,14,19,14,19,FALSE,Kickoff,NA,40,"S.Gostkowski kicks 65 yards from NE 35 to end zone, Touchback."
+2017100806,892,1,0:43:00,PHI,PHI,35,21,0,21,0,FALSE,Kickoff,NA,40,"J.Elliott kicks 65 yards from PHI 35 to end zone, Touchback."
+2017100806,1189,2,11:42:00,ARI,ARI,35,21,7,21,7,FALSE,Kickoff,NA,40,"P.Dawson kicks 65 yards from ARZ 35 to end zone, Touchback."
+2017100806,2088,3,15:00:00,ARI,ARI,35,21,7,21,7,FALSE,Kickoff,NA,40,"P.Dawson kicks 65 yards from ARZ 35 to end zone, Touchback."
+2017100806,2569,3,6:16:00,PHI,PHI,35,31,7,31,7,FALSE,Kickoff,NA,40,"J.Elliott kicks 65 yards from PHI 35 to end zone, Touchback."
+2017100806,3607,4,2:00:00,PHI,PHI,35,34,7,34,7,FALSE,Kickoff,NA,40,"J.Elliott kicks 65 yards from PHI 35 to end zone, Touchback."
+2017100810,36,1,15:00:00,GB,GB,35,0,0,0,0,FALSE,Kickoff,NA,40,"M.Crosby kicks 65 yards from GB 35 to end zone, Touchback."
+2017100810,370,1,8:24:00,DAL,DAL,35,7,0,7,0,FALSE,Kickoff,NA,40,"D.Bailey kicks 65 yards from DAL 35 to end zone, Touchback."
+2017100810,580,1,4:01:00,GB,GB,35,7,6,7,6,FALSE,Kickoff,NA,40,"M.Crosby kicks 65 yards from GB 35 to end zone, Touchback."
+2017100810,882,2,13:37:00,DAL,DAL,35,14,6,14,6,FALSE,Kickoff,NA,40,"D.Bailey kicks 65 yards from DAL 35 to end zone, Touchback. Green Bay's Kevin King is being evaluated for a concussion."
+2017100810,1254,2,6:10:00,DAL,DAL,40,21,6,21,6,FALSE,Kickoff,NA,35,"D.Bailey kicks 60 yards from DAL 40 to end zone, Touchback."
+2017100810,1643,2,0:54:00,GB,GB,35,21,12,21,12,FALSE,Kickoff,NA,40,"M.Crosby kicks 65 yards from GB 35 to end zone, Touchback."
+2017100810,1815,3,15:00:00,DAL,DAL,35,21,12,21,12,FALSE,Kickoff,NA,40,"D.Bailey kicks 65 yards from DAL 35 to end zone, Touchback. Kevin King of the Packers has a concussion and has been ruled ""out"" for the remainder of the game."
+2017100810,2060,3,11:09:00,GB,GB,35,21,15,21,15,TRUE,Kickoff,NA,35,"M.Crosby kicks 65 yards from GB 35 to end zone, Touchback. PENALTY on GB-K.Brice, Defensive Offside, 5 yards, enforced at DAL 25."
+2017100810,2684,4,14:54:00,GB,GB,35,21,22,21,22,FALSE,Kickoff,NA,40,"M.Crosby kicks 65 yards from GB 35 to end zone, Touchback."
+2017100810,3680,4,1:13:00,DAL,DAL,35,31,28,31,28,FALSE,Kickoff,NA,40,"D.Bailey kicks 65 yards from DAL 35 to end zone, Touchback."
+2017100810,3934,4,0:11:00,GB,GB,35,31,35,31,35,FALSE,Kickoff,NA,40,"M.Crosby kicks 65 yards from GB 35 to end zone, Touchback."
+2017100113,392,1,8:59:00,SEA,SEA,35,3,0,3,0,FALSE,Kickoff,NA,40,"B.Walsh kicks 65 yards from SEA 35 to end zone, Touchback."
+2017100113,1598,2,5:25:00,IND,IND,35,10,8,10,8,FALSE,Kickoff,NA,40,"R.Sanchez kicks 65 yards from IND 35 to end zone, Touchback."
+2017100113,2026,2,0:25:00,IND,IND,35,10,15,10,15,FALSE,Kickoff,NA,40,"R.Sanchez kicks 65 yards from IND 35 to end zone, Touchback."
+2017100113,2686,3,9:23:00,SEA,SEA,35,18,15,18,15,FALSE,Kickoff,NA,40,"B.Walsh kicks 65 yards from SEA 35 to end zone, Touchback."
+2017100113,3004,3,4:53:00,IND,IND,35,18,18,18,18,FALSE,Kickoff,NA,40,"R.Sanchez kicks 65 yards from IND 35 to end zone, Touchback."
+2017100113,3250,3,1:59:00,SEA,SEA,35,32,18,32,18,FALSE,Kickoff,NA,40,"B.Walsh kicks 65 yards from SEA 35 to end zone, Touchback."
+2017100113,3618,4,11:16:00,SEA,SEA,35,39,18,39,18,FALSE,Kickoff,NA,40,"B.Walsh kicks 65 yards from SEA 35 to end zone, Touchback."
+2017100110,37,1,15:00:00,PHI,PHI,35,0,0,0,0,FALSE,Kickoff,NA,40,"J.Elliott kicks 65 yards from PHI 35 to end zone, Touchback."
+2017100110,448,1,8:00:00,PHI,PHI,35,0,7,0,7,FALSE,Kickoff,NA,40,"J.Elliott kicks 65 yards from PHI 35 to end zone, Touchback."
+2017100110,868,1,0:05:00,PHI,PHI,35,0,10,0,10,FALSE,Kickoff,NA,40,"J.Elliott kicks 65 yards from PHI 35 to end zone, Touchback."
+2017100110,1348,2,6:42:00,PHI,PHI,35,0,13,0,13,FALSE,Kickoff,NA,40,"J.Elliott kicks 65 yards from PHI 35 to end zone, Touchback."
+2017100110,1419,2,6:32:00,LAC,LAC,35,7,13,7,13,FALSE,Kickoff,NA,40,"Y.Koo kicks 65 yards from LAC 35 to end zone, Touchback."
+2017100110,1609,2,4:08:00,PHI,PHI,35,7,16,7,16,FALSE,Kickoff,NA,40,"J.Elliott kicks 65 yards from PHI 35 to end zone, Touchback."
+2017100110,2189,3,15:00:00,LAC,LAC,35,10,16,10,16,FALSE,Kickoff,NA,40,"Y.Koo kicks 65 yards from LAC 35 to end zone, Touchback."
+2017100110,2943,3,0:55:00,PHI,PHI,35,10,19,10,19,FALSE,Kickoff,NA,40,"J.Elliott kicks 65 yards from PHI 35 to end zone, Touchback."
+2017100110,3211,4,13:42:00,LAC,LAC,35,17,19,17,19,FALSE,Kickoff,NA,40,"Y.Koo kicks 65 yards from LAC 35 to end zone, Touchback."
+2017100110,3457,4,9:14:00,PHI,PHI,35,17,26,17,26,FALSE,Kickoff,NA,40,"J.Elliott kicks 65 yards from PHI 35 to end zone, Touchback."
+2017100110,3726,4,6:44:00,LAC,LAC,35,24,26,24,26,FALSE,Kickoff,NA,40,"Y.Koo kicks 65 yards from LAC 35 to end zone, Touchback."
+2017100800,930,1,0:10:00,BUF,BUF,35,7,3,7,3,FALSE,Kickoff,NA,40,"S.Hauschka kicks 65 yards from BUF 35 to end zone, Touchback."
+2017100800,1285,2,9:01:00,CIN,CIN,35,10,3,10,3,FALSE,Kickoff,NA,40,"R.Bullock kicks 65 yards from CIN 35 to end zone, Touchback."
+2017100800,2194,3,15:00:00,CIN,CIN,35,10,10,10,10,FALSE,Kickoff,NA,40,"R.Bullock kicks 65 yards from CIN 35 to end zone, Touchback."
+2017100800,2970,3,1:54:00,BUF,BUF,35,10,13,10,13,FALSE,Kickoff,NA,40,"S.Hauschka kicks 65 yards from BUF 35 to end zone, Touchback."
+2017100800,3229,4,14:55:00,CIN,CIN,35,17,13,17,13,FALSE,Kickoff,NA,40,"R.Bullock kicks 65 yards from CIN 35 to end zone, Touchback."
+2017100800,3967,4,3:33:00,CIN,CIN,35,20,16,20,16,FALSE,Kickoff,NA,40,"R.Bullock kicks 65 yards from CIN 35 to end zone, Touchback."
+2017100804,37,1,15:00:00,MIA,MIA,35,0,0,0,0,FALSE,Kickoff,NA,40,"C.Parkey kicks 65 yards from MIA 35 to end zone, Touchback."
+2017100804,808,1,0:53:00,MIA,MIA,35,3,0,3,0,FALSE,Kickoff,NA,40,"C.Parkey kicks 65 yards from MIA 35 to end zone, Touchback."
+2017100804,2496,3,7:17:00,TEN,TEN,35,10,10,10,10,FALSE,Kickoff,NA,40,"R.Succop kicks 65 yards from TEN 35 to end zone, Touchback."
+2017100808,36,1,15:00:00,LA,LA,35,0,0,0,0,FALSE,Kickoff,NA,40,"G.Zuerlein kicks 65 yards from LA 35 to end zone, Touchback."
+2017100808,1355,2,9:29:00,LA,LA,35,10,0,10,0,FALSE,Kickoff,NA,40,"G.Zuerlein kicks 65 yards from LA 35 to end zone, Touchback."
+2017100808,1769,2,1:55:00,SEA,SEA,35,10,7,10,7,FALSE,Kickoff,NA,25,"B.Walsh kicks 53 yards from SEA 35 to LA 12, out of bounds."
+2017100808,4084,4,1:09:00,SEA,SEA,35,10,16,10,16,FALSE,Kickoff,NA,40,"B.Walsh kicks 65 yards from SEA 35 to end zone, Touchback."
+2017100200,36,1,15:00:00,KC,KC,35,0,0,0,0,FALSE,Kickoff,NA,40,"H.Butker kicks 65 yards from KC 35 to end zone, Touchback."
+2017100200,232,1,11:52:00,WAS,WAS,35,0,7,0,7,FALSE,Kickoff,NA,40,"D.Hopkins kicks 65 yards from WAS 35 to end zone, Touchback."
+2017100200,1692,2,1:54:00,KC,KC,35,7,10,7,10,FALSE,Kickoff,NA,40,"H.Butker kicks 65 yards from KC 35 to end zone, Touchback."
+2017100200,2388,3,9:20:00,KC,KC,35,14,10,14,10,FALSE,Kickoff,NA,40,"H.Butker kicks 65 yards from KC 35 to end zone, Touchback."
+2017100200,2484,3,7:42:00,WAS,WAS,35,14,17,14,17,FALSE,Kickoff,NA,40,"D.Hopkins kicks 65 yards from WAS 35 to end zone, Touchback."
+2017100200,2838,3,0:01:00,KC,KC,35,17,17,17,17,FALSE,Kickoff,NA,40,"H.Butker kicks 65 yards from KC 35 to end zone, Touchback."
+2017100200,3376,4,4:51:00,KC,KC,35,20,17,20,17,FALSE,Kickoff,NA,40,"H.Butker kicks 65 yards from KC 35 to end zone, Touchback."
+2017100200,3638,4,0:47:00,WAS,WAS,35,20,20,20,20,FALSE,Kickoff,NA,40,"D.Hopkins kicks 65 yards from WAS 35 to end zone, Touchback."
+2017100200,3861,4,0:04:00,KC,KC,35,23,20,23,20,FALSE,Kickoff,NA,40,"H.Butker kicks 65 yards from KC 35 to end zone, Touchback."
+2017101511,431,1,6:54:00,NYG,NYG,35,0,3,0,3,FALSE,Kickoff,NA,40,"A.Rosas kicks 65 yards from NYG 35 to end zone, Touchback."
+2017101511,1057,2,12:30:00,NYG,NYG,35,0,10,0,10,FALSE,Kickoff,NA,40,"A.Rosas kicks 65 yards from NYG 35 to end zone, Touchback."
+2017101511,1723,2,4:21:00,DEN,DEN,35,3,10,3,10,FALSE,Kickoff,NA,40,"B.McManus kicks 65 yards from DEN 35 to end zone, Touchback."
+2017101511,1990,2,0:48:00,NYG,NYG,35,3,17,3,17,FALSE,Kickoff,NA,40,"A.Rosas kicks 65 yards from NYG 35 to end zone, Touchback."
+2017101511,2227,3,15:00:00,DEN,DEN,35,3,17,3,17,FALSE,Kickoff,NA,40,"B.McManus kicks 65 yards from DEN 35 to end zone, Touchback."
+2017101511,2597,3,8:08:00,NYG,NYG,35,3,20,3,20,FALSE,Kickoff,NA,40,"A.Rosas kicks 65 yards from NYG 35 to end zone, Touchback."
+2017101509,48,1,15:00:00,KC,KC,35,0,0,0,0,FALSE,Kickoff,NA,40,"H.Butker kicks 65 yards from KC 35 to end zone, Touchback."
+2017101509,523,1,6:20:00,KC,KC,35,3,2,3,2,FALSE,Kickoff,NA,40,"H.Butker kicks 65 yards from KC 35 to end zone, Touchback."
+2017101509,885,1,7:49:00,KC,KC,20,0,2,0,2,FALSE,Kickoff,NA,48,D.Colquitt kicks 48 yards from KC 20 to PIT 32. RECOVERED by KC-J.Chesson.
+2017101509,1566,2,2:08:00,PIT,PIT,35,3,12,3,12,FALSE,Kickoff,NA,40,"C.Boswell kicks 65 yards from PIT 35 to end zone, Touchback."
+2017101509,1799,3,15:00:00,PIT,PIT,35,3,12,3,12,FALSE,Kickoff,NA,40,"C.Boswell kicks 65 yards from PIT 35 to end zone, Touchback."
+2017101509,3059,4,6:13:00,KC,KC,35,10,12,10,12,FALSE,Kickoff,NA,40,"H.Butker kicks 65 yards from KC 35 to end zone, Touchback."
+2017101506,54,1,15:00:00,SF,SF,35,0,0,0,0,FALSE,Kickoff,NA,40,"B.Pinion kicks 65 yards from SF 35 to end zone, Touchback."
+2017101506,281,1,10:14:00,WAS,WAS,35,7,0,7,0,FALSE,Kickoff,NA,40,"D.Hopkins kicks 65 yards from WAS 35 to end zone, Touchback."
+2017101506,1301,2,9:47:00,WAS,WAS,35,14,0,14,0,FALSE,Kickoff,NA,40,"D.Hopkins kicks 65 yards from WAS 35 to end zone, Touchback."
+2017101506,2020,2,1:51:00,WAS,WAS,35,17,0,17,0,FALSE,Kickoff,NA,40,"D.Hopkins kicks 65 yards from WAS 35 to end zone, Touchback."
+2017101506,2454,3,15:00:00,WAS,WAS,35,17,7,17,7,FALSE,Kickoff,NA,40,"D.Hopkins kicks 65 yards from WAS 35 to end zone, Touchback."
+2017101506,2752,3,9:41:00,SF,SF,35,17,10,17,10,FALSE,Kickoff,NA,40,"B.Pinion kicks 65 yards from SF 35 to end zone, Touchback."
+2017101506,3246,3,3:01:00,SF,SF,35,17,17,17,17,FALSE,Kickoff,NA,40,"B.Pinion kicks 65 yards from SF 35 to end zone, Touchback."
+2017101506,3677,4,10:34:00,WAS,WAS,35,20,17,20,17,FALSE,Kickoff,NA,40,"D.Hopkins kicks 65 yards from WAS 35 to end zone, Touchback."
+2017101506,4090,4,3:28:00,WAS,WAS,35,26,17,26,17,FALSE,Kickoff,NA,40,"D.Hopkins kicks 65 yards from WAS 35 to end zone, Touchback."
+2017101500,37,1,15:00:00,MIA,MIA,35,0,0,0,0,FALSE,Kickoff,NA,40,"C.Parkey kicks 65 yards from MIA 35 to end zone, Touchback."
+2017101500,1324,2,5:29:00,ATL,ATL,35,17,0,17,0,FALSE,Kickoff,NA,40,"M.Bosher kicks 65 yards from ATL 35 to end zone, Touchback."
+2017101500,1856,3,15:00:00,ATL,ATL,35,17,0,17,0,FALSE,Kickoff,NA,40,"M.Bosher kicks 65 yards from ATL 35 to end zone, Touchback."
+2017101500,2550,3,1:32:00,MIA,MIA,35,17,14,17,14,FALSE,Kickoff,NA,40,"C.Parkey kicks 65 yards from MIA 35 to end zone, Touchback."
+2017101500,2975,4,8:34:00,MIA,MIA,35,17,17,17,17,FALSE,Kickoff,NA,40,"C.Parkey kicks 65 yards from MIA 35 to end zone, Touchback."
+2017101508,80,1,14:46:00,LA,LA,35,0,7,0,7,FALSE,Kickoff,NA,40,"G.Zuerlein kicks 65 yards from LA 35 to end zone, Touchback."
+2017101508,449,1,8:54:00,LA,LA,35,7,10,7,10,FALSE,Kickoff,NA,40,"G.Zuerlein kicks 65 yards from LA 35 to end zone, Touchback."
+2017101508,571,1,6:51:00,JAX,JAX,35,14,10,14,10,FALSE,Kickoff,NA,40,"J.Myers kicks 65 yards from JAX 35 to end zone, Touchback."
+2017101508,1008,1,0:22:00,LA,LA,35,14,17,14,17,FALSE,Kickoff,NA,40,"G.Zuerlein kicks 65 yards from LA 35 to end zone, Touchback."
+2017101508,1897,2,2:25:00,LA,LA,35,14,24,14,24,TRUE,Kickoff,NA,25,"G.Zuerlein kicks 65 yards from LA 35 to end zone, Touchback. PENALTY on LA-B.Hager, Unnecessary Roughness, 15 yards, enforced at JAX 25."
+2017101508,2207,3,15:00:00,LA,LA,35,14,24,14,24,FALSE,Kickoff,NA,40,"G.Zuerlein kicks 65 yards from LA 35 to end zone, Touchback."
+2017101508,2806,3,5:16:00,JAX,JAX,35,17,24,17,24,FALSE,Kickoff,NA,40,"J.Myers kicks 65 yards from JAX 35 to end zone, Touchback."
+2017101508,3893,4,2:32:00,LA,LA,35,17,27,17,27,FALSE,Kickoff,NA,40,"G.Zuerlein kicks 65 yards from LA 35 to end zone, Touchback."
+2017100900,36,1,15:00:00,MIN,MIN,35,0,0,0,0,FALSE,Kickoff,NA,40,"K.Forbath kicks 65 yards from MIN 35 to end zone, Touchback."
+2017100900,2595,3,8:16:00,MIN,MIN,35,2,10,2,10,FALSE,Kickoff,NA,40,"K.Forbath kicks 65 yards from MIN 35 to end zone, Touchback."
+2017100900,3410,4,12:24:00,CHI,CHI,35,17,17,17,17,FALSE,Kickoff,NA,40,"C.Barth kicks 65 yards from CHI 35 to end zone, Touchback."
+2017101504,45,1,15:00:00,DET,DET,35,0,0,0,0,FALSE,Kickoff,NA,40,"J.Locke kicks 65 yards from DET 35 to end zone, Touchback."
+2017101504,297,1,11:02:00,NO,NO,35,7,0,7,0,FALSE,Kickoff,NA,40,"W.Lutz kicks 65 yards from NO 35 to end zone, Touchback."
+2017101504,525,1,7:02:00,DET,DET,35,7,7,7,7,FALSE,Kickoff,NA,40,"J.Locke kicks 65 yards from DET 35 to end zone, Touchback."
+2017101504,986,1,0:04:00,NO,NO,35,17,7,17,7,FALSE,Kickoff,NA,40,"W.Lutz kicks 65 yards from NO 35 to end zone, Touchback."
+2017101504,1302,2,10:46:00,NO,NO,35,24,7,24,7,FALSE,Kickoff,NA,40,"W.Lutz kicks 65 yards from NO 35 to end zone, Touchback."
+2017101504,1583,2,6:38:00,DET,DET,35,24,10,24,10,FALSE,Kickoff,NA,40,"J.Locke kicks 65 yards from DET 35 to end zone, Touchback."
+2017101504,1997,2,1:48:00,NO,NO,35,31,10,31,10,FALSE,Kickoff,NA,25,"W.Lutz kicks 64 yards from NO 35 to DET 1, out of bounds."
+2017101504,2436,3,15:00:00,NO,NO,35,31,10,31,10,FALSE,Kickoff,NA,40,"W.Lutz kicks 65 yards from NO 35 to end zone, Touchback."
+2017101504,2879,3,9:17:00,NO,NO,35,38,10,38,10,FALSE,Kickoff,NA,40,"W.Lutz kicks 65 yards from NO 35 to end zone, Touchback."
+2017101504,2960,3,8:34:00,NO,NO,35,45,10,45,10,FALSE,Kickoff,NA,40,"W.Lutz kicks 65 yards from NO 35 to end zone, Touchback."
+2017101504,4479,4,6:41:00,DET,DET,40,45,38,45,38,FALSE,Kickoff,NA,35,"J.Locke kicks 60 yards from DET 40 to end zone, Touchback."
+2017101507,37,1,15:00:00,TB,TB,35,0,0,0,0,FALSE,Kickoff,NA,40,"P.Murray kicks 65 yards from TB 35 to end zone, Touchback."
+2017101507,221,1,11:52:00,ARI,ARI,35,7,0,7,0,FALSE,Kickoff,NA,40,"P.Dawson kicks 65 yards from ARZ 35 to end zone, Touchback."
+2017101507,597,1,5:24:00,ARI,ARI,35,14,0,14,0,FALSE,Kickoff,NA,40,"P.Dawson kicks 65 yards from ARZ 35 to end zone, Touchback."
+2017101507,1063,2,12:04:00,ARI,ARI,35,21,0,21,0,FALSE,Kickoff,NA,40,"P.Dawson kicks 65 yards from ARZ 35 to end zone, Touchback."
+2017101507,1497,2,5:31:00,ARI,ARI,35,24,0,24,0,FALSE,Kickoff,NA,40,"P.Dawson kicks 65 yards from ARZ 35 to end zone, Touchback."
+2017101507,1977,3,15:00:00,ARI,ARI,35,24,0,24,0,FALSE,Kickoff,NA,40,"P.Dawson kicks 65 yards from ARZ 35 to end zone, Touchback."
+2017101507,2153,3,11:58:00,ARI,ARI,35,31,0,31,0,FALSE,Kickoff,NA,40,"P.Dawson kicks 65 yards from ARZ 35 to end zone, Touchback."
+2017101507,2377,3,8:27:00,TB,TB,35,31,6,31,6,FALSE,Kickoff,NA,40,"P.Murray kicks 65 yards from TB 35 to end zone, Touchback."
+2017101507,2937,4,13:32:00,TB,TB,35,31,12,31,12,FALSE,Kickoff,NA,40,"P.Murray kicks 65 yards from TB 35 to end zone, Touchback."
+2017101507,3523,4,7:17:00,ARI,ARI,35,38,20,38,20,TRUE,Kickoff,NA,35,"P.Dawson kicks 65 yards from ARZ 35 to end zone, Touchback. PENALTY on ARZ-J.Bethel, Offside on Free Kick, 5 yards, enforced at TB 25."
+2017101507,3940,4,3:02:00,TB,TB,35,38,26,38,26,TRUE,Kickoff,NA,8,"P.Murray kicks onside 8 yards from TB 35 to TB 43, downed by TB-P.Barber. PENALTY on TB-P.Barber, Illegal Touch Kick, 0 yards, enforced at TB 43."
+2017101502,37,1,15:00:00,CLE,CLE,35,0,0,0,0,FALSE,Kickoff,NA,40,"Z.Gonzalez kicks 65 yards from CLV 35 to end zone, Touchback."
+2017101502,267,1,10:57:00,HOU,HOU,35,3,0,3,0,FALSE,Kickoff,NA,40,"K.Fairbairn kicks 65 yards from HST 35 to end zone, Touchback."
+2017101502,896,1,0:41:00,HOU,HOU,35,10,3,10,3,FALSE,Kickoff,NA,40,"K.Fairbairn kicks 65 yards from HST 35 to end zone, Touchback."
+2017101502,1186,2,11:08:00,HOU,HOU,35,16,3,16,3,FALSE,Kickoff,NA,40,"K.Fairbairn kicks 65 yards from HST 35 to end zone, Touchback."
+2017101502,1792,2,3:04:00,HOU,HOU,40,24,3,24,3,FALSE,Kickoff,NA,35,"K.Fairbairn kicks 60 yards from HST 40 to end zone, Touchback."
+2017101502,2273,3,15:00:00,HOU,HOU,35,24,3,24,3,FALSE,Kickoff,NA,40,"K.Fairbairn kicks 65 yards from HST 35 to end zone, Touchback."
+2017101502,2951,3,4:05:00,HOU,HOU,35,33,3,33,3,FALSE,Kickoff,NA,40,"K.Fairbairn kicks 65 yards from HST 35 to end zone, Touchback."
+2017101502,3317,4,13:27:00,CLE,CLE,35,33,10,33,10,FALSE,Kickoff,NA,40,"Z.Gonzalez kicks 65 yards from CLV 35 to end zone, Touchback."
+2017101505,386,1,9:08:00,NYJ,NYJ,35,7,0,7,0,FALSE,Kickoff,NA,40,"C.Catanzaro kicks 65 yards from NYJ 35 to end zone, Touchback."
+2017101505,1061,2,12:18:00,NYJ,NYJ,35,14,0,14,0,FALSE,Kickoff,NA,40,"C.Catanzaro kicks 65 yards from NYJ 35 to end zone, Touchback."
+2017101505,2404,2,0:09:00,NE,NE,35,14,14,14,14,FALSE,Kickoff,NA,40,"S.Gostkowski kicks 65 yards from NE 35 to end zone, Touchback."
+2017101505,2470,3,15:00:00,NYJ,NYJ,35,14,14,14,14,FALSE,Kickoff,NA,40,"C.Catanzaro kicks 65 yards from NYJ 35 to end zone, Touchback."
+2017101505,3439,4,14:10:00,NE,NE,35,14,24,14,24,FALSE,Kickoff,NA,40,"S.Gostkowski kicks 65 yards from NE 35 to end zone, Touchback."
+2017101503,37,1,15:00:00,MIN,MIN,35,0,0,0,0,FALSE,Kickoff,NA,40,"K.Forbath kicks 65 yards from MIN 35 to end zone, Touchback."
+2017101503,1610,2,7:22:00,MIN,MIN,35,14,7,14,7,FALSE,Kickoff,NA,40,"K.Forbath kicks 65 yards from MIN 35 to end zone, Touchback."
+2017101503,2091,2,1:51:00,GB,GB,35,14,10,14,10,FALSE,Kickoff,NA,40,"M.Crosby kicks 65 yards from GB 35 to end zone, Touchback."
+2017101503,2480,3,15:00:00,GB,GB,35,14,10,14,10,FALSE,Kickoff,NA,40,"M.Crosby kicks 65 yards from GB 35 to end zone, Touchback."
+2017101503,3257,4,14:57:00,MIN,MIN,35,20,10,20,10,FALSE,Kickoff,NA,40,"K.Forbath kicks 65 yards from MIN 35 to end zone, Touchback."
+2017101510,602,1,5:04:00,OAK,OAK,35,7,0,7,0,FALSE,Kickoff,NA,40,"G.Tavecchio kicks 65 yards from OAK 35 to end zone, Touchback."
+2017101510,3114,4,7:51:00,OAK,OAK,35,16,14,16,14,FALSE,Kickoff,NA,40,"G.Tavecchio kicks 65 yards from OAK 35 to end zone, Touchback."
+2017101200,35,1,15:00:00,CAR,CAR,35,0,0,0,0,FALSE,Kickoff,NA,40,"G.Gano kicks 65 yards from CAR 35 to end zone, Touchback."
+2017101200,524,1,6:57:00,PHI,PHI,35,0,3,0,3,FALSE,Kickoff,NA,40,"J.Elliott kicks 65 yards from PHI 35 to end zone, Touchback."
+2017101200,786,1,2:17:00,CAR,CAR,35,3,3,3,3,FALSE,Kickoff,NA,40,"G.Gano kicks 65 yards from CAR 35 to end zone, Touchback."
+2017101200,1308,2,10:34:00,CAR,CAR,35,10,3,10,3,FALSE,Kickoff,NA,40,"G.Gano kicks 65 yards from CAR 35 to end zone, Touchback."
+2017101200,2565,3,11:19:00,CAR,CAR,35,13,18,13,18,FALSE,Kickoff,NA,40,"G.Gano kicks 65 yards from CAR 35 to end zone, Touchback."
+2017101200,2729,3,8:02:00,PHI,PHI,35,13,21,13,21,FALSE,Kickoff,NA,40,"J.Elliott kicks 65 yards from PHI 35 to end zone, Touchback."
+2017101200,3081,3,3:23:00,CAR,CAR,35,16,21,16,21,FALSE,Kickoff,NA,40,"G.Gano kicks 65 yards from CAR 35 to end zone, Touchback."
+2017101200,3302,4,14:55:00,PHI,PHI,35,16,28,16,28,FALSE,Kickoff,NA,40,"J.Elliott kicks 65 yards from PHI 35 to end zone, Touchback."
+2017101200,3657,4,8:04:00,CAR,CAR,35,23,28,23,28,FALSE,Kickoff,NA,40,"G.Gano kicks 65 yards from CAR 35 to end zone, Touchback."
+2017101600,510,1,6:45:00,IND,IND,35,3,3,3,3,FALSE,Kickoff,NA,40,"R.Sanchez kicks 65 yards from IND 35 to end zone, Touchback."
+2017101600,1371,2,4:10:00,TEN,TEN,35,9,10,9,10,FALSE,Kickoff,NA,40,"R.Succop kicks 65 yards from TEN 35 to end zone, Touchback."
+2017101600,1730,2,0:14:00,IND,IND,35,9,13,9,13,FALSE,Kickoff,NA,40,"R.Sanchez kicks 65 yards from IND 35 to end zone, Touchback."
+2017101600,1783,3,15:00:00,TEN,TEN,35,9,13,9,13,FALSE,Kickoff,NA,40,"R.Succop kicks 65 yards from TEN 35 to end zone, Touchback."
+2017101600,1926,3,13:50:00,IND,IND,35,9,19,9,19,FALSE,Kickoff,NA,40,"R.Sanchez kicks 65 yards from IND 35 to end zone, Touchback."
+2017101600,3188,4,7:27:00,IND,IND,35,22,22,22,22,FALSE,Kickoff,NA,40,"R.Sanchez kicks 65 yards from IND 35 to end zone, Touchback."
+2017101600,3329,4,5:29:00,TEN,NA,NA,29,22,29,22,FALSE,Kickoff,NA,25,"R.Succop kicks 50 yards from 50 to end zone, Touchback."
+2017101600,3871,4,0:47:00,TEN,TEN,35,36,22,36,22,FALSE,Kickoff,NA,40,"R.Succop kicks 65 yards from TEN 35 to end zone, Touchback."
+2017101501,2095,2,0:03:00,BAL,BAL,35,3,10,3,10,FALSE,Kickoff,NA,40,"J.Tucker kicks 65 yards from BLT 35 to end zone, Touchback."
+2017101501,4154,4,1:37:00,BAL,BAL,35,24,24,24,24,FALSE,Kickoff,NA,40,"J.Tucker kicks 65 yards from BLT 35 to end zone, Touchback."
